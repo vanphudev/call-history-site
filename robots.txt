@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vanphudev.github.io/call-history-site/sitemap.xml
+
