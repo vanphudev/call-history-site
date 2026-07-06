@@ -24,7 +24,10 @@ Recommended Privacy Policy URL for Google Play:
 
 `https://vanphudev.github.io/call-history-site/privacy-policy/`
 
-## Contact Placeholder
+## Contact
 
-The public support channel currently points to GitHub Issues and the developer website. Replace or add a dedicated support email before the Google Play submission if you want the policy pages to show an email address.
+Support email: `vanphu.dev@gmail.com`
 
+Support phone: `0377985402`
+
+Public issue tracker: `https://github.com/vanphudev/call-history-site/issues`
