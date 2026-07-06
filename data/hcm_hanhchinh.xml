@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cơ quan hành chính (Trung tâm phục vụ hành chính công cấp phường/xã) — TP. Hồ Chí Minh (sau sáp nhập 01/7/2025). Tổng hợp 2026-07-06. -->
+<agencies province="TP. Hồ Chí Minh" key="hcm" branch="admin" category="Cơ quan hành chính (Trung tâm phục vụ hành chính công cấp phường/xã)" updated="2026-07-06" count="168">
+    <emergency police="113" fire="114" medical="115" note="Số khẩn cấp chung — dùng khi không có/không chắc số của phường, xã."/>
+    <source>Địa chỉ: danh sách Trung tâm phục vụ hành chính công cấp xã TP.HCM sau sáp nhập 01/7/2025. Điện thoại: bản tổng hợp hành chính công (cần đối chiếu lại).</source>
+    <disclaimer>Thông tin chỉ mang tính THAM KHẢO, có thể CHƯA chính xác hoặc đã được cơ quan nhà nước cập nhật/thay đổi (đặc biệt sau sáp nhập đơn vị hành chính 01/7/2025). Nghiêm cấm sao chép, làm giả. Người dùng TỰ CHỊU mọi rủi ro khi liên hệ; ứng dụng không chịu trách nhiệm pháp lý. Khi khẩn cấp hãy gọi 113 (an ninh trật tự), 114 (cứu hoả), 115 (cấp cứu y tế).</disclaimer>
+    <agency id="DV001" ward="Phường Tân Định" name="Trung tâm phục vụ hành chính công Phường Tân Định">
+        <address>58B Nguyễn Đình Chiểu, Phường Tân Định.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839102126</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=58B%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Chi%E1%BB%83u%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20%C4%90%E1%BB%8Bnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV002" ward="Phường Sài Gòn" name="Trung tâm phục vụ hành chính công Phường Sài Gòn">
+        <address>45 - 47 Lê Duẩn, Phường Sài Gòn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838234223</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=45%20-%2047%20L%C3%AA%20Du%E1%BA%A9n%2C%20Ph%C6%B0%E1%BB%9Dng%20S%C3%A0i%20G%C3%B2n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV003" ward="Phường Bến Thành" name="Trung tâm phục vụ hành chính công Phường Bến Thành">
+        <address>92 Nguyễn Trãi, Phường Bến Thành.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838390856</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=92%20Nguy%E1%BB%85n%20Tr%C3%A3i%2C%20Ph%C6%B0%E1%BB%9Dng%20B%E1%BA%BFn%20Th%C3%A0nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV004" ward="Phường Cầu Ông Lãnh" name="Trung tâm phục vụ hành chính công Phường Cầu Ông Lãnh">
+        <address>105 Trần Đình Xu, Phường Cầu Ông Lãnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838395783</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=105%20Tr%E1%BA%A7n%20%C4%90%C3%ACnh%20Xu%2C%20Ph%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20%C3%94ng%20L%C3%A3nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV005" ward="Phường Bàn Cờ" name="Trung tâm phục vụ hành chính công Phường Bàn Cờ">
+        <address>611/20 Điện Biên Phủ (Số Cũ 611C), Phường Bàn Cờ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838396136</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=611/20%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%20%28S%E1%BB%91%20C%C5%A9%20611C%29%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%A0n%20C%E1%BB%9D.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV006" ward="Phường Xuân Hòa" name="Trung tâm phục vụ hành chính công Phường Xuân Hòa">
+        <address>99 Trần Quốc Thảo (Số Cũ 101), Phường Xuân Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839326868</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=99%20Tr%E1%BA%A7n%20Qu%E1%BB%91c%20Th%E1%BA%A3o%20%28S%E1%BB%91%20C%C5%A9%20101%29%2C%20Ph%C6%B0%E1%BB%9Dng%20Xu%C3%A2n%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV007" ward="Phường Nhiêu Lộc" name="Trung tâm phục vụ hành chính công Phường Nhiêu Lộc">
+        <address>82 Bà Huyện Thanh Quan, Phường Nhiêu Lộc.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839317313</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=82%20B%C3%A0%20Huy%E1%BB%87n%20Thanh%20Quan%2C%20Ph%C6%B0%E1%BB%9Dng%20Nhi%C3%AAu%20L%E1%BB%99c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV008" ward="Phường Vĩnh Hội" name="Trung tâm phục vụ hành chính công Phường Vĩnh Hội">
+        <address>130 Đường 46, Phường Vĩnh Hội.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838261566</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=130%20%C4%90%C6%B0%E1%BB%9Dng%2046%2C%20Ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20H%E1%BB%99i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV009" ward="Phường Khánh Hội" name="Trung tâm phục vụ hành chính công Phường Khánh Hội">
+        <address>531 Vĩnh Khánh, Phường Khánh Hội.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839404977</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=531%20V%C4%A9nh%20Kh%C3%A1nh%2C%20Ph%C6%B0%E1%BB%9Dng%20Kh%C3%A1nh%20H%E1%BB%99i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV010" ward="Phường Xóm Chiếu" name="Trung tâm phục vụ hành chính công Phường Xóm Chiếu">
+        <address>18 Đoàn Như Hài, Phường Xóm Chiếu.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839431124</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=18%20%C4%90o%C3%A0n%20Nh%C6%B0%20H%C3%A0i%2C%20Ph%C6%B0%E1%BB%9Dng%20X%C3%B3m%20Chi%E1%BA%BFu.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV011" ward="Phường Chợ Quán" name="Trung tâm phục vụ hành chính công Phường Chợ Quán">
+        <address>53 A Trần Phú, Phường Chợ Quán.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909846555</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=53%20A%20Tr%E1%BA%A7n%20Ph%C3%BA%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%E1%BB%A3%20Qu%C3%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV012" ward="Phường An Đông" name="Trung tâm phục vụ hành chính công Phường An Đông">
+        <address>45 Phước Hưng, Phường An Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0938801979</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=45%20Ph%C6%B0%E1%BB%9Bc%20H%C6%B0ng%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV013" ward="Phường Chợ Lớn" name="Trung tâm phục vụ hành chính công Phường Chợ Lớn">
+        <address>527 Hồng Bàng, Phường Chợ Lớn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0962947979</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=527%20H%E1%BB%93ng%20B%C3%A0ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%E1%BB%A3%20L%E1%BB%9Bn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV014" ward="Phường Bình Tiên" name="Trung tâm phục vụ hành chính công Phường Bình Tiên">
+        <address>107 Cao Văn Lầu, Phường Bình Tiên.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838552700</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=107%20Cao%20V%C4%83n%20L%E1%BA%A7u%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Ti%C3%AAn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV015" ward="Phường Bình Tây" name="Trung tâm phục vụ hành chính công Phường Bình Tây">
+        <address>154 Tháp Mười, Phường Bình Tây.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839601096</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=154%20Th%C3%A1p%20M%C6%B0%E1%BB%9Di%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20T%C3%A2y.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV016" ward="Phường Bình Phú" name="Trung tâm phục vụ hành chính công Phường Bình Phú">
+        <address>15 Chợ Lớn, Phường Bình Phú.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837551430</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=15%20Ch%E1%BB%A3%20L%E1%BB%9Bn%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Ph%C3%BA.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV017" ward="Phường Phú Lâm" name="Trung tâm phục vụ hành chính công Phường Phú Lâm">
+        <address>152 Đặng Nguyên Cẩn, Phường Phú Lâm.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838754751</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=152%20%C4%90%E1%BA%B7ng%20Nguy%C3%AAn%20C%E1%BA%A9n%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%C3%A2m.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV018" ward="Phường Tân Hưng" name="Trung tâm phục vụ hành chính công Phường Tân Hưng">
+        <address>Số 9 Đường 2A Phường Tân Hưng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0919404656</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%209%20%C4%90%C6%B0%E1%BB%9Dng%202A%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20H%C6%B0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV019" ward="Phường Tân Thuận" name="Trung tâm phục vụ hành chính công Phường Tân Thuận">
+        <address>Số 342 Huỳnh Tấn Phát, Phường Tân Thuận.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0907291329</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20342%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Thu%E1%BA%ADn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV020" ward="Phường Phú Thuận" name="Trung tâm phục vụ hành chính công Phường Phú Thuận">
+        <address>Số 1203 Huỳnh Tấn Phát, Phường Phú Thuận.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0983914778</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201203%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Thu%E1%BA%ADn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV021" ward="Phường Tân Mỹ" name="Trung tâm phục vụ hành chính công Phường Tân Mỹ">
+        <address>Số 7 Đường Tân Phú, Phường Tân Mỹ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0902157779</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%207%20%C4%90%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ph%C3%BA%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20M%E1%BB%B9.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV022" ward="Phường Chánh Hưng" name="Trung tâm phục vụ hành chính công Phường Chánh Hưng">
+        <address>- Trụ Sở Chính: 39 Dương Bạch Mai, Phường Chánh Hưng;
+- Điểm Tiếp Nhận Thứ Nhất: 210-212 Âu Dương Lân, Phường Chánh Hưng;
+- Điểm Tiếp Nhận Thứ Hai: 625-625A Hưng Phú, Phường Chánh Hưng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02822206789</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=-%20Tr%E1%BB%A5%20S%E1%BB%9F%20Ch%C3%ADnh%3A%2039%20D%C6%B0%C6%A1ng%20B%E1%BA%A1ch%20Mai%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20H%C6%B0ng%3B%0A-%20%C4%90i%E1%BB%83m%20Ti%E1%BA%BFp%20Nh%E1%BA%ADn%20Th%E1%BB%A9%20Nh%E1%BA%A5t%3A%20210-212%20%C3%82u%20D%C6%B0%C6%A1ng%20L%C3%A2n%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20H%C6%B0ng%3B%0A-%20%C4%90i%E1%BB%83m%20Ti%E1%BA%BFp%20Nh%E1%BA%ADn%20Th%E1%BB%A9%20Hai%3A%20625-625A%20H%C6%B0ng%20Ph%C3%BA%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20H%C6%B0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV023" ward="Phường Bình Đông" name="Trung tâm phục vụ hành chính công Phường Bình Đông">
+        <address>1094 Tạ Quang Bửu, Phường Bình Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838568756</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1094%20T%E1%BA%A1%20Quang%20B%E1%BB%ADu%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV024" ward="Phường Phú Định" name="Trung tâm phục vụ hành chính công Phường Phú Định">
+        <address>- Trụ Sở Chính: 184 Lưu Hữu Phước, Phường Phú Định;
+- Điểm Tiếp Nhận Thứ Nhất: 942 Nguyễn Duy, Phường Phú Định;
+- Điểm Tiếp Nhận Thứ Hai: 450 Phú Định, Phường Phú Định.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838555565</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=-%20Tr%E1%BB%A5%20S%E1%BB%9F%20Ch%C3%ADnh%3A%20184%20L%C6%B0u%20H%E1%BB%AFu%20Ph%C6%B0%E1%BB%9Bc%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20%C4%90%E1%BB%8Bnh%3B%0A-%20%C4%90i%E1%BB%83m%20Ti%E1%BA%BFp%20Nh%E1%BA%ADn%20Th%E1%BB%A9%20Nh%E1%BA%A5t%3A%20942%20Nguy%E1%BB%85n%20Duy%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20%C4%90%E1%BB%8Bnh%3B%0A-%20%C4%90i%E1%BB%83m%20Ti%E1%BA%BFp%20Nh%E1%BA%ADn%20Th%E1%BB%A9%20Hai%3A%20450%20Ph%C3%BA%20%C4%90%E1%BB%8Bnh%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20%C4%90%E1%BB%8Bnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV025" ward="Phường Diên Hồng" name="Trung tâm phục vụ hành chính công Phường Diên Hồng">
+        <address>1A Thành Thái, Phường Diên Hồng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0983035141</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1A%20Th%C3%A0nh%20Th%C3%A1i%2C%20Ph%C6%B0%E1%BB%9Dng%20Di%C3%AAn%20H%E1%BB%93ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV026" ward="Phường Hòa Hưng" name="Trung tâm phục vụ hành chính công Phường Hòa Hưng">
+        <address>A8 Châu Thới, Phường Hòa Hưng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838646278</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=A8%20Ch%C3%A2u%20Th%E1%BB%9Bi%2C%20Ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20H%C6%B0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV027" ward="Phường Vườn Lài" name="Trung tâm phục vụ hành chính công Phường Vườn Lài">
+        <address>168 Hùng Vương, Phường Vườn Lài.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838359477</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903660779</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=168%20H%C3%B9ng%20V%C6%B0%C6%A1ng%2C%20Ph%C6%B0%E1%BB%9Dng%20V%C6%B0%E1%BB%9Dn%20L%C3%A0i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV028" ward="Phường Minh Phụng" name="Trung tâm phục vụ hành chính công Phường Minh Phụng">
+        <address>183 A Lý Nam Đế, Phường Minh Phụng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838553805</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=183%20A%20L%C3%BD%20Nam%20%C4%90%E1%BA%BF%2C%20Ph%C6%B0%E1%BB%9Dng%20Minh%20Ph%E1%BB%A5ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV029" ward="Phường Bình Thới" name="Trung tâm phục vụ hành chính công Phường Bình Thới">
+        <address>270 Bình Thới, Phường Bình Thới.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838580500</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=270%20B%C3%ACnh%20Th%E1%BB%9Bi%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Th%E1%BB%9Bi.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV030" ward="Phường Hòa Bình" name="Trung tâm phục vụ hành chính công Phường Hòa Bình">
+        <address>347 Lạc Long Quân, Phường Hòa Bình.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838600988</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=347%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%2C%20Ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20B%C3%ACnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV031" ward="Phường Phú Thọ" name="Trung tâm phục vụ hành chính công Phường Phú Thọ">
+        <address>233 - 235 Lê Đại Hành, Phường Phú Thọ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906729755</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=233%20-%20235%20L%C3%AA%20%C4%90%E1%BA%A1i%20H%C3%A0nh%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BB%8D.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV032" ward="Phường Đông Hưng Thuận" name="Trung tâm phục vụ hành chính công Phường Đông Hưng Thuận">
+        <address>Số 68, Đường TTN14, Phường Đông Hưng Thuận.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838833587</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2068%2C%20%C4%90%C6%B0%E1%BB%9Dng%20TTN14%2C%20Ph%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4ng%20H%C6%B0ng%20Thu%E1%BA%ADn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV033" ward="Phường Trung Mỹ Tây" name="Trung tâm phục vụ hành chính công Phường Trung Mỹ Tây">
+        <address>Số 036, Phường Trung Mỹ Tây.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837157559</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20036%2C%20Ph%C6%B0%E1%BB%9Dng%20Trung%20M%E1%BB%B9%20T%C3%A2y.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV034" ward="Phường Tân Thới Hiệp" name="Trung tâm phục vụ hành chính công Phường Tân Thới Hiệp">
+        <address>Số 226 Trương Thị Hoa, Phường Tân Thới Hiệp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837171423</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20226%20Tr%C6%B0%C6%A1ng%20Th%E1%BB%8B%20Hoa%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Th%E1%BB%9Bi%20Hi%E1%BB%87p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV035" ward="Phường Thới An" name="Trung tâm phục vụ hành chính công Phường Thới An">
+        <address>Số 340 Lê Văn Khương, Phường Thới An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837173560</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20340%20L%C3%AA%20V%C4%83n%20Kh%C6%B0%C6%A1ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%9Bi%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV036" ward="Phường An Phú Đông" name="Trung tâm phục vụ hành chính công Phường An Phú Đông">
+        <address>Số 540 Hà Huy Giáp, Phường An Phú Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838919001</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20540%20H%C3%A0%20Huy%20Gi%C3%A1p%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20Ph%C3%BA%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV037" ward="Phường Bình Tân" name="Trung tâm phục vụ hành chính công Phường Bình Tân">
+        <address>43 Đường Số 16, Phường Bình Tân.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837652524</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=43%20%C4%90%C6%B0%E1%BB%9Dng%20S%E1%BB%91%2016%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20T%C3%A2n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV038" ward="Phường Bình Hưng Hòa" name="Trung tâm phục vụ hành chính công Phường Bình Hưng Hòa">
+        <address>621 Tân Kỳ Tân Quý, Phường Bình Hưng Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837503732</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=621%20T%C3%A2n%20K%E1%BB%B3%20T%C3%A2n%20Qu%C3%BD%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20H%C6%B0ng%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV039" ward="Phường Bình Trị Đông" name="Trung tâm phục vụ hành chính công Phường Bình Trị Đông">
+        <address>162 Mã Lò, Phường Bình Trị Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913734378</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=162%20M%C3%A3%20L%C3%B2%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Tr%E1%BB%8B%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV040" ward="Phường An Lạc" name="Trung tâm phục vụ hành chính công Phường An Lạc">
+        <address>521 Kinh Dương Vương, Phường An Lạc.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0983132123</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=521%20Kinh%20D%C6%B0%C6%A1ng%20V%C6%B0%C6%A1ng%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20L%E1%BA%A1c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV041" ward="Phường Tân Tạo" name="Trung tâm phục vụ hành chính công Phường Tân Tạo">
+        <address>1409 Tỉnh Lộ 10, Phường Tân Tạo.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0935123236</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1409%20T%E1%BB%89nh%20L%E1%BB%99%2010%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20T%E1%BA%A1o.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV042" ward="Phường Thạnh Mỹ Tây" name="Trung tâm phục vụ hành chính công Phường Thạnh Mỹ Tây">
+        <address>85/16 Phạm Viết Chánh, Phường Thạnh Mỹ Tây.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838404112</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=85/16%20Ph%E1%BA%A1m%20Vi%E1%BA%BFt%20Ch%C3%A1nh%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BA%A1nh%20M%E1%BB%B9%20T%C3%A2y.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV043" ward="Phường Bình Lợi Trung" name="Trung tâm phục vụ hành chính công Phường Bình Lợi Trung">
+        <address>133 Nguyễn Văn Đậu, Phường Bình Lợi Trung.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02835533088</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=133%20Nguy%E1%BB%85n%20V%C4%83n%20%C4%90%E1%BA%ADu%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20L%E1%BB%A3i%20Trung.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV044" ward="Phường Bình Thạnh" name="Trung tâm phục vụ hành chính công Phường Bình Thạnh">
+        <address>Số 6 Phan Đăng Lưu, Phường Bình Thạnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838417902</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%206%20Phan%20%C4%90%C4%83ng%20L%C6%B0u%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Th%E1%BA%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV045" ward="Phường Gia Định" name="Trung tâm phục vụ hành chính công Phường Gia Định">
+        <address>98 Lê Lê Văn Duyệt, Phường Gia Định.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838412019</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=98%20L%C3%AA%20L%C3%AA%20V%C4%83n%20Duy%E1%BB%87t%2C%20Ph%C6%B0%E1%BB%9Dng%20Gia%20%C4%90%E1%BB%8Bnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV046" ward="Phường Bình Quới" name="Trung tâm phục vụ hành chính công Phường Bình Quới">
+        <address>Số 1 Khu Hành Chính Thanh Đa, Phường Bình Quới.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02835566641</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%20Khu%20H%C3%A0nh%20Ch%C3%ADnh%20Thanh%20%C4%90a%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Qu%E1%BB%9Bi.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV047" ward="Phường Hạnh Thông" name="Trung tâm phục vụ hành chính công Phường Hạnh Thông">
+        <address>306 (Số Cũ 304) Nguyễn Văn Nghi, Phường Hạnh Thông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838946157</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=306%20%28S%E1%BB%91%20C%C5%A9%20304%29%20Nguy%E1%BB%85n%20V%C4%83n%20Nghi%2C%20Ph%C6%B0%E1%BB%9Dng%20H%E1%BA%A1nh%20Th%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV048" ward="Phường An Nhơn" name="Trung tâm phục vụ hành chính công Phường An Nhơn">
+        <address>Số 1C Nguyễn Văn Lượng, Phường An Nhơn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909425079</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201C%20Nguy%E1%BB%85n%20V%C4%83n%20L%C6%B0%E1%BB%A3ng%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20Nh%C6%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV049" ward="Phường Gò Vấp" name="Trung tâm phục vụ hành chính công Phường Gò Vấp">
+        <address>332 (Số Cũ 19) Quang Trung, Phường Gò Vấp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838941929</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=332%20%28S%E1%BB%91%20C%C5%A9%2019%29%20Quang%20Trung%2C%20Ph%C6%B0%E1%BB%9Dng%20G%C3%B2%20V%E1%BA%A5p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV050" ward="Phường Thông Tây Hội" name="Trung tâm phục vụ hành chính công Phường Thông Tây Hội">
+        <address>175 Nguyễn Văn Khối, Phường Thông Tây Hội.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02835899733</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=175%20Nguy%E1%BB%85n%20V%C4%83n%20Kh%E1%BB%91i%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%C3%B4ng%20T%C3%A2y%20H%E1%BB%99i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV051" ward="Phường An Hội Tây" name="Trung tâm phục vụ hành chính công Phường An Hội Tây">
+        <address>397 Phan Huy Ích, Phường An Hội Tây.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906840685</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=397%20Phan%20Huy%20%C3%8Dch%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20H%E1%BB%99i%20T%C3%A2y.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV052" ward="Phường An Hội Đông" name="Trung tâm phục vụ hành chính công Phường An Hội Đông">
+        <address>330 (Số Cũ 182) Thống Nhất, Phường An Hội Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0938020280</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=330%20%28S%E1%BB%91%20C%C5%A9%20182%29%20Th%E1%BB%91ng%20Nh%E1%BA%A5t%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20H%E1%BB%99i%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV053" ward="Phường Đức Nhuận" name="Trung tâm phục vụ hành chính công Phường Đức Nhuận">
+        <address>744 Nguyễn Kiệm, Phường Đức Nhuận.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02836367113</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=744%20Nguy%E1%BB%85n%20Ki%E1%BB%87m%2C%20Ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%A9c%20Nhu%E1%BA%ADn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV054" ward="Phường Phú Nhuận" name="Trung tâm phục vụ hành chính công Phường Phú Nhuận">
+        <address>159 Nguyễn Văn Trỗi, Phường Phú Nhuận.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838443921</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=159%20Nguy%E1%BB%85n%20V%C4%83n%20Tr%E1%BB%97i%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Nhu%E1%BA%ADn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV055" ward="Phường Cầu Kiệu" name="Trung tâm phục vụ hành chính công Phường Cầu Kiệu">
+        <address>458 Phan Xích Long, Phường Cầu Kiệu.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02839903742</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=458%20Phan%20X%C3%ADch%20Long%2C%20Ph%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20Ki%E1%BB%87u.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV056" ward="Phường Tân Sơn Hòa" name="Trung tâm phục vụ hành chính công Phường Tân Sơn Hòa">
+        <address>291 Lê Văn Sỹ, Phường Tân Sơn Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0989353992</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=291%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV057" ward="Phường Tân Sơn Nhất" name="Trung tâm phục vụ hành chính công Phường Tân Sơn Nhất">
+        <address>25/4-6 Hoàng Việt, Phường Tân Sơn Nhất.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838445063</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=25/4-6%20Ho%C3%A0ng%20Vi%E1%BB%87t%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20Nh%E1%BA%A5t.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV058" ward="Phường Tân Hòa" name="Trung tâm phục vụ hành chính công Phường Tân Hòa">
+        <address>356A Bắc Hải, Phường Tân Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908899947</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=356A%20B%E1%BA%AFc%20H%E1%BA%A3i%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV059" ward="Phường Bảy Hiền" name="Trung tâm phục vụ hành chính công Phường Bảy Hiền">
+        <address>1129/20 (Số Cũ 2025/20) Lạc Long Quân, Phường Bảy Hiền.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903777425</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1129/20%20%28S%E1%BB%91%20C%C5%A9%202025/20%29%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%2C%20Ph%C6%B0%E1%BB%9Dng%20B%E1%BA%A3y%20Hi%E1%BB%81n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV060" ward="Phường Tân Bình" name="Trung tâm phục vụ hành chính công Phường Tân Bình">
+        <address>387A Trường Chinh, Phường Tân Bình.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918224417</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=387A%20Tr%C6%B0%E1%BB%9Dng%20Chinh%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20B%C3%ACnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV061" ward="Phường Tân Sơn" name="Trung tâm phục vụ hành chính công Phường Tân Sơn">
+        <address>822 (Số Cũ 8/6) Trường Chinh, Phường Tân Sơn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0898899877</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=822%20%28S%E1%BB%91%20C%C5%A9%208/6%29%20Tr%C6%B0%E1%BB%9Dng%20Chinh%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV062" ward="Phường Tây Thạnh" name="Trung tâm phục vụ hành chính công Phường Tây Thạnh">
+        <address>200/12 Nguyễn Hữu Tiến, Phường Tây Thạnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909756139</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=200/12%20Nguy%E1%BB%85n%20H%E1%BB%AFu%20Ti%E1%BA%BFn%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20Th%E1%BA%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV063" ward="Phường Tân Sơn Nhì" name="Trung tâm phục vụ hành chính công Phường Tân Sơn Nhì">
+        <address>48 Tân Quý, Phường Tân Sơn Nhì.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903683311</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=48%20T%C3%A2n%20Qu%C3%BD%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20Nh%C3%AC.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV064" ward="Phường Phú Thọ Hòa" name="Trung tâm phục vụ hành chính công Phường Phú Thọ Hòa">
+        <address>146 Độc Lập, Phường Phú Thọ Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0934111986</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=146%20%C4%90%E1%BB%99c%20L%E1%BA%ADp%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BB%8D%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV065" ward="Phường Phú Thạnh" name="Trung tâm phục vụ hành chính công Phường Phú Thạnh">
+        <address>275 Nguyễn Sơn, Phường Phú Thạnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903391029</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=275%20Nguy%E1%BB%85n%20S%C6%A1n%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BA%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV066" ward="Phường Tân Phú" name="Trung tâm phục vụ hành chính công Phường Tân Phú">
+        <address>525 Âu Cơ, Phường Tân Phú.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0902379327</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=525%20%C3%82u%20C%C6%A1%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ph%C3%BA.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV067" ward="Xã Tân Nhựt" name="Trung tâm phục vụ hành chính công Xã Tân Nhựt">
+        <address>Số 79, Đường Tân Túc, Xã Tân Nhựt.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908856970</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0904431099</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2079%2C%20%C4%90%C6%B0%E1%BB%9Dng%20T%C3%A2n%20T%C3%BAc%2C%20X%C3%A3%20T%C3%A2n%20Nh%E1%BB%B1t.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV068" ward="Xã Bình Chánh" name="Trung tâm phục vụ hành chính công Xã Bình Chánh">
+        <address>Số 345, Đường Trịnh Như Khuê, Xã Bình Chánh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0901481788</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0901060806</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20345%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Tr%E1%BB%8Bnh%20Nh%C6%B0%20Khu%C3%AA%2C%20X%C3%A3%20B%C3%ACnh%20Ch%C3%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV069" ward="Xã Bình Hưng" name="Trung tâm phục vụ hành chính công Xã Bình Hưng">
+        <address>A10/26A Đường Số 10, Khu Dân Cư Bình Hưng, Xã Bình Hưng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0931869938</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908108893</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=A10/26A%20%C4%90%C6%B0%E1%BB%9Dng%20S%E1%BB%91%2010%2C%20Khu%20D%C3%A2n%20C%C6%B0%20B%C3%ACnh%20H%C6%B0ng%2C%20X%C3%A3%20B%C3%ACnh%20H%C6%B0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV070" ward="Xã Hưng Long" name="Trung tâm phục vụ hành chính công Xã Hưng Long">
+        <address>564 Đoàn Nguyễn Tuấn, Xã Hưng Long.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909501338</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909690337</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=564%20%C4%90o%C3%A0n%20Nguy%E1%BB%85n%20Tu%E1%BA%A5n%2C%20X%C3%A3%20H%C6%B0ng%20Long.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV071" ward="Xã Bình Lợi" name="Trung tâm phục vụ hành chính công Xã Bình Lợi">
+        <address>Số 1905, Đường Trần Văn Giàu, Xã Bình Lợi.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0937048567</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918091232</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201905%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Tr%E1%BA%A7n%20V%C4%83n%20Gi%C3%A0u%2C%20X%C3%A3%20B%C3%ACnh%20L%E1%BB%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV072" ward="Xã Vĩnh Lộc" name="Trung tâm phục vụ hành chính công Xã Vĩnh Lộc">
+        <address>F7/16 Hương Lộ 80, Xã Vĩnh Lộc.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0919389207</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918117653</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=F7/16%20H%C6%B0%C6%A1ng%20L%E1%BB%99%2080%2C%20X%C3%A3%20V%C4%A9nh%20L%E1%BB%99c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV073" ward="Xã Tân Vĩnh Lộc" name="Trung tâm phục vụ hành chính công Xã Tân Vĩnh Lộc">
+        <address>2206 Đường Trần Văn Giàu, Xã Tân Vĩnh Lộc.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909539800</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909560279</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=2206%20%C4%90%C6%B0%E1%BB%9Dng%20Tr%E1%BA%A7n%20V%C4%83n%20Gi%C3%A0u%2C%20X%C3%A3%20T%C3%A2n%20V%C4%A9nh%20L%E1%BB%99c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV074" ward="Xã Bình Khánh" name="Trung tâm phục vụ hành chính công Xã Bình Khánh">
+        <address>Ấp Bình An 1, Xã Bình Khánh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0919134505</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20B%C3%ACnh%20An%201%2C%20X%C3%A3%20B%C3%ACnh%20Kh%C3%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV075" ward="Xã An Thới Đông" name="Trung tâm phục vụ hành chính công Xã An Thới Đông">
+        <address>Ấp An Hòa 1, Xã An Thới Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0949093902</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20An%20H%C3%B2a%201%2C%20X%C3%A3%20An%20Th%E1%BB%9Bi%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV076" ward="Xã Cần Giờ" name="Trung tâm phục vụ hành chính công Xã Cần Giờ">
+        <address>Số 48 Đường Lương Văn Nho, Xã Cần Giờ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906869606</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2048%20%C4%90%C6%B0%E1%BB%9Dng%20L%C6%B0%C6%A1ng%20V%C4%83n%20Nho%2C%20X%C3%A3%20C%E1%BA%A7n%20Gi%E1%BB%9D.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV077" ward="Xã Thạnh An" name="Trung tâm phục vụ hành chính công Xã Thạnh An">
+        <address>Ấp Thạnh Bình, Xã Thạnh An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0902953100</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Th%E1%BA%A1nh%20B%C3%ACnh%2C%20X%C3%A3%20Th%E1%BA%A1nh%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV078" ward="Xã An Nhơn Tây" name="Trung tâm phục vụ hành chính công Xã An Nhơn Tây">
+        <address>1407 Tỉnh Lộ 7, Ấp Chợ Củ 2, Xã An Nhơn Tây.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913133727</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0982247788</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1407%20T%E1%BB%89nh%20L%E1%BB%99%207%2C%20%E1%BA%A4p%20Ch%E1%BB%A3%20C%E1%BB%A7%202%2C%20X%C3%A3%20An%20Nh%C6%A1n%20T%C3%A2y.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV079" ward="Xã Thái Mỹ" name="Trung tâm phục vụ hành chính công Xã Thái Mỹ">
+        <address>712 Phan Văn Khải, Ấp Phước Hưng, Xã Thái Mỹ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838929336</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=712%20Phan%20V%C4%83n%20Kh%E1%BA%A3i%2C%20%E1%BA%A4p%20Ph%C6%B0%E1%BB%9Bc%20H%C6%B0ng%2C%20X%C3%A3%20Th%C3%A1i%20M%E1%BB%B9.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV080" ward="Xã Nhuận Đức" name="Trung tâm phục vụ hành chính công Xã Nhuận Đức">
+        <address>1A Bà Thiên, Ấp Ngã Tư, Xã Nhuận Đức.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908169934</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838920318</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1A%20B%C3%A0%20Thi%C3%AAn%2C%20%E1%BA%A4p%20Ng%C3%A3%20T%C6%B0%2C%20X%C3%A3%20Nhu%E1%BA%ADn%20%C4%90%E1%BB%A9c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV081" ward="Xã Tân An Hội" name="Trung tâm phục vụ hành chính công Xã Tân An Hội">
+        <address>77 Tỉnh Lộ 8, Xã Tân An Hội.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0901404999</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0932686666</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=77%20T%E1%BB%89nh%20L%E1%BB%99%208%2C%20X%C3%A3%20T%C3%A2n%20An%20H%E1%BB%99i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV082" ward="Xã Củ Chi" name="Trung tâm phục vụ hành chính công Xã Củ Chi">
+        <address>342 Phan Văn Khải, Ấp Đình, Xã Củ Chi.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0907279579</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0907167116</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=342%20Phan%20V%C4%83n%20Kh%E1%BA%A3i%2C%20%E1%BA%A4p%20%C4%90%C3%ACnh%2C%20X%C3%A3%20C%E1%BB%A7%20Chi.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV083" ward="Xã Phú Hòa Đông" name="Trung tâm phục vụ hành chính công Xã Phú Hòa Đông">
+        <address>269 Tỉnh Lộ 8, Ấp 2A, Xã Phú Hòa Đông.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0964793096</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908549494</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=269%20T%E1%BB%89nh%20L%E1%BB%99%208%2C%20%E1%BA%A4p%202A%2C%20X%C3%A3%20Ph%C3%BA%20H%C3%B2a%20%C4%90%C3%B4ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV084" ward="Xã Bình Mỹ" name="Trung tâm phục vụ hành chính công Xã Bình Mỹ">
+        <address>1627 Tỉnh Lộ 8, Ấp 1A, Xã Bình Mỹ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0979260218</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1627%20T%E1%BB%89nh%20L%E1%BB%99%208%2C%20%E1%BA%A4p%201A%2C%20X%C3%A3%20B%C3%ACnh%20M%E1%BB%B9.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV085" ward="Xã Hóc Môn" name="Trung tâm phục vụ hành chính công Xã Hóc Môn">
+        <address>Số 01, Lý Thường Kiệt, Xã Hóc Môn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0901345346</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2001%2C%20L%C3%BD%20Th%C6%B0%E1%BB%9Dng%20Ki%E1%BB%87t%2C%20X%C3%A3%20H%C3%B3c%20M%C3%B4n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV086" ward="Xã Bà Điểm" name="Trung tâm phục vụ hành chính công Xã Bà Điểm">
+        <address>14/9 Phan Văn Hớn, Ấp Tiền Lân 1, Xã Bà Điểm.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903751199</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=14/9%20Phan%20V%C4%83n%20H%E1%BB%9Bn%2C%20%E1%BA%A4p%20Ti%E1%BB%81n%20L%C3%A2n%201%2C%20X%C3%A3%20B%C3%A0%20%C4%90i%E1%BB%83m.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV087" ward="Xã Đông Thạnh" name="Trung tâm phục vụ hành chính công Xã Đông Thạnh">
+        <address>250 Ấp 54, Đường Đặng Thúc Vịnh, Xã Đông Thạnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0938004411</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=250%20%E1%BA%A4p%2054%2C%20%C4%90%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%B7ng%20Th%C3%BAc%20V%E1%BB%8Bnh%2C%20X%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV088" ward="Xã Xuân Thới Sơn" name="Trung tâm phục vụ hành chính công Xã Xuân Thới Sơn">
+        <address>Số 1A Lê Thị Kim, Ấp 11, Xã Xuân Thới Sơn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02838910467</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201A%20L%C3%AA%20Th%E1%BB%8B%20Kim%2C%20%E1%BA%A4p%2011%2C%20X%C3%A3%20Xu%C3%A2n%20Th%E1%BB%9Bi%20S%C6%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV089" ward="Xã Nhà Bè" name="Trung tâm phục vụ hành chính công Xã Nhà Bè">
+        <address>330 Nguyễn Bình, Xã Nhà Bè.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02836222444</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=330%20Nguy%E1%BB%85n%20B%C3%ACnh%2C%20X%C3%A3%20Nh%C3%A0%20B%C3%A8.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV090" ward="Xã Hiệp Phước" name="Trung tâm phục vụ hành chính công Xã Hiệp Phước">
+        <address>209 Nguyễn Văn Tạo, Xã Hiệp Phước.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02837801716</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=209%20Nguy%E1%BB%85n%20V%C4%83n%20T%E1%BA%A1o%2C%20X%C3%A3%20Hi%E1%BB%87p%20Ph%C6%B0%E1%BB%9Bc.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV091" ward="Phường An Khánh" name="Trung tâm phục vụ hành chính công Phường An Khánh">
+        <address>171/1 Lương Định Của, Phường An Khánh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918010000</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=171/1%20L%C6%B0%C6%A1ng%20%C4%90%E1%BB%8Bnh%20C%E1%BB%A7a%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20Kh%C3%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV092" ward="Phường Bình Trưng" name="Trung tâm phục vụ hành chính công Phường Bình Trưng">
+        <address>8 Hồ Thị Nhung, Phường Bình Trưng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906242682</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=8%20H%E1%BB%93%20Th%E1%BB%8B%20Nhung%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Tr%C6%B0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV093" ward="Phường Cát Lái" name="Trung tâm phục vụ hành chính công Phường Cát Lái">
+        <address>441A Nguyễn Thị Định, Phường Cát Lái.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903045044</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=441A%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20%C4%90%E1%BB%8Bnh%2C%20Ph%C6%B0%E1%BB%9Dng%20C%C3%A1t%20L%C3%A1i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV094" ward="Phường Phước Long" name="Trung tâm phục vụ hành chính công Phường Phước Long">
+        <address>616 Đỗ Xuân Hợp, Phường Phước Long.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908414868</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=616%20%C4%90%E1%BB%97%20Xu%C3%A2n%20H%E1%BB%A3p%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C6%B0%E1%BB%9Bc%20Long.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV095" ward="Phường Long Trường" name="Trung tâm phục vụ hành chính công Phường Long Trường">
+        <address>893 Nguyễn Duy Trinh, Phường Long Trường.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903335533</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=893%20Nguy%E1%BB%85n%20Duy%20Trinh%2C%20Ph%C6%B0%E1%BB%9Dng%20Long%20Tr%C6%B0%E1%BB%9Dng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV096" ward="Phường Long Bình" name="Trung tâm phục vụ hành chính công Phường Long Bình">
+        <address>325 Nguyễn Văn Tăng, Phường Long Bình.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918348012</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=325%20Nguy%E1%BB%85n%20V%C4%83n%20T%C4%83ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Long%20B%C3%ACnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV097" ward="Phường Long Phước" name="Trung tâm phục vụ hành chính công Phường Long Phước">
+        <address>239 Khu Phố Long Thuận, Phường Long Phước.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0901666611</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=239%20Khu%20Ph%E1%BB%91%20Long%20Thu%E1%BA%ADn%2C%20Ph%C6%B0%E1%BB%9Dng%20Long%20Ph%C6%B0%E1%BB%9Bc.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV098" ward="Phường Tăng Nhơn Phú" name="Trung tâm phục vụ hành chính công Phường Tăng Nhơn Phú">
+        <address>29 Lê Văn Việt, Phường Tăng Nhơn Phú.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903846160</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=29%20L%C3%AA%20V%C4%83n%20Vi%E1%BB%87t%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C4%83ng%20Nh%C6%A1n%20Ph%C3%BA.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV099" ward="Phường Linh Xuân" name="Trung tâm phục vụ hành chính công Phường Linh Xuân">
+        <address>1262 Kha Vạn Cân, Phường Linh Xuân.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908506699</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1262%20Kha%20V%E1%BA%A1n%20C%C3%A2n%2C%20Ph%C6%B0%E1%BB%9Dng%20Linh%20Xu%C3%A2n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV100" ward="Phường Tam Bình" name="Trung tâm phục vụ hành chính công Phường Tam Bình">
+        <address>707 Tỉnh Lộ 43, Phường Tam Bình.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918673616</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=707%20T%E1%BB%89nh%20L%E1%BB%99%2043%2C%20Ph%C6%B0%E1%BB%9Dng%20Tam%20B%C3%ACnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV101" ward="Phường Thủ Đức" name="Trung tâm phục vụ hành chính công Phường Thủ Đức">
+        <address>2 Nguyễn Công Trứ, Phường Thủ Đức.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903131683</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=2%20Nguy%E1%BB%85n%20C%C3%B4ng%20Tr%E1%BB%A9%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV102" ward="Phường Hiệp Bình" name="Trung tâm phục vụ hành chính công Phường Hiệp Bình">
+        <address>721 Quốc Lộ 13, Phường Hiệp Bình.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0903394370</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=721%20Qu%E1%BB%91c%20L%E1%BB%99%2013%2C%20Ph%C6%B0%E1%BB%9Dng%20Hi%E1%BB%87p%20B%C3%ACnh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV103" ward="Phường Thủ Dầu Một" name="Trung tâm phục vụ hành chính công Phường Thủ Dầu Một">
+        <address>Số 01, Đường Quang Trung, Phường Thủ Dầu Một.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">1900866665</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2001%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Quang%20Trung%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%A7%20D%E1%BA%A7u%20M%E1%BB%99t.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV104" ward="Phường Bình Dương" name="Trung tâm phục vụ hành chính công Phường Bình Dương">
+        <address>Số 357, Đường Võ Nguyên Giáp, Phường Bình Dương.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743815198</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20357%2C%20%C4%90%C6%B0%E1%BB%9Dng%20V%C3%B5%20Nguy%C3%AAn%20Gi%C3%A1p%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20D%C6%B0%C6%A1ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV105" ward="Phường Phú Lợi" name="Trung tâm phục vụ hành chính công Phường Phú Lợi">
+        <address>Số 438, Đường Phú Lợi, Phường Phú Lợi.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743904872</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20438%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%E1%BB%A3i%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%E1%BB%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV106" ward="Phường Chánh Hiệp" name="Trung tâm phục vụ hành chính công Phường Chánh Hiệp">
+        <address>Số 279, Đường Hồ Văn Cống, Phường Chánh Hiệp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743824243</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20279%2C%20%C4%90%C6%B0%E1%BB%9Dng%20H%E1%BB%93%20V%C4%83n%20C%E1%BB%91ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20Hi%E1%BB%87p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV107" ward="Phường Phú An" name="Trung tâm phục vụ hành chính công Phường Phú An">
+        <address>Số 143, Đường Nguyễn Đức Cảnh, Phường Phú An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743888383</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20143%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20C%E1%BA%A3nh%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV108" ward="Phường Lái Thiêu" name="Trung tâm phục vụ hành chính công Phường Lái Thiêu">
+        <address>Đường Phan Đình Phùng, Phường Lái Thiêu.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743787357</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Phan%20%C4%90%C3%ACnh%20Ph%C3%B9ng%2C%20Ph%C6%B0%E1%BB%9Dng%20L%C3%A1i%20Thi%C3%AAu.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV109" ward="Phường Thuận An" name="Trung tâm phục vụ hành chính công Phường Thuận An">
+        <address>Số 289, Đường Hưng Định 31, Phường Thuận An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743746374</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20289%2C%20%C4%90%C6%B0%E1%BB%9Dng%20H%C6%B0ng%20%C4%90%E1%BB%8Bnh%2031%2C%20Ph%C6%B0%E1%BB%9Dng%20Thu%E1%BA%ADn%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV110" ward="Phường Bình Hòa" name="Trung tâm phục vụ hành chính công Phường Bình Hòa">
+        <address>Đường ĐT743C, Phường Bình Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908256079</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T743C%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV111" ward="Phường An Phú" name="Trung tâm phục vụ hành chính công Phường An Phú">
+        <address>Đường ĐT743, Phường An Phú.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0949552608</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T743%2C%20Ph%C6%B0%E1%BB%9Dng%20An%20Ph%C3%BA.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV112" ward="Phường Thuận Giao" name="Trung tâm phục vụ hành chính công Phường Thuận Giao">
+        <address>Đường Thủ Khoa Huân, Phường Thuận Giao.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913860950</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Th%E1%BB%A7%20Khoa%20Hu%C3%A2n%2C%20Ph%C6%B0%E1%BB%9Dng%20Thu%E1%BA%ADn%20Giao.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV113" ward="Phường Dĩ An" name="Trung tâm phục vụ hành chính công Phường Dĩ An">
+        <address>Đường Số 10, Phường Dĩ An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0789269979</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20S%E1%BB%91%2010%2C%20Ph%C6%B0%E1%BB%9Dng%20D%C4%A9%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV114" ward="Phường Đông Hòa" name="Trung tâm phục vụ hành chính công Phường Đông Hòa">
+        <address>Số 153, Đường Quốc Lộ 1K, Phường Đông Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0949985004</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20153%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Qu%E1%BB%91c%20L%E1%BB%99%201K%2C%20Ph%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4ng%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV115" ward="Phường Tân Đông Hiệp" name="Trung tâm phục vụ hành chính công Phường Tân Đông Hiệp">
+        <address>Số 880, Đường Nguyễn Thị Minh Khai, Phường Tân Đông Hiệp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918699011</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0945880656</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20880%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Minh%20Khai%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20%C4%90%C3%B4ng%20Hi%E1%BB%87p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV116" ward="Phường Tân Uyên" name="Trung tâm phục vụ hành chính công Phường Tân Uyên">
+        <address>Khu Phố 1, Phường Tân Uyên.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743686970</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Khu%20Ph%E1%BB%91%201%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Uy%C3%AAn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV117" ward="Phường Tân Khánh" name="Trung tâm phục vụ hành chính công Phường Tân Khánh">
+        <address>Đường ĐT746, Phường Tân Khánh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743612344</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T746%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Kh%C3%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV118" ward="Phường Tân Hiệp" name="Trung tâm phục vụ hành chính công Phường Tân Hiệp">
+        <address>Đường Nguyễn Khuyến, Phường Tân Hiệp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743655456</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0917172668</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Khuy%E1%BA%BFn%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Hi%E1%BB%87p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV119" ward="Phường Bình Cơ" name="Trung tâm phục vụ hành chính công Phường Bình Cơ">
+        <address>Đường ĐT747A, Phường Bình Cơ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743648464</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T747A%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20C%C6%A1.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV120" ward="Phường Vĩnh Tân" name="Trung tâm phục vụ hành chính công Phường Vĩnh Tân">
+        <address>Đường ĐT742, Phường Vĩnh Tân.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0986870470</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743559732</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T742%2C%20Ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20T%C3%A2n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV121" ward="Phường Bến Cát" name="Trung tâm phục vụ hành chính công Phường Bến Cát">
+        <address>Đường 30 Tháng 4, Phường Bến Cát.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909778479</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0979555727</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%2030%20Th%C3%A1ng%204%2C%20Ph%C6%B0%E1%BB%9Dng%20B%E1%BA%BFn%20C%C3%A1t.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV122" ward="Phường Tây Nam" name="Trung tâm phục vụ hành chính công Phường Tây Nam">
+        <address>Đường ĐT744, Phường Tây Nam.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913629689</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0914924982</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743564445</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T744%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20Nam.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV123" ward="Phường Long Nguyên" name="Trung tâm phục vụ hành chính công Phường Long Nguyên">
+        <address>Đường An Điền 151, Phường Long Nguyên.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0917621712</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0942347891</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20An%20%C4%90i%E1%BB%81n%20151%2C%20Ph%C6%B0%E1%BB%9Dng%20Long%20Nguy%C3%AAn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV124" ward="Phường Thới Hòa" name="Trung tâm phục vụ hành chính công Phường Thới Hòa">
+        <address>Đường Quốc Lộ 13, Phường Thời Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0919450975</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Qu%E1%BB%91c%20L%E1%BB%99%2013%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%9Di%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV125" ward="Phường Hòa Lợi" name="Trung tâm phục vụ hành chính công Phường Hòa Lợi">
+        <address>Số 353, Đường Nguyễn Văn Thành, Phường Hòa Lợi.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743560367</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0938882779</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20353%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20V%C4%83n%20Th%C3%A0nh%2C%20Ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20L%E1%BB%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV126" ward="Phường Chánh Phú Hòa" name="Trung tâm phục vụ hành chính công Phường Chánh Phú Hòa">
+        <address>Đường Nguyễn Văn Thành, Phường Chánh Phú Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0946441118</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0902708712</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20V%C4%83n%20Th%C3%A0nh%2C%20Ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20Ph%C3%BA%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV127" ward="Xã Bàu Bàng" name="Trung tâm phục vụ hành chính công Xã Bàu Bàng">
+        <address>Đường N17-5A, Xã Bàu Bàng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913473975</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20N17-5A%2C%20X%C3%A3%20B%C3%A0u%20B%C3%A0ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV128" ward="Xã Trừ Văn Thố" name="Trung tâm phục vụ hành chính công Xã Trừ Văn Thố">
+        <address>Đường ĐT750, Xã Trừ Văn Thố.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0911944527</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T750%2C%20X%C3%A3%20Tr%E1%BB%AB%20V%C4%83n%20Th%E1%BB%91.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV129" ward="Xã Phú Giáo" name="Trung tâm phục vụ hành chính công Xã Phú Giáo">
+        <address>Số 16A, Đường Trần Quang Diệu, Xã Phú Giáo.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0964809126</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908467677</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2016A%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Tr%E1%BA%A7n%20Quang%20Di%E1%BB%87u%2C%20X%C3%A3%20Ph%C3%BA%20Gi%C3%A1o.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV130" ward="Xã Phước Hòa" name="Trung tâm phục vụ hành chính công Xã Phước Hòa">
+        <address>Số 410, Đường ĐT741, Xã Phước Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0985260630</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20410%2C%20%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T741%2C%20X%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV131" ward="Xã Phước Thành" name="Trung tâm phục vụ hành chính công Xã Phước Thành">
+        <address>Đường ĐH508, Xã Phước Thành.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0986754606</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0914131979</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90H508%2C%20X%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20Th%C3%A0nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV132" ward="Xã An Long" name="Trung tâm phục vụ hành chính công Xã An Long">
+        <address>Số 231, Đường ĐT 741C, Xã An Long.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918660692</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20231%2C%20%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T%20741C%2C%20X%C3%A3%20An%20Long.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV133" ward="Xã Dầu Tiếng" name="Trung tâm phục vụ hành chính công Xã Dầu Tiếng">
+        <address>Số 5, Đường Lê Lợi, Xã Dầu Tiếng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0974666499</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%205%2C%20%C4%90%C6%B0%E1%BB%9Dng%20L%C3%AA%20L%E1%BB%A3i%2C%20X%C3%A3%20D%E1%BA%A7u%20Ti%E1%BA%BFng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV134" ward="Xã Long Hòa" name="Trung tâm phục vụ hành chính công Xã Long Hòa">
+        <address>Đường ĐT749A, Ấp Long Điền, Xã Long Hòa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0967799797</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T749A%2C%20%E1%BA%A4p%20Long%20%C4%90i%E1%BB%81n%2C%20X%C3%A3%20Long%20H%C3%B2a.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV135" ward="Xã Minh Thạnh" name="Trung tâm phục vụ hành chính công Xã Minh Thạnh">
+        <address>Đường ĐT749B, Ấp Hòa Cường, Xã Minh Thạnh.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0978519523</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T749B%2C%20%E1%BA%A4p%20H%C3%B2a%20C%C6%B0%E1%BB%9Dng%2C%20X%C3%A3%20Minh%20Th%E1%BA%A1nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV136" ward="Xã Thanh An" name="Trung tâm phục vụ hành chính công Xã Thanh An">
+        <address>Đường ĐT744, Ấp Cần Giăng, Xã Thanh An.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0977333608</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T744%2C%20%E1%BA%A4p%20C%E1%BA%A7n%20Gi%C4%83ng%2C%20X%C3%A3%20Thanh%20An.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV137" ward="Xã Bắc Tân Uyên" name="Trung tâm phục vụ hành chính công Xã Bắc Tân Uyên">
+        <address>Khu Phố 5, Xã Bắc Tân Uyên.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02743620260</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Khu%20Ph%E1%BB%91%205%2C%20X%C3%A3%20B%E1%BA%AFc%20T%C3%A2n%20Uy%C3%AAn.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV138" ward="Xã Thường Tân" name="Trung tâm phục vụ hành chính công Xã Thường Tân">
+        <address>Đường ĐT746, Ấp 4, Xã Thường Tân.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0976643121</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0976747033</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90T746%2C%20%E1%BA%A4p%204%2C%20X%C3%A3%20Th%C6%B0%E1%BB%9Dng%20T%C3%A2n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV139" ward="Xã Ngãi Giao" name="Trung tâm phục vụ hành chính công Xã Ngãi Giao">
+        <address>70 Trần Hưng Đạo, Xã Ngãi Giao.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543881125</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0911717275</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=70%20Tr%E1%BA%A7n%20H%C6%B0ng%20%C4%90%E1%BA%A1o%2C%20X%C3%A3%20Ng%C3%A3i%20Giao.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV140" ward="Xã Kim Long" name="Trung tâm phục vụ hành chính công Xã Kim Long">
+        <address>Tổ 19, Xã Kim Long.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543985120</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913758300</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2019%2C%20X%C3%A3%20Kim%20Long.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV141" ward="Xã Bình Giã" name="Trung tâm phục vụ hành chính công Xã Bình Giã">
+        <address>Đường Mỹ Xuân-Hoà Bình, Tổ 1, Ấp Vĩnh Bình, Xã Bình Giã.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543968533</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0985721457</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20M%E1%BB%B9%20Xu%C3%A2n-Ho%C3%A0%20B%C3%ACnh%2C%20T%E1%BB%95%201%2C%20%E1%BA%A4p%20V%C4%A9nh%20B%C3%ACnh%2C%20X%C3%A3%20B%C3%ACnh%20Gi%C3%A3.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV142" ward="Xã Xuân Sơn" name="Trung tâm phục vụ hành chính công Xã Xuân Sơn">
+        <address>Tổ 11, Thôn Xuân Tân, Xã Xuân Sơn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543887279</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913104647</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2011%2C%20Th%C3%B4n%20Xu%C3%A2n%20T%C3%A2n%2C%20X%C3%A3%20Xu%C3%A2n%20S%C6%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV143" ward="Xã Nghĩa Thành" name="Trung tâm phục vụ hành chính công Xã Nghĩa Thành">
+        <address>Tổ 6 Thôn Sông Cầu, Xã Nghĩa Thành.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543881204</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906212107</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%206%20Th%C3%B4n%20S%C3%B4ng%20C%E1%BA%A7u%2C%20X%C3%A3%20Ngh%C4%A9a%20Th%C3%A0nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV144" ward="Xã Châu Đức" name="Trung tâm phục vụ hành chính công Xã Châu Đức">
+        <address>Ấp Liên Lộc, Xã Châu Đức.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543885121</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0983365320</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Li%C3%AAn%20L%E1%BB%99c%2C%20X%C3%A3%20Ch%C3%A2u%20%C4%90%E1%BB%A9c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV145" ward="Phường Bà Rịa" name="Trung tâm phục vụ hành chính công Phường Bà Rịa">
+        <address>221 Cách Mạng Tháng Tám, Phường Bà Rịa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543711781</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0906393686</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=221%20C%C3%A1ch%20M%E1%BA%A1ng%20Th%C3%A1ng%20T%C3%A1m%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%A0%20R%E1%BB%8Ba.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV146" ward="Phường Tam Long" name="Trung tâm phục vụ hành chính công Phường Tam Long">
+        <address>Tỉnh Lộ 52, Ấp Đông, Phường Tam Long.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543751844</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0987529186</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%89nh%20L%E1%BB%99%2052%2C%20%E1%BA%A4p%20%C4%90%C3%B4ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Tam%20Long.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV147" ward="Phường Long Hương" name="Trung tâm phục vụ hành chính công Phường Long Hương">
+        <address>Đường Trịnh Đình Thảo, Phường Long Hương.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0823683968</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Tr%E1%BB%8Bnh%20%C4%90%C3%ACnh%20Th%E1%BA%A3o%2C%20Ph%C6%B0%E1%BB%9Dng%20Long%20H%C6%B0%C6%A1ng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV148" ward="Phường Phú Mỹ" name="Trung tâm phục vụ hành chính công Phường Phú Mỹ">
+        <address>Số 412 Độc Lập, Phường Phú Mỹ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543822239</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0908463468</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20412%20%C4%90%E1%BB%99c%20L%E1%BA%ADp%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20M%E1%BB%B9.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV149" ward="Phường Tân Phước" name="Trung tâm phục vụ hành chính công Phường Tân Phước">
+        <address>Số 2102, Đường Độc Lập, Phường Tân Phước.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543936003</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%202102%2C%20%C4%90%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%99c%20L%E1%BA%ADp%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ph%C6%B0%E1%BB%9Bc.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV150" ward="Phường Tân Hải" name="Trung tâm phục vụ hành chính công Phường Tân Hải">
+        <address>QL 51, Thôn Láng Cát, Phường Tân Hải.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543890517</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=QL%2051%2C%20Th%C3%B4n%20L%C3%A1ng%20C%C3%A1t%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20H%E1%BA%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV151" ward="Phường Tân Thành" name="Trung tâm phục vụ hành chính công Phường Tân Thành">
+        <address>Số 152, Đường Bình Giã, Phường Tân Thành.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543898433</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20152%2C%20%C4%90%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Gi%C3%A3%2C%20Ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Th%C3%A0nh.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV152" ward="Xã Châu Pha" name="Trung tâm phục vụ hành chính công Xã Châu Pha">
+        <address>Thôn Tân Lễ B, Xã Châu Pha.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543897552</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20T%C3%A2n%20L%E1%BB%85%20B%2C%20X%C3%A3%20Ch%C3%A2u%20Pha.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV153" ward="Xã Đất Đỏ" name="Trung tâm phục vụ hành chính công Xã Đất Đỏ">
+        <address>Đường Lê Hồng Phong, Ấp Hiệp Hòa, Xã Đất Đỏ.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0982919392</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20L%C3%AA%20H%E1%BB%93ng%20Phong%2C%20%E1%BA%A4p%20Hi%E1%BB%87p%20H%C3%B2a%2C%20X%C3%A3%20%C4%90%E1%BA%A5t%20%C4%90%E1%BB%8F.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV154" ward="Xã Long Điền" name="Trung tâm phục vụ hành chính công Xã Long Điền">
+        <address>Số 1939, Quốc Lộ 55, Xã Long Điền.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0917815079</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201939%2C%20Qu%E1%BB%91c%20L%E1%BB%99%2055%2C%20X%C3%A3%20Long%20%C4%90i%E1%BB%81n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV155" ward="Xã Long Hải" name="Trung tâm phục vụ hành chính công Xã Long Hải">
+        <address>Số 45, Hương Lộ 5, Xã Long Hải.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0938893636</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2045%2C%20H%C6%B0%C6%A1ng%20L%E1%BB%99%205%2C%20X%C3%A3%20Long%20H%E1%BA%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV156" ward="Xã Phước Hải" name="Trung tâm phục vụ hành chính công Xã Phước Hải">
+        <address>Ấp Hội Mỹ, Xã Phước Hải.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0909853122</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20H%E1%BB%99i%20M%E1%BB%B9%2C%20X%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20H%E1%BA%A3i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV157" ward="Phường Vũng Tàu" name="Trung tâm phục vụ hành chính công Phường Vũng Tàu">
+        <address>Số 89 Lý Thường Kiệt, Phường 1, Phường Vũng Tàu.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543511928</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2089%20L%C3%BD%20Th%C6%B0%E1%BB%9Dng%20Ki%E1%BB%87t%2C%20Ph%C6%B0%E1%BB%9Dng%201%2C%20Ph%C6%B0%E1%BB%9Dng%20V%C5%A9ng%20T%C3%A0u.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV158" ward="Phường Tam Thắng" name="Trung tâm phục vụ hành chính công Phường Tam Thắng">
+        <address>Số 603 Đường Nguyễn An Ninh, Phường Tam Thắng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543583366</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20603%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20An%20Ninh%2C%20Ph%C6%B0%E1%BB%9Dng%20Tam%20Th%E1%BA%AFng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV159" ward="Phường Phước Thắng" name="Trung tâm phục vụ hành chính công Phường Phước Thắng">
+        <address>Số 7A Đường Nguyễn Gia Thiều, Phường Phước Thắng.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0888800247</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%207A%20%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Gia%20Thi%E1%BB%81u%2C%20Ph%C6%B0%E1%BB%9Dng%20Ph%C6%B0%E1%BB%9Bc%20Th%E1%BA%AFng.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV160" ward="Phường Rạch Dừa" name="Trung tâm phục vụ hành chính công Phường Rạch Dừa">
+        <address>Số 219/28 Lưu Chí Hiếu, Phường Rạch Dừa.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0913793333</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20219/28%20L%C6%B0u%20Ch%C3%AD%20Hi%E1%BA%BFu%2C%20Ph%C6%B0%E1%BB%9Dng%20R%E1%BA%A1ch%20D%E1%BB%ABa.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV161" ward="Xã Long Sơn" name="Trung tâm phục vụ hành chính công Xã Long Sơn">
+        <address>Thôn 1, Xã Long Sơn.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543844005</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%201%2C%20X%C3%A3%20Long%20S%C6%A1n.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV162" ward="Xã Xuyên Mộc" name="Trung tâm phục vụ hành chính công Xã Xuyên Mộc">
+        <address>Quốc Lộ 55, Ấp Trang Hoàng, Xã Xuyên Mộc.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543878337</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20L%E1%BB%99%2055%2C%20%E1%BA%A4p%20Trang%20Ho%C3%A0ng%2C%20X%C3%A3%20Xuy%C3%AAn%20M%E1%BB%99c.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV163" ward="Xã Hoà Hội" name="Trung tâm phục vụ hành chính công Xã Hoà Hội">
+        <address>Tỉnh Lộ 328, Ấp 4, Xã Hoà Hội.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0987107662</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%89nh%20L%E1%BB%99%20328%2C%20%E1%BA%A4p%204%2C%20X%C3%A3%20Ho%C3%A0%20H%E1%BB%99i.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV164" ward="Xã Hòa Hiệp" name="Trung tâm phục vụ hành chính công Xã Hòa Hiệp">
+        <address>Tỉnh Lộ 329, Ấp Phú Bình, Xã Hòa Hiệp.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543784254</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%89nh%20L%E1%BB%99%20329%2C%20%E1%BA%A4p%20Ph%C3%BA%20B%C3%ACnh%2C%20X%C3%A3%20H%C3%B2a%20Hi%E1%BB%87p.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV165" ward="Xã Bàu Lâm" name="Trung tâm phục vụ hành chính công Xã Bàu Lâm">
+        <address>Ấp 2 Đông, Xã Bàu Lâm.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0914808019</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%202%20%C4%90%C3%B4ng%2C%20X%C3%A3%20B%C3%A0u%20L%C3%A2m.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV166" ward="Xã Bình Châu" name="Trung tâm phục vụ hành chính công Xã Bình Châu">
+        <address>Quốc Lộ 55, Ấp Láng Găng, Xã Bình Châu.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543871137</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20L%E1%BB%99%2055%2C%20%E1%BA%A4p%20L%C3%A1ng%20G%C4%83ng%2C%20X%C3%A3%20B%C3%ACnh%20Ch%C3%A2u.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV167" ward="Xã Hồ Tràm" name="Trung tâm phục vụ hành chính công Xã Hồ Tràm">
+        <address>Hẻm 147, Quốc Lộ 55, Xã Hồ Tràm.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0918509160</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0907030922</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=H%E1%BA%BBm%20147%2C%20Qu%E1%BB%91c%20L%E1%BB%99%2055%2C%20X%C3%A3%20H%E1%BB%93%20Tr%C3%A0m.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV168" ward="Đặc Khu Côn Đảo" name="Trung tâm phục vụ hành chính công Đặc Khu Côn Đảo">
+        <address>Số 28, Tôn Đức Thắng, Đặc Khu Côn Đảo.</address>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">02543830176</phone>
+        <phone confidence="medium" source="danh-sach-hanh-chinh-cong-sau-sap-nhap">0783493579</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2028%2C%20T%C3%B4n%20%C4%90%E1%BB%A9c%20Th%E1%BA%AFng%2C%20%C4%90%E1%BA%B7c%20Khu%20C%C3%B4n%20%C4%90%E1%BA%A3o.%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+</agencies>

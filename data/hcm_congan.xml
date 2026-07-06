@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cơ quan công an (Công an phường/xã) — TP. Hồ Chí Minh (sau sáp nhập 01/7/2025). Tổng hợp 2026-07-06. -->
+<agencies province="TP. Hồ Chí Minh" key="hcm" branch="police" category="Cơ quan công an (Công an phường/xã)" updated="2026-07-06" count="168">
+    <emergency police="113" fire="114" medical="115" note="Số khẩn cấp chung — dùng khi không có/không chắc số của phường, xã."/>
+    <source>Địa chỉ: Cổng thông tin điện tử Công an TP.HCM (congan.hochiminhcity.gov.vn). SĐT + Facebook: chỉ lấy từ Fanpage CHÍNH THỨC DUY NHẤT của từng Công an phường/xã (bỏ qua nơi có từ 2 trang trở lên); thiếu thì dùng 113.</source>
+    <disclaimer>Thông tin chỉ mang tính THAM KHẢO, có thể CHƯA chính xác hoặc đã được cơ quan nhà nước cập nhật/thay đổi (đặc biệt sau sáp nhập đơn vị hành chính 01/7/2025). Nghiêm cấm sao chép, làm giả. Người dùng TỰ CHỊU mọi rủi ro khi liên hệ; ứng dụng không chịu trách nhiệm pháp lý. Khi khẩn cấp hãy gọi 113 (an ninh trật tự), 114 (cứu hoả), 115 (cấp cứu y tế).</disclaimer>
+    <agency id="DV001" ward="Phường Tân Định" name="Công an Phường Tân Định">
+        <address>62 Bà Lê Chân, phường Tân Định</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=62%20B%C3%A0%20L%C3%AA%20Ch%C3%A2n%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20%C4%90%E1%BB%8Bnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV002" ward="Phường Sài Gòn" name="Công an Phường Sài Gòn">
+        <address>74 Hồ Tùng Mậu, Phường Sài Gòn</address>
+        <phone confidence="high" source="https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-S%C3%A0i-G%C3%B2n-100081211247965/">02838298927</phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-S%C3%A0i-G%C3%B2n-100081211247965/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=74%20H%E1%BB%93%20T%C3%B9ng%20M%E1%BA%ADu%2C%20Ph%C6%B0%E1%BB%9Dng%20S%C3%A0i%20G%C3%B2n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV003" ward="Phường Bến Thành" name="Công an Phường Bến Thành">
+        <address>82A Nguyễn Thái Học, phường Bến Thành</address>
+        <phone confidence="high" source="https://www.facebook.com/capbenthanh/">02838297373</phone>
+        <facebook>https://www.facebook.com/capbenthanh/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=82A%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%2C%20ph%C6%B0%E1%BB%9Dng%20B%E1%BA%BFn%20Th%C3%A0nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV004" ward="Phường Cầu Ông Lãnh" name="Công an Phường Cầu Ông Lãnh">
+        <address>288 Võ Văn Kiệt, phường Cầu Ông Lãnh</address>
+        <phone confidence="high" source="https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-C%E1%BA%A7u-%C3%94ng-L%C3%A3nh-61578182438892/">02838367627</phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-C%E1%BA%A7u-%C3%94ng-L%C3%A3nh-61578182438892/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=288%20V%C3%B5%20V%C4%83n%20Ki%E1%BB%87t%2C%20ph%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20%C3%94ng%20L%C3%A3nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV005" ward="Phường Bàn Cờ" name="Công an Phường Bàn Cờ">
+        <address>03 Cao Thắng, Phường Bàn Cờ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-B%C3%A0n-C%E1%BB%9D-61578839780057/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=03%20Cao%20Th%E1%BA%AFng%2C%20Ph%C6%B0%E1%BB%9Dng%20B%C3%A0n%20C%E1%BB%9D%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV006" ward="Phường Xuân Hòa" name="Công an Phường Xuân Hòa">
+        <address>38 Nguyễn Thị Diệu, Phường Xuân Hòa</address>
+        <phone confidence="high" source="https://www.facebook.com/p/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Xu%C3%A2n-H%C3%B2a-61559038525324/">02839316072</phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Xu%C3%A2n-H%C3%B2a-61559038525324/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=38%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Di%E1%BB%87u%2C%20Ph%C6%B0%E1%BB%9Dng%20Xu%C3%A2n%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV007" ward="Phường Nhiêu Lộc" name="Công an Phường Nhiêu Lộc">
+        <address>23 Kỳ Đồng, Phường Nhiêu Lộc</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-Nhi%C3%AAu-L%E1%BB%99c-61579539917895/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=23%20K%E1%BB%B3%20%C4%90%E1%BB%93ng%2C%20Ph%C6%B0%E1%BB%9Dng%20Nhi%C3%AAu%20L%E1%BB%99c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV008" ward="Phường Vĩnh Hội" name="Công an Phường Vĩnh Hội">
+        <address>209/11-13 Tôn Thất Thuyết, phường Vĩnh Hội</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-V%C4%A9nh-H%E1%BB%99i-61574586756510/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=209/11-13%20T%C3%B4n%20Th%E1%BA%A5t%20Thuy%E1%BA%BFt%2C%20ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20H%E1%BB%99i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV009" ward="Phường Khánh Hội" name="Công an Phường Khánh Hội">
+        <address>71 Tôn Đản, phường Khánh Hội</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-Kh%C3%A1nh-H%E1%BB%99i-Th%C3%A0nh-ph%E1%BB%91-H%E1%BB%93-Ch%C3%AD-Minh-61575653994534/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=71%20T%C3%B4n%20%C4%90%E1%BA%A3n%2C%20ph%C6%B0%E1%BB%9Dng%20Kh%C3%A1nh%20H%E1%BB%99i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV010" ward="Phường Xóm Chiếu" name="Công an Phường Xóm Chiếu">
+        <address>51-53 Lê Quốc Hưng, phường Xóm Chiếu</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=51-53%20L%C3%AA%20Qu%E1%BB%91c%20H%C6%B0ng%2C%20ph%C6%B0%E1%BB%9Dng%20X%C3%B3m%20Chi%E1%BA%BFu%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV011" ward="Phường Chợ Quán" name="Công an Phường Chợ Quán">
+        <address>258F Lê Hồng Phong, phường Chợ Quán</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/can.phuongchoquan/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=258F%20L%C3%AA%20H%E1%BB%93ng%20Phong%2C%20ph%C6%B0%E1%BB%9Dng%20Ch%E1%BB%A3%20Qu%C3%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV012" ward="Phường An Đông" name="Công an Phường An Đông">
+        <address>78-80-82 Bùi Hữu Nghĩa, phường An Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-An-%C4%90%C3%B4ng-61575952022187/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=78-80-82%20B%C3%B9i%20H%E1%BB%AFu%20Ngh%C4%A9a%2C%20ph%C6%B0%E1%BB%9Dng%20An%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV013" ward="Phường Chợ Lớn" name="Công an Phường Chợ Lớn">
+        <address>208A-B-C-D-E Hồng Bàng, phường Chợ Lớn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=208A-B-C-D-E%20H%E1%BB%93ng%20B%C3%A0ng%2C%20ph%C6%B0%E1%BB%9Dng%20Ch%E1%BB%A3%20L%E1%BB%9Bn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV014" ward="Phường Bình Tiên" name="Công an Phường Bình Tiên">
+        <address>1470 Võ Văn Kiệt, phường Bình Tiên</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1470%20V%C3%B5%20V%C4%83n%20Ki%E1%BB%87t%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Ti%C3%AAn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV015" ward="Phường Bình Tây" name="Công an Phường Bình Tây">
+        <address>25-27-29 Nguyễn Xuân Phụng, phường Bình Tây</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=25-27-29%20Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%E1%BB%A5ng%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20T%C3%A2y%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV016" ward="Phường Bình Phú" name="Công an Phường Bình Phú">
+        <address>236F Nguyễn Văn Luông, phường Bình Phú</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=236F%20Nguy%E1%BB%85n%20V%C4%83n%20Lu%C3%B4ng%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Ph%C3%BA%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV017" ward="Phường Phú Lâm" name="Công an Phường Phú Lâm">
+        <address>68 Bis Đặng Nguyên Cẩn, phường Phú Lâm</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=68%20Bis%20%C4%90%E1%BA%B7ng%20Nguy%C3%AAn%20C%E1%BA%A9n%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%C3%A2m%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV018" ward="Phường Tân Hưng" name="Công an Phường Tân Hưng">
+        <address>01 Đặng Đại Độ, phường Tân Hưng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=01%20%C4%90%E1%BA%B7ng%20%C4%90%E1%BA%A1i%20%C4%90%E1%BB%99%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20H%C6%B0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV019" ward="Phường Tân Thuận" name="Công an Phường Tân Thuận">
+        <address>36A Huỳnh Tấn Phát, phường Tân Thuận</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/conganphuongtanthuan</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=36A%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Thu%E1%BA%ADn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV020" ward="Phường Phú Thuận" name="Công an Phường Phú Thuận">
+        <address>1205 Huỳnh Tấn Phát, phường Phú Thuận</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-Ph%C3%BA-Thu%E1%BA%ADn-61579210289037/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1205%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Thu%E1%BA%ADn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV021" ward="Phường Tân Mỹ" name="Công an Phường Tân Mỹ">
+        <address>39A đường số 8, phường Tân Mỹ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-T%C3%A2n-M%E1%BB%B9-TP-H%E1%BB%93-Ch%C3%AD-Minh-61580647121227/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=39A%20%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%208%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20M%E1%BB%B9%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV022" ward="Phường Chánh Hưng" name="Công an Phường Chánh Hưng">
+        <address>93-95 Đào Cam Mộc, phường Chánh Hưng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=93-95%20%C4%90%C3%A0o%20Cam%20M%E1%BB%99c%2C%20ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20H%C6%B0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV023" ward="Phường Bình Đông" name="Công an Phường Bình Đông">
+        <address>1143 Trịnh Quang Nghị, phường Bình Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1143%20Tr%E1%BB%8Bnh%20Quang%20Ngh%E1%BB%8B%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV024" ward="Phường Phú Định" name="Công an Phường Phú Định">
+        <address>184 Lưu Hữu Phước, phường Phú Định</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=184%20L%C6%B0u%20H%E1%BB%AFu%20Ph%C6%B0%E1%BB%9Bc%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20%C4%90%E1%BB%8Bnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV025" ward="Phường Diên Hồng" name="Công an Phường Diên Hồng">
+        <address>592 Bà Hạt, phường Diên Hồng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-Di%C3%AAn-H%E1%BB%93ng-61578252834572/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=592%20B%C3%A0%20H%E1%BA%A1t%2C%20ph%C6%B0%E1%BB%9Dng%20Di%C3%AAn%20H%E1%BB%93ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV026" ward="Phường Hòa Hưng" name="Công an Phường Hòa Hưng">
+        <address>SS1 Hồng Lĩnh, phường Hòa Hưng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/TPHCM.CAHH/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=SS1%20H%E1%BB%93ng%20L%C4%A9nh%2C%20ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20H%C6%B0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV027" ward="Phường Vườn Lài" name="Công an Phường Vườn Lài">
+        <address>528 Lê Hồng Phong, phường Vườn Lài</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/CAPVuonLai/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=528%20L%C3%AA%20H%E1%BB%93ng%20Phong%2C%20ph%C6%B0%E1%BB%9Dng%20V%C6%B0%E1%BB%9Dn%20L%C3%A0i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV028" ward="Phường Minh Phụng" name="Công an Phường Minh Phụng">
+        <address>152 Lê Đại Hành, phường Minh Phụng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=152%20L%C3%AA%20%C4%90%E1%BA%A1i%20H%C3%A0nh%2C%20ph%C6%B0%E1%BB%9Dng%20Minh%20Ph%E1%BB%A5ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV029" ward="Phường Bình Thới" name="Công an Phường Bình Thới">
+        <address>117 Lạc Long Quân, phường Bình Thới</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=117%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Th%E1%BB%9Bi%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV030" ward="Phường Hòa Bình" name="Công an Phường Hòa Bình">
+        <address>148 Ông Ích Khiêm, phường Hòa Bình</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-Ho%C3%A0-B%C3%ACnh-TP-H%E1%BB%93-Ch%C3%AD-Minh-61579638999780/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=148%20%C3%94ng%20%C3%8Dch%20Khi%C3%AAm%2C%20ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20B%C3%ACnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV031" ward="Phường Phú Thọ" name="Công an Phường Phú Thọ">
+        <address>299/2/9 Lý Thường Kiệt, phường Phú Thọ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=299/2/9%20L%C3%BD%20Th%C6%B0%E1%BB%9Dng%20Ki%E1%BB%87t%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BB%8D%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV032" ward="Phường Đông Hưng Thuận" name="Công an Phường Đông Hưng Thuận">
+        <address>03 đường DN6, phường Đông Hưng Thuận</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-%C4%90%C3%B4ng-H%C6%B0ng-Thu%E1%BA%ADn-C%C3%B4ng-an-Th%C3%A0nh-ph%E1%BB%91-H%E1%BB%93-Ch%C3%AD-Minh-61581517282510/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=03%20%C4%91%C6%B0%E1%BB%9Dng%20DN6%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4ng%20H%C6%B0ng%20Thu%E1%BA%ADn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV033" ward="Phường Trung Mỹ Tây" name="Công an Phường Trung Mỹ Tây">
+        <address>289 Huỳnh Thị Hai, phường Trung Mỹ Tây</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=289%20Hu%E1%BB%B3nh%20Th%E1%BB%8B%20Hai%2C%20ph%C6%B0%E1%BB%9Dng%20Trung%20M%E1%BB%B9%20T%C3%A2y%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV034" ward="Phường Tân Thới Hiệp" name="Công an Phường Tân Thới Hiệp">
+        <address>242 Nguyễn Ảnh Thủ, phường Tân Thới Hiệp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=242%20Nguy%E1%BB%85n%20%E1%BA%A2nh%20Th%E1%BB%A7%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Th%E1%BB%9Bi%20Hi%E1%BB%87p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV035" ward="Phường Thới An" name="Công an Phường Thới An">
+        <address>194/4 Trần Thị Cờ, phường Thới An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/people/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Th%E1%BB%9Bi-An-C%C3%B4ng-An-Th%C3%A0nh-Ph%E1%BB%91-H%E1%BB%93-Ch%C3%AD-Minh/61579329664053/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=194/4%20Tr%E1%BA%A7n%20Th%E1%BB%8B%20C%E1%BB%9D%2C%20ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%9Bi%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV036" ward="Phường An Phú Đông" name="Công an Phường An Phú Đông">
+        <address>27 Thạnh Lộc 19, phường An Phú Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=27%20Th%E1%BA%A1nh%20L%E1%BB%99c%2019%2C%20ph%C6%B0%E1%BB%9Dng%20An%20Ph%C3%BA%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV037" ward="Phường Bình Tân" name="Công an Phường Bình Tân">
+        <address>43 đường số 16, Khu dân cư Vĩnh Lộc, phường Bình Tân</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-B%C3%ACnh-T%C3%A2n-TPHCM-61579231706798/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=43%20%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%2016%2C%20Khu%20d%C3%A2n%20c%C6%B0%20V%C4%A9nh%20L%E1%BB%99c%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20T%C3%A2n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV038" ward="Phường Bình Hưng Hòa" name="Công an Phường Bình Hưng Hòa">
+        <address>1014/88/2 Tân Kỳ Tân Quý, phường Bình Hưng Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/61579659141165/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1014/88/2%20T%C3%A2n%20K%E1%BB%B3%20T%C3%A2n%20Qu%C3%BD%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20H%C6%B0ng%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV039" ward="Phường Bình Trị Đông" name="Công an Phường Bình Trị Đông">
+        <address>276/66 Tân Hòa Đông, phường Bình Trị Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-B%C3%ACnh-Tr%E1%BB%8B-%C4%90%C3%B4ng-61578851082516/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=276/66%20T%C3%A2n%20H%C3%B2a%20%C4%90%C3%B4ng%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Tr%E1%BB%8B%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV040" ward="Phường An Lạc" name="Công an Phường An Lạc">
+        <address>2A đường số 1A, KDC Nam Hùng Vương, phường An Lạc</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=2A%20%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%201A%2C%20KDC%20Nam%20H%C3%B9ng%20V%C6%B0%C6%A1ng%2C%20ph%C6%B0%E1%BB%9Dng%20An%20L%E1%BA%A1c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV041" ward="Phường Tân Tạo" name="Công an Phường Tân Tạo">
+        <address>1114 Quốc lộ 1A, phường Tân Tạo</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1114%20Qu%E1%BB%91c%20l%E1%BB%99%201A%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20T%E1%BA%A1o%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV042" ward="Phường Thạnh Mỹ Tây" name="Công an Phường Thạnh Mỹ Tây">
+        <address>2A Điện Biên Phủ, phường Thạnh Mỹ Tây</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/61579172349111/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=2A%20%C4%90i%E1%BB%87n%20Bi%C3%AAn%20Ph%E1%BB%A7%2C%20ph%C6%B0%E1%BB%9Dng%20Th%E1%BA%A1nh%20M%E1%BB%B9%20T%C3%A2y%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV043" ward="Phường Bình Lợi Trung" name="Công an Phường Bình Lợi Trung">
+        <address>355 Nơ Trang Long, phường Bình Lợi Trung</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-B%C3%ACnh-L%E1%BB%A3i-Trung-61578968041256/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=355%20N%C6%A1%20Trang%20Long%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20L%E1%BB%A3i%20Trung%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV044" ward="Phường Bình Thạnh" name="Công an Phường Bình Thạnh">
+        <address>182 Phan Văn Trị, phường Bình Thạnh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-B%C3%ACnh-Th%E1%BA%A1nh-61578893249461/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=182%20Phan%20V%C4%83n%20Tr%E1%BB%8B%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Th%E1%BA%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV045" ward="Phường Gia Định" name="Công an Phường Gia Định">
+        <address>98 Lê Văn Duyệt, phường Gia Định</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/conganphuonggiadinh/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=98%20L%C3%AA%20V%C4%83n%20Duy%E1%BB%87t%2C%20ph%C6%B0%E1%BB%9Dng%20Gia%20%C4%90%E1%BB%8Bnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV046" ward="Phường Bình Quới" name="Công an Phường Bình Quới">
+        <address>01 Thanh Đa, phường Bình Quới</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=01%20Thanh%20%C4%90a%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Qu%E1%BB%9Bi%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV047" ward="Phường Hạnh Thông" name="Công an Phường Hạnh Thông">
+        <address>501 Lê Quang Định, phường Hạnh Thông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=501%20L%C3%AA%20Quang%20%C4%90%E1%BB%8Bnh%2C%20ph%C6%B0%E1%BB%9Dng%20H%E1%BA%A1nh%20Th%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV048" ward="Phường An Nhơn" name="Công an Phường An Nhơn">
+        <address>394 Nguyễn Thái Sơn, phường An Nhơn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/61584345461470/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=394%20Nguy%E1%BB%85n%20Th%C3%A1i%20S%C6%A1n%2C%20ph%C6%B0%E1%BB%9Dng%20An%20Nh%C6%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV049" ward="Phường Gò Vấp" name="Công an Phường Gò Vấp">
+        <address>338 Quang Trung, phường Gò Vấp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-G%C3%B2-V%E1%BA%A5p-Tp-H%E1%BB%93-Ch%C3%AD-Minh-61582907051416/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=338%20Quang%20Trung%2C%20ph%C6%B0%E1%BB%9Dng%20G%C3%B2%20V%E1%BA%A5p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV050" ward="Phường Thông Tây Hội" name="Công an Phường Thông Tây Hội">
+        <address>09 đường số 3, phường Thông Tây Hội</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=09%20%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%203%2C%20ph%C6%B0%E1%BB%9Dng%20Th%C3%B4ng%20T%C3%A2y%20H%E1%BB%99i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV051" ward="Phường An Hội Tây" name="Công an Phường An Hội Tây">
+        <address>875-877 Quang Trung, phường An Hội Tây</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-Ph%C6%B0%E1%BB%9Dng-An-H%E1%BB%99i-T%C3%A2y-61576865146857/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=875-877%20Quang%20Trung%2C%20ph%C6%B0%E1%BB%9Dng%20An%20H%E1%BB%99i%20T%C3%A2y%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV052" ward="Phường An Hội Đông" name="Công an Phường An Hội Đông">
+        <address>19-21-23 đường số 9, phường An Hội Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=19-21-23%20%C4%91%C6%B0%E1%BB%9Dng%20s%E1%BB%91%209%2C%20ph%C6%B0%E1%BB%9Dng%20An%20H%E1%BB%99i%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV053" ward="Phường Đức Nhuận" name="Công an Phường Đức Nhuận">
+        <address>740F Nguyễn Kiệm, phường Đức Nhuận</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=740F%20Nguy%E1%BB%85n%20Ki%E1%BB%87m%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%A9c%20Nhu%E1%BA%ADn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV054" ward="Phường Phú Nhuận" name="Công an Phường Phú Nhuận">
+        <address>238 Nguyễn Đình Chính, phường Phú Nhuận</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/people/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Ph%C3%BA-Nhu%E1%BA%ADn/100071292434650/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=238%20Nguy%E1%BB%85n%20%C4%90%C3%ACnh%20Ch%C3%ADnh%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Nhu%E1%BA%ADn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV055" ward="Phường Cầu Kiệu" name="Công an Phường Cầu Kiệu">
+        <address>14 Nguyễn Công Hoan, phường Cầu Kiệu</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=14%20Nguy%E1%BB%85n%20C%C3%B4ng%20Hoan%2C%20ph%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20Ki%E1%BB%87u%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV056" ward="Phường Tân Sơn Hòa" name="Công an Phường Tân Sơn Hòa">
+        <address>362-364 Lê Văn Sỹ, phường Tân Sơn Hoà</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=362-364%20L%C3%AA%20V%C4%83n%20S%E1%BB%B9%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20Ho%C3%A0%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV057" ward="Phường Tân Sơn Nhất" name="Công an Phường Tân Sơn Nhất">
+        <address>47 Tự Cường, phường Tân Sơn Nhất</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=47%20T%E1%BB%B1%20C%C6%B0%E1%BB%9Dng%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20Nh%E1%BA%A5t%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV058" ward="Phường Tân Hòa" name="Công an Phường Tân Hòa">
+        <address>70 Âu Cơ, phường Tân Hoà</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=70%20%C3%82u%20C%C6%A1%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ho%C3%A0%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV059" ward="Phường Bảy Hiền" name="Công an Phường Bảy Hiền">
+        <address>290 Âu Cơ, phường Bảy Hiền</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=290%20%C3%82u%20C%C6%A1%2C%20ph%C6%B0%E1%BB%9Dng%20B%E1%BA%A3y%20Hi%E1%BB%81n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV060" ward="Phường Tân Bình" name="Công an Phường Tân Bình">
+        <address>316 Trường Chinh, phường Tân Bình</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=316%20Tr%C6%B0%E1%BB%9Dng%20Chinh%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20B%C3%ACnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV061" ward="Phường Tân Sơn" name="Công an Phường Tân Sơn">
+        <address>822 Trường Chinh, phường Tân Sơn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=822%20Tr%C6%B0%E1%BB%9Dng%20Chinh%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV062" ward="Phường Tây Thạnh" name="Công an Phường Tây Thạnh">
+        <address>534 Lê Trọng Tấn, phường Tây Thạnh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=534%20L%C3%AA%20Tr%E1%BB%8Dng%20T%E1%BA%A5n%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20Th%E1%BA%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV063" ward="Phường Tân Sơn Nhì" name="Công an Phường Tân Sơn Nhì">
+        <address>48 Tân Qúy, phường Tân Sơn Nhì</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=48%20T%C3%A2n%20Q%C3%BAy%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20S%C6%A1n%20Nh%C3%AC%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV064" ward="Phường Phú Thọ Hòa" name="Công an Phường Phú Thọ Hòa">
+        <address>102B Nguyễn Xuân Khoát, phường Phú Thọ Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=102B%20Nguy%E1%BB%85n%20Xu%C3%A2n%20Kho%C3%A1t%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BB%8D%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV065" ward="Phường Phú Thạnh" name="Công an Phường Phú Thạnh">
+        <address>75 Tô Hiệu, phường Phú Thạnh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=75%20T%C3%B4%20Hi%E1%BB%87u%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%E1%BA%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV066" ward="Phường Tân Phú" name="Công an Phường Tân Phú">
+        <address>01 Huỳnh Văn Chính, phường Tân Phú</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=01%20Hu%E1%BB%B3nh%20V%C4%83n%20Ch%C3%ADnh%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ph%C3%BA%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV067" ward="Xã Tân Nhựt" name="Công an Xã Tân Nhựt">
+        <address>571 Nguyễn Hữu Trí, xã Tân Nhựt</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=571%20Nguy%E1%BB%85n%20H%E1%BB%AFu%20Tr%C3%AD%2C%20x%C3%A3%20T%C3%A2n%20Nh%E1%BB%B1t%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV068" ward="Xã Bình Chánh" name="Công an Xã Bình Chánh">
+        <address>283 An Phú Tây - Hưng Long, xã Bình Chánh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=283%20An%20Ph%C3%BA%20T%C3%A2y%20-%20H%C6%B0ng%20Long%2C%20x%C3%A3%20B%C3%ACnh%20Ch%C3%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV069" ward="Xã Bình Hưng" name="Công an Xã Bình Hưng">
+        <address>515-517 Quốc lộ 50, ấp 13, xã Bình Hưng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=515-517%20Qu%E1%BB%91c%20l%E1%BB%99%2050%2C%20%E1%BA%A5p%2013%2C%20x%C3%A3%20B%C3%ACnh%20H%C6%B0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV070" ward="Xã Hưng Long" name="Công an Xã Hưng Long">
+        <address>333 Hưng Long - Quy Đức, xã Hưng Long</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=333%20H%C6%B0ng%20Long%20-%20Quy%20%C4%90%E1%BB%A9c%2C%20x%C3%A3%20H%C6%B0ng%20Long%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV071" ward="Xã Bình Lợi" name="Công an Xã Bình Lợi">
+        <address>1060 Vườn Thơm, xã Bình Lợi</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1060%20V%C6%B0%E1%BB%9Dn%20Th%C6%A1m%2C%20x%C3%A3%20B%C3%ACnh%20L%E1%BB%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV072" ward="Xã Vĩnh Lộc" name="Công an Xã Vĩnh Lộc">
+        <address>F7/16 Vĩnh Lộc, xã Vĩnh Lộc</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=F7/16%20V%C4%A9nh%20L%E1%BB%99c%2C%20x%C3%A3%20V%C4%A9nh%20L%E1%BB%99c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV073" ward="Xã Tân Vĩnh Lộc" name="Công an Xã Tân Vĩnh Lộc">
+        <address>1304 Vĩnh Lộc, xã Tân Vĩnh Lộc</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1304%20V%C4%A9nh%20L%E1%BB%99c%2C%20x%C3%A3%20T%C3%A2n%20V%C4%A9nh%20L%E1%BB%99c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV074" ward="Xã Bình Khánh" name="Công an Xã Bình Khánh">
+        <address>Đường Rừng Sác, ấp Bình An 1, xã Bình Khánh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/people/C%C3%B4ng-an-x%C3%A3-B%C3%ACnh-Kh%C3%A1nh/61586083410104/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20R%E1%BB%ABng%20S%C3%A1c%2C%20%E1%BA%A5p%20B%C3%ACnh%20An%201%2C%20x%C3%A3%20B%C3%ACnh%20Kh%C3%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV075" ward="Xã An Thới Đông" name="Công an Xã An Thới Đông">
+        <address>Đường An Thới Đông, ấp An Hòa 1, xã An Thới Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/conganxaanthoidong/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20An%20Th%E1%BB%9Bi%20%C4%90%C3%B4ng%2C%20%E1%BA%A5p%20An%20H%C3%B2a%201%2C%20x%C3%A3%20An%20Th%E1%BB%9Bi%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV076" ward="Xã Cần Giờ" name="Công an Xã Cần Giờ">
+        <address>Đường Đào Cử, KP. Miễu Ba, xã Cần Giờ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90%C3%A0o%20C%E1%BB%AD%2C%20KP.%20Mi%E1%BB%85u%20Ba%2C%20x%C3%A3%20C%E1%BA%A7n%20Gi%E1%BB%9D%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV077" ward="Xã Thạnh An" name="Công an Xã Thạnh An">
+        <address>Ấp Thạnh Bình, xã Thạnh An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Th%E1%BA%A1nh%20B%C3%ACnh%2C%20x%C3%A3%20Th%E1%BA%A1nh%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV078" ward="Xã An Nhơn Tây" name="Công an Xã An Nhơn Tây">
+        <address>8 Phú Thuận, ấp Phú Lợi, xã An Nhơn Tây</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=8%20Ph%C3%BA%20Thu%E1%BA%ADn%2C%20%E1%BA%A5p%20Ph%C3%BA%20L%E1%BB%A3i%2C%20x%C3%A3%20An%20Nh%C6%A1n%20T%C3%A2y%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV079" ward="Xã Thái Mỹ" name="Công an Xã Thái Mỹ">
+        <address>396 Tỉnh lộ 7, ấp Bình Thượng, xã Thái Mỹ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=396%20T%E1%BB%89nh%20l%E1%BB%99%207%2C%20%E1%BA%A5p%20B%C3%ACnh%20Th%C6%B0%E1%BB%A3ng%2C%20x%C3%A3%20Th%C3%A1i%20M%E1%BB%B9%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV080" ward="Xã Nhuận Đức" name="Công an Xã Nhuận Đức">
+        <address>78 đường Phạm Văn Cội, ấp 3, xã Nhuận Đức</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=78%20%C4%91%C6%B0%E1%BB%9Dng%20Ph%E1%BA%A1m%20V%C4%83n%20C%E1%BB%99i%2C%20%E1%BA%A5p%203%2C%20x%C3%A3%20Nhu%E1%BA%ADn%20%C4%90%E1%BB%A9c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV081" ward="Xã Tân An Hội" name="Công an Xã Tân An Hội">
+        <address>93 Nguyễn Văn Nì, xã Tân An Hội</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=93%20Nguy%E1%BB%85n%20V%C4%83n%20N%C3%AC%2C%20x%C3%A3%20T%C3%A2n%20An%20H%E1%BB%99i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV082" ward="Xã Củ Chi" name="Công an Xã Củ Chi">
+        <address>1 đường 28, ấp Hậu, xã Củ Chi</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1%20%C4%91%C6%B0%E1%BB%9Dng%2028%2C%20%E1%BA%A5p%20H%E1%BA%ADu%2C%20x%C3%A3%20C%E1%BB%A7%20Chi%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV083" ward="Xã Phú Hòa Đông" name="Công an Xã Phú Hòa Đông">
+        <address>181 Tỉnh lộ 15, ấp Chợ, xã Phú Hòa Đông</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=181%20T%E1%BB%89nh%20l%E1%BB%99%2015%2C%20%E1%BA%A5p%20Ch%E1%BB%A3%2C%20x%C3%A3%20Ph%C3%BA%20H%C3%B2a%20%C4%90%C3%B4ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV084" ward="Xã Bình Mỹ" name="Công an Xã Bình Mỹ">
+        <address>76 Hà Duy Phiên, ấp 6, xã Bình Mỹ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=76%20H%C3%A0%20Duy%20Phi%C3%AAn%2C%20%E1%BA%A5p%206%2C%20x%C3%A3%20B%C3%ACnh%20M%E1%BB%B9%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV085" ward="Xã Hóc Môn" name="Công an Xã Hóc Môn">
+        <address>122 Lê Thị Hà, xã Hóc Môn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=122%20L%C3%AA%20Th%E1%BB%8B%20H%C3%A0%2C%20x%C3%A3%20H%C3%B3c%20M%C3%B4n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV086" ward="Xã Bà Điểm" name="Công an Xã Bà Điểm">
+        <address>9 Nguyễn Thị Sóc, ấp Bắc Lân, xã Bà Điểm</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=9%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20S%C3%B3c%2C%20%E1%BA%A5p%20B%E1%BA%AFc%20L%C3%A2n%2C%20x%C3%A3%20B%C3%A0%20%C4%90i%E1%BB%83m%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV087" ward="Xã Đông Thạnh" name="Công an Xã Đông Thạnh">
+        <address>15 Đặng Thúc Vịnh, ấp 7, xã Đông Thạnh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=15%20%C4%90%E1%BA%B7ng%20Th%C3%BAc%20V%E1%BB%8Bnh%2C%20%E1%BA%A5p%207%2C%20x%C3%A3%20%C4%90%C3%B4ng%20Th%E1%BA%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV088" ward="Xã Xuân Thới Sơn" name="Công an Xã Xuân Thới Sơn">
+        <address>62 Trần Văn Mười, Ấp Xuân Thới Đông, xã Xuân Thới Sơn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=62%20Tr%E1%BA%A7n%20V%C4%83n%20M%C6%B0%E1%BB%9Di%2C%20%E1%BA%A4p%20Xu%C3%A2n%20Th%E1%BB%9Bi%20%C4%90%C3%B4ng%2C%20x%C3%A3%20Xu%C3%A2n%20Th%E1%BB%9Bi%20S%C6%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV089" ward="Xã Nhà Bè" name="Công an Xã Nhà Bè">
+        <address>1979 Huỳnh Tấn Phát, xã Nhà Bè</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1979%20Hu%E1%BB%B3nh%20T%E1%BA%A5n%20Ph%C3%A1t%2C%20x%C3%A3%20Nh%C3%A0%20B%C3%A8%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV090" ward="Xã Hiệp Phước" name="Công an Xã Hiệp Phước">
+        <address>1234 Nguyễn Văn Tạo, xã Hiệp Phước</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1234%20Nguy%E1%BB%85n%20V%C4%83n%20T%E1%BA%A1o%2C%20x%C3%A3%20Hi%E1%BB%87p%20Ph%C6%B0%E1%BB%9Bc%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV091" ward="Phường An Khánh" name="Công an Phường An Khánh">
+        <address>27 Lương Định Của, phường An Khánh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-An-Kh%C3%A1nh-61579664547715/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=27%20L%C6%B0%C6%A1ng%20%C4%90%E1%BB%8Bnh%20C%E1%BB%A7a%2C%20ph%C6%B0%E1%BB%9Dng%20An%20Kh%C3%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV092" ward="Phường Bình Trưng" name="Công an Phường Bình Trưng">
+        <address>193-195 Nguyễn Duy Trinh, phường Bình Trưng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-B%C3%ACnh-Tr%C6%B0ng-61579584423874/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=193-195%20Nguy%E1%BB%85n%20Duy%20Trinh%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20Tr%C6%B0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV093" ward="Phường Cát Lái" name="Công an Phường Cát Lái">
+        <address>480 Nguyễn Thị Định, phường Cát Lái</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=480%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20%C4%90%E1%BB%8Bnh%2C%20ph%C6%B0%E1%BB%9Dng%20C%C3%A1t%20L%C3%A1i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV094" ward="Phường Phước Long" name="Công an Phường Phước Long">
+        <address>616 Đỗ Xuân Hợp, phường Phước Long</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-Ph%C6%B0%E1%BB%9Bc-Long-Th%C3%A0nh-ph%E1%BB%91-H%E1%BB%93-Ch%C3%AD-Minh-61580595167189/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=616%20%C4%90%E1%BB%97%20Xu%C3%A2n%20H%E1%BB%A3p%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C6%B0%E1%BB%9Bc%20Long%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV095" ward="Phường Long Trường" name="Công an Phường Long Trường">
+        <address>893/1 Nguyễn Duy Trinh, phường Long Trường</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Long-Tr%C6%B0%E1%BB%9Dng-TP-H%E1%BB%93-Ch%C3%AD-Minh-61582075986847/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=893/1%20Nguy%E1%BB%85n%20Duy%20Trinh%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20Tr%C6%B0%E1%BB%9Dng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV096" ward="Phường Long Bình" name="Công an Phường Long Bình">
+        <address>325 Nguyễn Văn Tăng, phường Long Bình</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=325%20Nguy%E1%BB%85n%20V%C4%83n%20T%C4%83ng%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20B%C3%ACnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV097" ward="Phường Long Phước" name="Công an Phường Long Phước">
+        <address>34 Ích Thạnh, phường Long Phước</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-Long-Ph%C6%B0%E1%BB%9Bc-61580198715005/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=34%20%C3%8Dch%20Th%E1%BA%A1nh%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20Ph%C6%B0%E1%BB%9Bc%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV098" ward="Phường Tăng Nhơn Phú" name="Công an Phường Tăng Nhơn Phú">
+        <address>185 Đình Phong Phú, phường Tăng Nhơn Phú</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-T%C4%83ng-Nh%C6%A1n-Ph%C3%BA-TP-H%E1%BB%93-Ch%C3%AD-Minh-61578924393200/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=185%20%C4%90%C3%ACnh%20Phong%20Ph%C3%BA%2C%20ph%C6%B0%E1%BB%9Dng%20T%C4%83ng%20Nh%C6%A1n%20Ph%C3%BA%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV099" ward="Phường Linh Xuân" name="Công an Phường Linh Xuân">
+        <address>49 Hoàng Cầm, phường Linh Xuân</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-Linh-Xu%C3%A2n-TP-H%E1%BB%93-Ch%C3%AD-Minh-61584495694470/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=49%20Ho%C3%A0ng%20C%E1%BA%A7m%2C%20ph%C6%B0%E1%BB%9Dng%20Linh%20Xu%C3%A2n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV100" ward="Phường Tam Bình" name="Công an Phường Tam Bình">
+        <address>934 Tỉnh lộ 43, phường Tam Bình</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-an-ph%C6%B0%E1%BB%9Dng-Tam-B%C3%ACnh-61581292034825/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=934%20T%E1%BB%89nh%20l%E1%BB%99%2043%2C%20ph%C6%B0%E1%BB%9Dng%20Tam%20B%C3%ACnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV101" ward="Phường Thủ Đức" name="Công an Phường Thủ Đức">
+        <address>371 Đoàn Kết, phường Thủ Đức</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=371%20%C4%90o%C3%A0n%20K%E1%BA%BFt%2C%20ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%A7%20%C4%90%E1%BB%A9c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV102" ward="Phường Hiệp Bình" name="Công an Phường Hiệp Bình">
+        <address>46 Lý Tế Xuyên, phường Hiệp Bình</address>
+        <phone confidence="none" fallback="113"></phone>
+        <facebook>https://www.facebook.com/p/C%C3%B4ng-An-Ph%C6%B0%E1%BB%9Dng-Hi%E1%BB%87p-B%C3%ACnh-61579730100933/</facebook>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=46%20L%C3%BD%20T%E1%BA%BF%20Xuy%C3%AAn%2C%20ph%C6%B0%E1%BB%9Dng%20Hi%E1%BB%87p%20B%C3%ACnh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV103" ward="Phường Thủ Dầu Một" name="Công an Phường Thủ Dầu Một">
+        <address>26 đường Võ Thành Long, KP. 5, phường Thủ Dầu Một</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=26%20%C4%91%C6%B0%E1%BB%9Dng%20V%C3%B5%20Th%C3%A0nh%20Long%2C%20KP.%205%2C%20ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%A7%20D%E1%BA%A7u%20M%E1%BB%99t%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV104" ward="Phường Bình Dương" name="Công an Phường Bình Dương">
+        <address>01 đường D27, KP. 1, phường Bình Dương</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=01%20%C4%91%C6%B0%E1%BB%9Dng%20D27%2C%20KP.%201%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20D%C6%B0%C6%A1ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV105" ward="Phường Phú Lợi" name="Công an Phường Phú Lợi">
+        <address>478 đường Phú Lợi, Tổ 10, Khu 8, phường Phú Lợi</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=478%20%C4%91%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%E1%BB%A3i%2C%20T%E1%BB%95%2010%2C%20Khu%208%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%E1%BB%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV106" ward="Phường Chánh Hiệp" name="Công an Phường Chánh Hiệp">
+        <address>Tổ 25, KP. 3, phường Chánh Hiệp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2025%2C%20KP.%203%2C%20ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20Hi%E1%BB%87p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV107" ward="Phường Phú An" name="Công an Phường Phú An">
+        <address>389 đường Phan Đăng Lưu, phường Phú An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=389%20%C4%91%C6%B0%E1%BB%9Dng%20Phan%20%C4%90%C4%83ng%20L%C6%B0u%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV108" ward="Phường Lái Thiêu" name="Công an Phường Lái Thiêu">
+        <address>Đường Nguyễn Văn Tiết, phường Lái Thiêu</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20V%C4%83n%20Ti%E1%BA%BFt%2C%20ph%C6%B0%E1%BB%9Dng%20L%C3%A1i%20Thi%C3%AAu%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV109" ward="Phường Thuận An" name="Công an Phường Thuận An">
+        <address>Đường Hưng Định 31, phường Thuận An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20H%C6%B0ng%20%C4%90%E1%BB%8Bnh%2031%2C%20ph%C6%B0%E1%BB%9Dng%20Thu%E1%BA%ADn%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV110" ward="Phường Bình Hòa" name="Công an Phường Bình Hòa">
+        <address>DT743C, KP. Bình Đức 1, phường Bình Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT743C%2C%20KP.%20B%C3%ACnh%20%C4%90%E1%BB%A9c%201%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV111" ward="Phường An Phú" name="Công an Phường An Phú">
+        <address>Đường An Phú 03, KP. 1A, phường An Phú</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20An%20Ph%C3%BA%2003%2C%20KP.%201A%2C%20ph%C6%B0%E1%BB%9Dng%20An%20Ph%C3%BA%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV112" ward="Phường Thuận Giao" name="Công an Phường Thuận Giao">
+        <address>09 Đại Lộ Bình Dương, KP. Hòa Lân 1, phường Thuận Giao</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=09%20%C4%90%E1%BA%A1i%20L%E1%BB%99%20B%C3%ACnh%20D%C6%B0%C6%A1ng%2C%20KP.%20H%C3%B2a%20L%C3%A2n%201%2C%20ph%C6%B0%E1%BB%9Dng%20Thu%E1%BA%ADn%20Giao%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV113" ward="Phường Dĩ An" name="Công an Phường Dĩ An">
+        <address>Đường số 4, Khu Trung Tâm, phường Dĩ An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20s%E1%BB%91%204%2C%20Khu%20Trung%20T%C3%A2m%2C%20ph%C6%B0%E1%BB%9Dng%20D%C4%A9%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV114" ward="Phường Đông Hòa" name="Công an Phường Đông Hòa">
+        <address>252 đường DT743A, KP. Bình Thung 1, phường Đông Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=252%20%C4%91%C6%B0%E1%BB%9Dng%20DT743A%2C%20KP.%20B%C3%ACnh%20Thung%201%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4ng%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV115" ward="Phường Tân Đông Hiệp" name="Công an Phường Tân Đông Hiệp">
+        <address>878 đường Nguyễn Thị Minh Khai, KP. Tân Thắng, phường Tân Đông Hiệp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=878%20%C4%91%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Th%E1%BB%8B%20Minh%20Khai%2C%20KP.%20T%C3%A2n%20Th%E1%BA%AFng%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20%C4%90%C3%B4ng%20Hi%E1%BB%87p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV116" ward="Phường Tân Uyên" name="Công an Phường Tân Uyên">
+        <address>DT747, KP. 7, phường Tân Uyên</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT747%2C%20KP.%207%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Uy%C3%AAn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV117" ward="Phường Tân Khánh" name="Công an Phường Tân Khánh">
+        <address>Tổ 4, KP. Khánh Hòa, phường Tân Khánh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%204%2C%20KP.%20Kh%C3%A1nh%20H%C3%B2a%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Kh%C3%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV118" ward="Phường Tân Hiệp" name="Công an Phường Tân Hiệp">
+        <address>Đường Nguyễn Khuyến, Tổ 1, KP. Tân Bình, phường Tân Hiệp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20Khuy%E1%BA%BFn%2C%20T%E1%BB%95%201%2C%20KP.%20T%C3%A2n%20B%C3%ACnh%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Hi%E1%BB%87p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV119" ward="Phường Bình Cơ" name="Công an Phường Bình Cơ">
+        <address>DT747A, KP. 2, phường Bình Cơ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT747A%2C%20KP.%202%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%ACnh%20C%C6%A1%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV120" ward="Phường Vĩnh Tân" name="Công an Phường Vĩnh Tân">
+        <address>Đường Vĩnh Tân 15, Tổ 4, KP. 4, phường Vĩnh Tân</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20T%C3%A2n%2015%2C%20T%E1%BB%95%204%2C%20KP.%204%2C%20ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20T%C3%A2n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV121" ward="Phường Bến Cát" name="Công an Phường Bến Cát">
+        <address>Quốc lộ 13, Số 318, KP. 2, phường Bến Cát</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20l%E1%BB%99%2013%2C%20S%E1%BB%91%20318%2C%20KP.%202%2C%20ph%C6%B0%E1%BB%9Dng%20B%E1%BA%BFn%20C%C3%A1t%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV122" ward="Phường Tây Nam" name="Công an Phường Tây Nam">
+        <address>DT744, KP. Lồ Ồ, phường Tây Nam</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT744%2C%20KP.%20L%E1%BB%93%20%E1%BB%92%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20Nam%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV123" ward="Phường Long Nguyên" name="Công an Phường Long Nguyên">
+        <address>Tổ 16, KP. Kiến An, phường Long Nguyên</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2016%2C%20KP.%20Ki%E1%BA%BFn%20An%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20Nguy%C3%AAn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV124" ward="Phường Thới Hòa" name="Công an Phường Thới Hòa">
+        <address>Quốc lộ 13, KP. 3A, phường Thới Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20l%E1%BB%99%2013%2C%20KP.%203A%2C%20ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%9Bi%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV125" ward="Phường Hòa Lợi" name="Công an Phường Hòa Lợi">
+        <address>DT741, KP. An Hòa, phường Hòa Lợi</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT741%2C%20KP.%20An%20H%C3%B2a%2C%20ph%C6%B0%E1%BB%9Dng%20H%C3%B2a%20L%E1%BB%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV126" ward="Phường Chánh Phú Hòa" name="Công an Phường Chánh Phú Hòa">
+        <address>Đường 2/9, Tổ 2, KP. 1A, phường Chánh Phú Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%202/9%2C%20T%E1%BB%95%202%2C%20KP.%201A%2C%20ph%C6%B0%E1%BB%9Dng%20Ch%C3%A1nh%20Ph%C3%BA%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV127" ward="Xã Bàu Bàng" name="Công an Xã Bàu Bàng">
+        <address>Đường N8, xã Bàu Bàng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20N8%2C%20x%C3%A3%20B%C3%A0u%20B%C3%A0ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV128" ward="Xã Trừ Văn Thố" name="Công an Xã Trừ Văn Thố">
+        <address>Quốc Lộ 13, Tổ 1, Ấp 1, xã Trừ Văn Thố</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20L%E1%BB%99%2013%2C%20T%E1%BB%95%201%2C%20%E1%BA%A4p%201%2C%20x%C3%A3%20Tr%E1%BB%AB%20V%C4%83n%20Th%E1%BB%91%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV129" ward="Xã Phú Giáo" name="Công an Xã Phú Giáo">
+        <address>14 đường Trần Quang Diệu, xã Phú Giáo</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=14%20%C4%91%C6%B0%E1%BB%9Dng%20Tr%E1%BA%A7n%20Quang%20Di%E1%BB%87u%2C%20x%C3%A3%20Ph%C3%BA%20Gi%C3%A1o%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV130" ward="Xã Phước Hòa" name="Công an Xã Phước Hòa">
+        <address>DT741, Ấp Trảng Sắn, xã Phước Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT741%2C%20%E1%BA%A4p%20Tr%E1%BA%A3ng%20S%E1%BA%AFn%2C%20x%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV131" ward="Xã Phước Thành" name="Công an Xã Phước Thành">
+        <address>HL508, xã Phước Thành</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=HL508%2C%20x%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20Th%C3%A0nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV132" ward="Xã An Long" name="Công an Xã An Long">
+        <address>DH507, Ấp 30/4, xã An Long</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DH507%2C%20%E1%BA%A4p%2030/4%2C%20x%C3%A3%20An%20Long%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV133" ward="Xã Dầu Tiếng" name="Công an Xã Dầu Tiếng">
+        <address>56 đường Hùng Vương, KP. 4B, xã Dầu Tiếng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=56%20%C4%91%C6%B0%E1%BB%9Dng%20H%C3%B9ng%20V%C6%B0%C6%A1ng%2C%20KP.%204B%2C%20x%C3%A3%20D%E1%BA%A7u%20Ti%E1%BA%BFng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV134" ward="Xã Long Hòa" name="Công an Xã Long Hòa">
+        <address>Ấp Long Điền, xã Long Hòa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Long%20%C4%90i%E1%BB%81n%2C%20x%C3%A3%20Long%20H%C3%B2a%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV135" ward="Xã Minh Thạnh" name="Công an Xã Minh Thạnh">
+        <address>DH704, Ấp Hòa Cường, xã Minh Thạnh</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DH704%2C%20%E1%BA%A4p%20H%C3%B2a%20C%C6%B0%E1%BB%9Dng%2C%20x%C3%A3%20Minh%20Th%E1%BA%A1nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV136" ward="Xã Thanh An" name="Công an Xã Thanh An">
+        <address>DT744, Ấp Cần Giăng, xã Thanh An</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=DT744%2C%20%E1%BA%A4p%20C%E1%BA%A7n%20Gi%C4%83ng%2C%20x%C3%A3%20Thanh%20An%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV137" ward="Xã Bắc Tân Uyên" name="Công an Xã Bắc Tân Uyên">
+        <address>HL415, xã Bắc Tân Uyên</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=HL415%2C%20x%C3%A3%20B%E1%BA%AFc%20T%C3%A2n%20Uy%C3%AAn%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV138" ward="Xã Thường Tân" name="Công an Xã Thường Tân">
+        <address>Tổ 18, Ấp 4, xã Thường Tân</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2018%2C%20%E1%BA%A4p%204%2C%20x%C3%A3%20Th%C6%B0%E1%BB%9Dng%20T%C3%A2n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV139" ward="Xã Ngãi Giao" name="Công an Xã Ngãi Giao">
+        <address>354 Hùng Vương, xã Ngãi Giao</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=354%20H%C3%B9ng%20V%C6%B0%C6%A1ng%2C%20x%C3%A3%20Ng%C3%A3i%20Giao%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV140" ward="Xã Kim Long" name="Công an Xã Kim Long">
+        <address>Tổ 43, Thôn Tân Hiệp, xã Kim Long</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%2043%2C%20Th%C3%B4n%20T%C3%A2n%20Hi%E1%BB%87p%2C%20x%C3%A3%20Kim%20Long%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV141" ward="Xã Bình Giã" name="Công an Xã Bình Giã">
+        <address>Ấp Vĩnh Bình, xã Bình Giã</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20V%C4%A9nh%20B%C3%ACnh%2C%20x%C3%A3%20B%C3%ACnh%20Gi%C3%A3%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV142" ward="Xã Xuân Sơn" name="Công an Xã Xuân Sơn">
+        <address>Tổ 2, Thôn Sơn Thuận, xã Xuân Sơn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%202%2C%20Th%C3%B4n%20S%C6%A1n%20Thu%E1%BA%ADn%2C%20x%C3%A3%20Xu%C3%A2n%20S%C6%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV143" ward="Xã Nghĩa Thành" name="Công an Xã Nghĩa Thành">
+        <address>Quốc lộ 56, Thôn Sông Cầu, xã Nghĩa Thành</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20l%E1%BB%99%2056%2C%20Th%C3%B4n%20S%C3%B4ng%20C%E1%BA%A7u%2C%20x%C3%A3%20Ngh%C4%A9a%20Th%C3%A0nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV144" ward="Xã Châu Đức" name="Công an Xã Châu Đức">
+        <address>Quốc lộ 56, Ấp Liên Lộc, xã Châu Đức</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20l%E1%BB%99%2056%2C%20%E1%BA%A4p%20Li%C3%AAn%20L%E1%BB%99c%2C%20x%C3%A3%20Ch%C3%A2u%20%C4%90%E1%BB%A9c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV145" ward="Phường Bà Rịa" name="Công an Phường Bà Rịa">
+        <address>163 Bạch Đằng, phường Bà Rịa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=163%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%2C%20ph%C6%B0%E1%BB%9Dng%20B%C3%A0%20R%E1%BB%8Ba%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV146" ward="Phường Tam Long" name="Công an Phường Tam Long">
+        <address>100 Hoàng Hoa Thám, phường Tam Long</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=100%20Ho%C3%A0ng%20Hoa%20Th%C3%A1m%2C%20ph%C6%B0%E1%BB%9Dng%20Tam%20Long%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV147" ward="Phường Long Hương" name="Công an Phường Long Hương">
+        <address>36 Trần Xuân Soạn, phường Long Hương</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=36%20Tr%E1%BA%A7n%20Xu%C3%A2n%20So%E1%BA%A1n%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20H%C6%B0%C6%A1ng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV148" ward="Phường Phú Mỹ" name="Công an Phường Phú Mỹ">
+        <address>Trường Chinh, Khu phố Vạn Hạnh, phường Phú Mỹ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Tr%C6%B0%E1%BB%9Dng%20Chinh%2C%20Khu%20ph%E1%BB%91%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20M%E1%BB%B9%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV149" ward="Phường Tân Phước" name="Công an Phường Tân Phước">
+        <address>Khu phố Tân Lộc, phường Tân Phước</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Khu%20ph%E1%BB%91%20T%C3%A2n%20L%E1%BB%99c%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Ph%C6%B0%E1%BB%9Bc%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV150" ward="Phường Tân Hải" name="Công an Phường Tân Hải">
+        <address>Khu phố Phước Long, phường Tân Hải</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Khu%20ph%E1%BB%91%20Ph%C6%B0%E1%BB%9Bc%20Long%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20H%E1%BA%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV151" ward="Phường Tân Thành" name="Công an Phường Tân Thành">
+        <address>133 Tô Nguyệt Đình, phường Tân Thành</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=133%20T%C3%B4%20Nguy%E1%BB%87t%20%C4%90%C3%ACnh%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2n%20Th%C3%A0nh%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV152" ward="Xã Châu Pha" name="Công an Xã Châu Pha">
+        <address>Thôn Tân Lễ B, xã Châu Pha</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20T%C3%A2n%20L%E1%BB%85%20B%2C%20x%C3%A3%20Ch%C3%A2u%20Pha%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV153" ward="Xã Đất Đỏ" name="Công an Xã Đất Đỏ">
+        <address>Quốc lộ 55, Khu phố Thanh Bình, xã Đất Đỏ</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Qu%E1%BB%91c%20l%E1%BB%99%2055%2C%20Khu%20ph%E1%BB%91%20Thanh%20B%C3%ACnh%2C%20x%C3%A3%20%C4%90%E1%BA%A5t%20%C4%90%E1%BB%8F%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV154" ward="Xã Long Điền" name="Công an Xã Long Điền">
+        <address>409 Võ Thị Sáu, Khu phố Long Tân, xã Long Điền</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=409%20V%C3%B5%20Th%E1%BB%8B%20S%C3%A1u%2C%20Khu%20ph%E1%BB%91%20Long%20T%C3%A2n%2C%20x%C3%A3%20Long%20%C4%90i%E1%BB%81n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV155" ward="Xã Long Hải" name="Công an Xã Long Hải">
+        <address>Ấp Hải Lâm, xã Long Hải</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20H%E1%BA%A3i%20L%C3%A2m%2C%20x%C3%A3%20Long%20H%E1%BA%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV156" ward="Xã Phước Hải" name="Công an Xã Phước Hải">
+        <address>Ấp Tân Hội, xã Phước Hải</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20T%C3%A2n%20H%E1%BB%99i%2C%20x%C3%A3%20Ph%C6%B0%E1%BB%9Bc%20H%E1%BA%A3i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV157" ward="Phường Vũng Tàu" name="Công an Phường Vũng Tàu">
+        <address>171 Hoàng Hoa Thám, phường Vũng Tàu</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=171%20Ho%C3%A0ng%20Hoa%20Th%C3%A1m%2C%20ph%C6%B0%E1%BB%9Dng%20V%C5%A9ng%20T%C3%A0u%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV158" ward="Phường Tam Thắng" name="Công an Phường Tam Thắng">
+        <address>603A Nguyễn An Ninh, phường Tam Thắng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=603A%20Nguy%E1%BB%85n%20An%20Ninh%2C%20ph%C6%B0%E1%BB%9Dng%20Tam%20Th%E1%BA%AFng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV159" ward="Phường Phước Thắng" name="Công an Phường Phước Thắng">
+        <address>05 Nguyễn Gia Thiều, phường Phước Thắng</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=05%20Nguy%E1%BB%85n%20Gia%20Thi%E1%BB%81u%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C6%B0%E1%BB%9Bc%20Th%E1%BA%AFng%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV160" ward="Phường Rạch Dừa" name="Công an Phường Rạch Dừa">
+        <address>136 Thanh Tịnh, phường Rạch Dừa</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=136%20Thanh%20T%E1%BB%8Bnh%2C%20ph%C6%B0%E1%BB%9Dng%20R%E1%BA%A1ch%20D%E1%BB%ABa%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV161" ward="Xã Long Sơn" name="Công an Xã Long Sơn">
+        <address>Thôn 1, xã Long Sơn</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%201%2C%20x%C3%A3%20Long%20S%C6%A1n%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV162" ward="Xã Xuyên Mộc" name="Công an Xã Xuyên Mộc">
+        <address>Ấp Trang Hoàng, xã Xuyên Mộc</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Trang%20Ho%C3%A0ng%2C%20x%C3%A3%20Xuy%C3%AAn%20M%E1%BB%99c%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV163" ward="Xã Hoà Hội" name="Công an Xã Hòa Hội">
+        <address>Ấp 4, xã Hòa Hội</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%204%2C%20x%C3%A3%20H%C3%B2a%20H%E1%BB%99i%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV164" ward="Xã Hòa Hiệp" name="Công an Xã Hòa Hiệp">
+        <address>Ấp Phú Bình, xã Hòa Hiệp</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Ph%C3%BA%20B%C3%ACnh%2C%20x%C3%A3%20H%C3%B2a%20Hi%E1%BB%87p%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV165" ward="Xã Bàu Lâm" name="Công an Xã Bàu Lâm">
+        <address>Ấp 2 Đông, xã Bàu Lâm</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%202%20%C4%90%C3%B4ng%2C%20x%C3%A3%20B%C3%A0u%20L%C3%A2m%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV166" ward="Xã Bình Châu" name="Công an Xã Bình Châu">
+        <address>Ấp Khu 1, xã Bình Châu</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%E1%BA%A4p%20Khu%201%2C%20x%C3%A3%20B%C3%ACnh%20Ch%C3%A2u%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV167" ward="Xã Hồ Tràm" name="Công an Xã Hồ Tràm">
+        <address>284 Quốc lộ 55, xã Hồ Tràm</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=284%20Qu%E1%BB%91c%20l%E1%BB%99%2055%2C%20x%C3%A3%20H%E1%BB%93%20Tr%C3%A0m%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV168" ward="Đặc Khu Côn Đảo" name="Đặc khu Côn Đảo">
+        <address>10 Nguyễn Huệ, Đặc khu Côn Đảo</address>
+        <phone confidence="none" fallback="113"></phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=10%20Nguy%E1%BB%85n%20Hu%E1%BB%87%2C%20%C4%90%E1%BA%B7c%20khu%20C%C3%B4n%20%C4%90%E1%BA%A3o%2C%20TP.%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+</agencies>

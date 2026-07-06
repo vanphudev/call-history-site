@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cơ quan công an (Công an phường/xã) — Hà Nội (sau sáp nhập 01/7/2025). Tổng hợp 2026-07-06. -->
+<agencies province="Hà Nội" key="hanoi" branch="police" category="Cơ quan công an (Công an phường/xã)" updated="2026-07-06" count="126">
+    <emergency police="113" fire="114" medical="115" note="Số khẩn cấp chung — dùng khi không có/không chắc số của phường, xã."/>
+    <source>Tên phường/xã lấy từ file gốc. Địa chỉ / số điện thoại / Facebook của Công an từng phường/xã SẼ được bổ sung sau (chưa tra cứu). Khi khẩn cấp gọi 113.</source>
+    <disclaimer>Thông tin chỉ mang tính THAM KHẢO, có thể CHƯA chính xác hoặc đã được cơ quan nhà nước cập nhật/thay đổi (đặc biệt sau sáp nhập đơn vị hành chính 01/7/2025). Nghiêm cấm sao chép, làm giả. Người dùng TỰ CHỊU mọi rủi ro khi liên hệ; ứng dụng không chịu trách nhiệm pháp lý. Khi khẩn cấp hãy gọi 113 (an ninh trật tự), 114 (cứu hoả), 115 (cấp cứu y tế).</disclaimer>
+    <agency id="DV001" ward="Tương Mai" name="Công an Tương Mai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV002" ward="Hoàng Liệt" name="Công an Hoàng Liệt">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV003" ward="Vĩnh Hưng" name="Công an Vĩnh Hưng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV004" ward="Lĩnh Nam" name="Công an Lĩnh Nam">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV005" ward="Định Công" name="Công an Định Công">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV006" ward="Hoàng Mai" name="Công an Hoàng Mai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV007" ward="Yên Sở" name="Công an Yên Sở">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV008" ward="Vĩnh Tuy" name="Công an Vĩnh Tuy">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV009" ward="Nghĩa Đô" name="Công an Nghĩa Đô">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV010" ward="Cầu Giấy" name="Công an Cầu Giấy">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV011" ward="Yên Hoà" name="Công an Yên Hoà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV012" ward="Ngọc Hà" name="Công an Ngọc Hà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV013" ward="Ba Đình" name="Công an Ba Đình">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV014" ward="Giảng Võ" name="Công an Giảng Võ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV015" ward="Hoàn Kiếm" name="Công an Hoàn Kiếm">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV016" ward="Cửa Nam" name="Công an Cửa Nam">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV017" ward="Văn Miếu - Quốc Tử Giám" name="Công an Văn Miếu - Quốc Tử Giám">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV018" ward="Láng" name="Công an Láng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV019" ward="Kim Liên" name="Công an Kim Liên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV020" ward="Đống Đa" name="Công an Đống Đa">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV021" ward="Ô Chợ Dừa" name="Công an Ô Chợ Dừa">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV022" ward="Tây Tựu" name="Công an Tây Tựu">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV023" ward="Phú Diễn" name="Công an Phú Diễn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV024" ward="Đông Ngạc" name="Công an Đông Ngạc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV025" ward="Thượng Cát" name="Công an Thượng Cát">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV026" ward="Xuân Đỉnh" name="Công an Xuân Đỉnh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV027" ward="Sơn Đồng" name="Công an Sơn Đồng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV028" ward="Quang Minh" name="Công an Quang Minh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV029" ward="Mê Linh" name="Công an Mê Linh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV030" ward="Yên Lãng" name="Công an Yên Lãng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV031" ward="Tiến Thắng" name="Công an Tiến Thắng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV032" ward="Phú Xuyên" name="Công an Phú Xuyên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV033" ward="Chuyên Mỹ" name="Công an Chuyên Mỹ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV034" ward="Đại Xuyên" name="Công an Đại Xuyên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV035" ward="Phượng Dực" name="Công an Phượng Dực">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV036" ward="Phúc Thọ" name="Công an Phúc Thọ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV037" ward="Phúc Lộc" name="Công an Phúc Lộc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV038" ward="Hát Môn" name="Công an Hát Môn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV039" ward="Quốc Oai" name="Công an Quốc Oai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV040" ward="Kiều Phú" name="Công an Kiều Phú">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV041" ward="Phú Cát" name="Công an Phú Cát">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV042" ward="Hưng Đạo" name="Công an Hưng Đạo">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV043" ward="Thanh Oai" name="Công an Thanh Oai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV044" ward="Bình Minh" name="Công an Bình Minh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV045" ward="Tam Hưng" name="Công an Tam Hưng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV046" ward="Dân Hoà" name="Công an Dân Hoà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV047" ward="Thanh Trì" name="Công an Thanh Trì">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV048" ward="Ngọc Hồi" name="Công an Ngọc Hồi">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV049" ward="Nam Phù" name="Công an Nam Phù">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV050" ward="Thanh Liệt" name="Công an Thanh Liệt">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV051" ward="Đại Thanh" name="Công an Đại Thanh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV052" ward="Thường Tín" name="Công an Thường Tín">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV053" ward="Hai Bà Trưng" name="Công an Hai Bà Trưng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV054" ward="Bạch Mai" name="Công an Bạch Mai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV055" ward="Thanh Xuân" name="Công an Thanh Xuân">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV056" ward="Phương Liệt" name="Công an Phương Liệt">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV057" ward="Khương Đình" name="Công an Khương Đình">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV058" ward="Hà Đông" name="Công an Hà Đông">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV059" ward="Kiến Hưng" name="Công an Kiến Hưng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV060" ward="Dương Nội" name="Công an Dương Nội">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV061" ward="Phú Lương" name="Công an Phú Lương">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV062" ward="Yên Nghĩa" name="Công an Yên Nghĩa">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV063" ward="Việt Hưng" name="Công an Việt Hưng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV064" ward="Long Biên" name="Công an Long Biên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV065" ward="Phúc Lợi" name="Công an Phúc Lợi">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV066" ward="Chương Dương" name="Công an Chương Dương">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV067" ward="Thượng Phúc" name="Công an Thượng Phúc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV068" ward="Hồng Vân" name="Công an Hồng Vân">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV069" ward="Vân Đình" name="Công an Vân Đình">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV070" ward="Hoà Xá" name="Công an Hoà Xá">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV071" ward="Ứng Thiên" name="Công an Ứng Thiên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV072" ward="Ứng Hoà" name="Công an Ứng Hoà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV073" ward="Sơn Tây" name="Công an Sơn Tây">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV074" ward="Đoài Phương" name="Công an Đoài Phương">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV075" ward="Tùng Thiện" name="Công an Tùng Thiện">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV076" ward="Đông Anh" name="Công an Đông Anh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV077" ward="Phúc Thịnh" name="Công an Phúc Thịnh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV078" ward="Thiên Lộc" name="Công an Thiên Lộc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV079" ward="Phú Nghĩa" name="Công an Phú Nghĩa">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV080" ward="Quảng Bị" name="Công an Quảng Bị">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV081" ward="Trần Phú" name="Công an Trần Phú">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV082" ward="Xuân Mai" name="Công an Xuân Mai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV083" ward="Thạch Thất" name="Công an Thạch Thất">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV084" ward="Hạ Bằng" name="Công an Hạ Bằng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV085" ward="Hoà Lạc" name="Công an Hoà Lạc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV086" ward="Tây Phương" name="Công an Tây Phương">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV087" ward="Yên Xuân" name="Công an Yên Xuân">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV088" ward="Bồ Đề" name="Công an Bồ Đề">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV089" ward="Từ Liêm" name="Công an Từ Liêm">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV090" ward="Đại Mỗ" name="Công an Đại Mỗ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV091" ward="Tây Mỗ" name="Công an Tây Mỗ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV092" ward="Xuân Phương" name="Công an Xuân Phương">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV093" ward="Tây Hồ" name="Công an Tây Hồ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV094" ward="Hồng Hà" name="Công an Hồng Hà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV095" ward="Phú Thượng" name="Công an Phú Thượng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV096" ward="Quảng Oai" name="Công an Quảng Oai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV097" ward="Ba Vì" name="Công an Ba Vì">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV098" ward="Vật Lại" name="Công an Vật Lại">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV099" ward="Cổ Đô" name="Công an Cổ Đô">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV100" ward="Bất Bạt" name="Công an Bất Bạt">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV101" ward="Yên Bài" name="Công an Yên Bài">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV102" ward="Minh Châu" name="Công an Minh Châu">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV103" ward="Suối Hai" name="Công an Suối Hai">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV104" ward="Đan Phượng" name="Công an Đan Phượng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV105" ward="Liên Minh" name="Công an Liên Minh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV106" ward="Ô Diên" name="Công an Ô Diên">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV107" ward="Gia Lâm" name="Công an Gia Lâm">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV108" ward="Phù Đổng" name="Công an Phù Đổng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV109" ward="Thuận An" name="Công an Thuận An">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV110" ward="Bát Tràng" name="Công an Bát Tràng">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV111" ward="Hoài Đức" name="Công an Hoài Đức">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV112" ward="An Khánh" name="Công an An Khánh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV113" ward="Dương Hoà" name="Công an Dương Hoà">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV114" ward="Thư Lâm" name="Công an Thư Lâm">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV115" ward="Vĩnh Thanh" name="Công an Vĩnh Thanh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV116" ward="Sóc Sơn" name="Công an Sóc Sơn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV117" ward="Đa Phúc" name="Công an Đa Phúc">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV118" ward="Kim Anh" name="Công an Kim Anh">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV119" ward="Nội Bài" name="Công an Nội Bài">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV120" ward="Trung Giã" name="Công an Trung Giã">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV121" ward="Mỹ Đức" name="Công an Mỹ Đức">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV122" ward="Hồng Sơn" name="Công an Hồng Sơn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV123" ward="Hương Sơn" name="Công an Hương Sơn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV124" ward="Phúc Sơn" name="Công an Phúc Sơn">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV125" ward="Chương Mỹ" name="Công an Chương Mỹ">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+    <agency id="DV126" ward="Hoà Phú" name="Công an Hoà Phú">
+        <address></address>
+        <phone confidence="none" fallback="113"></phone>
+    </agency>
+</agencies>

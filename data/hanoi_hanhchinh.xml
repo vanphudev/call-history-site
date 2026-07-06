@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Cơ quan hành chính (Điểm phục vụ hành chính công cấp phường/xã) — Hà Nội (sau sáp nhập 01/7/2025). Tổng hợp 2026-07-06. -->
+<agencies province="Hà Nội" key="hanoi" branch="admin" category="Cơ quan hành chính (Điểm phục vụ hành chính công cấp phường/xã)" updated="2026-07-06" count="126">
+    <emergency police="113" fire="114" medical="115" note="Số khẩn cấp chung — dùng khi không có/không chắc số của phường, xã."/>
+    <source>Tên/địa chỉ/điện thoại: dữ liệu Điểm phục vụ hành chính công TP. Hà Nội (từ file gốc trong res/raw).</source>
+    <disclaimer>Thông tin chỉ mang tính THAM KHẢO, có thể CHƯA chính xác hoặc đã được cơ quan nhà nước cập nhật/thay đổi (đặc biệt sau sáp nhập đơn vị hành chính 01/7/2025). Nghiêm cấm sao chép, làm giả. Người dùng TỰ CHỊU mọi rủi ro khi liên hệ; ứng dụng không chịu trách nhiệm pháp lý. Khi khẩn cấp hãy gọi 113 (an ninh trật tự), 114 (cứu hoả), 115 (cấp cứu y tế).</disclaimer>
+    <agency id="DV001" ward="Tương Mai" name="Điểm phục vụ hành chính công Tương Mai">
+        <address>Số 2 ngách 224/2 đường Hoàng Mai, phường Tương Mai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02438631462</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%202%20ng%C3%A1ch%20224/2%20%C4%91%C6%B0%E1%BB%9Dng%20Ho%C3%A0ng%20Mai%2C%20ph%C6%B0%E1%BB%9Dng%20T%C6%B0%C6%A1ng%20Mai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV002" ward="Hoàng Liệt" name="Điểm phục vụ hành chính công Hoàng Liệt">
+        <address>Số 5, đường Linh Đường, phường Hoàng Liệt, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0913348168</phone>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0936131318</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%205%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Linh%20%C4%90%C6%B0%E1%BB%9Dng%2C%20ph%C6%B0%E1%BB%9Dng%20Ho%C3%A0ng%20Li%E1%BB%87t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV003" ward="Vĩnh Hưng" name="Điểm phục vụ hành chính công Vĩnh Hưng">
+        <address>Số 177 phố Thanh Đàm, phường Vĩnh Hưng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02432247560</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20177%20ph%E1%BB%91%20Thanh%20%C4%90%C3%A0m%2C%20ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20H%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV004" ward="Lĩnh Nam" name="Điểm phục vụ hành chính công Lĩnh Nam">
+        <address>Số 669 đường Lĩnh Nam, phường Lĩnh Nam, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02436449376</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20669%20%C4%91%C6%B0%E1%BB%9Dng%20L%C4%A9nh%20Nam%2C%20ph%C6%B0%E1%BB%9Dng%20L%C4%A9nh%20Nam%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV005" ward="Định Công" name="Điểm phục vụ hành chính công Định Công">
+        <address>Số 1, ngõ 282 đường Kim Giang, phường Định Công, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02435590410</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%2C%20ng%C3%B5%20282%20%C4%91%C6%B0%E1%BB%9Dng%20Kim%20Giang%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%8Bnh%20C%C3%B4ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV006" ward="Hoàng Mai" name="Điểm phục vụ hành chính công Hoàng Mai">
+        <address>Số 5 ngõ 2 phố Bùi Huy Bích, phường Hoàng Mai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0988616579</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%205%20ng%C3%B5%202%20ph%E1%BB%91%20B%C3%B9i%20Huy%20B%C3%ADch%2C%20ph%C6%B0%E1%BB%9Dng%20Ho%C3%A0ng%20Mai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV007" ward="Yên Sở" name="Điểm phục vụ hành chính công Yên Sở">
+        <address>Số 8 Ngõ 6 Bùi Huy Bích, Phường Thịnh Liệt, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983122659</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%208%20Ng%C3%B5%206%20B%C3%B9i%20Huy%20B%C3%ADch%2C%20Ph%C6%B0%E1%BB%9Dng%20Th%E1%BB%8Bnh%20Li%E1%BB%87t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV008" ward="Vĩnh Tuy" name="Điểm phục vụ hành chính công Vĩnh Tuy">
+        <address>Số 35 phố Vĩnh Tuy, phường Vĩnh Tuy, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02439873249</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2035%20ph%E1%BB%91%20V%C4%A9nh%20Tuy%2C%20ph%C6%B0%E1%BB%9Dng%20V%C4%A9nh%20Tuy%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV009" ward="Nghĩa Đô" name="Điểm phục vụ hành chính công Nghĩa Đô">
+        <address>Số 45 phố Nghĩa Tân, phường Nghĩa Đô, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02432072668</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2045%20ph%E1%BB%91%20Ngh%C4%A9a%20T%C3%A2n%2C%20ph%C6%B0%E1%BB%9Dng%20Ngh%C4%A9a%20%C4%90%C3%B4%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV010" ward="Cầu Giấy" name="Điểm phục vụ hành chính công Cầu Giấy">
+        <address>Số 85 phố Dịch Vọng Hậu, phường Cầu Giấy, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0988119989</phone>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0932317676</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2085%20ph%E1%BB%91%20D%E1%BB%8Bch%20V%E1%BB%8Dng%20H%E1%BA%ADu%2C%20ph%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20Gi%E1%BA%A5y%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV011" ward="Yên Hoà" name="Điểm phục vụ hành chính công Yên Hoà">
+        <address>Số 231 Nguyễn Ngọc Vũ, phường Yên Hoà, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02435564793</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20231%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20V%C5%A9%2C%20ph%C6%B0%E1%BB%9Dng%20Y%C3%AAn%20Ho%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV012" ward="Ngọc Hà" name="Điểm phục vụ hành chính công Ngọc Hà">
+        <address>1. Trụ sở chính: Số 25 Liễu Giai, phường Ngọc Hà, thành phố Hà Nội. (Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND phường). 2. Điểm Phục vụ hành chính công 01 phường Ngọc Hà: Số 1 ngõ 465 Đội Cấn, phường Ngọc Hà, thành phố Hà Nội. (Tiếp nhận hồ sơ lĩnh vực Tư pháp và hỗ trợ công dân thực hiện TTHC qua hình thức Dịch vụ công trực tuyến). 3. Điểm Phục vụ hành chính công 02 phường Ngọc Hà: Số 79 ngõ 173, đường Hoàng Hoa Thám, phường Ngọc Hà, thành phố Hà Nội. (Tiếp nhận hồ sơ lĩnh vực Tư pháp và hỗ trợ công dân thực hiện TTHC qua hình thức Dịch vụ công trực tuyến). 4. Điểm Phục vụ hành chính công 03 phường Ngọc Hà: Số 248 phố Kim Mã, phường Ngọc Hà, thành phố Hà Nội. (Tiếp nhận hồ sơ lĩnh vực Tư pháp và hỗ trợ công dân thực hiện TTHC qua hình thức Dịch vụ công trực tuyến).</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0837625147</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20S%E1%BB%91%2025%20Li%E1%BB%85u%20Giai%2C%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20thu%E1%BB%99c%20th%E1%BA%A9m%20quy%E1%BB%81n%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20c%E1%BB%A7a%20UBND%20ph%C6%B0%E1%BB%9Dng%29.%202.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2001%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%3A%20S%E1%BB%91%201%20ng%C3%B5%20465%20%C4%90%E1%BB%99i%20C%E1%BA%A5n%2C%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%B4ng%20d%C3%A2n%20th%E1%BB%B1c%20hi%E1%BB%87n%20TTHC%20qua%20h%C3%ACnh%20th%E1%BB%A9c%20D%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%29.%203.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2002%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%3A%20S%E1%BB%91%2079%20ng%C3%B5%20173%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Ho%C3%A0ng%20Hoa%20Th%C3%A1m%2C%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%B4ng%20d%C3%A2n%20th%E1%BB%B1c%20hi%E1%BB%87n%20TTHC%20qua%20h%C3%ACnh%20th%E1%BB%A9c%20D%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%29.%204.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2003%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%3A%20S%E1%BB%91%20248%20ph%E1%BB%91%20Kim%20M%C3%A3%2C%20ph%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20H%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%B4ng%20d%C3%A2n%20th%E1%BB%B1c%20hi%E1%BB%87n%20TTHC%20qua%20h%C3%ACnh%20th%E1%BB%A9c%20D%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%29.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV013" ward="Ba Đình" name="Điểm phục vụ hành chính công Ba Đình">
+        <address>1. Trụ sở chính: Số 2 phố Trúc Bạch, phường Ba Đình, thành phố Hà Nội. (Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND phường). 2. Điểm Phục vụ hành chính công 01 phường Ba Đình: Số 12 - 14 phố Phan Đình Phùng, phường Ba Đình, thành phố Hà Nội. (Tiếp nhận và giải quyết hồ sơ TTHC về chứng thực và Hộ tịch). 3. Điểm Phục vụ hành chính công 02 phường Ba Đình: Số 68 phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội. (Tiếp nhận và giải quyết hồ sơ TTHC về chứng thực và Hộ tịch).</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02437164477</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20S%E1%BB%91%202%20ph%E1%BB%91%20Tr%C3%BAc%20B%E1%BA%A1ch%2C%20ph%C6%B0%E1%BB%9Dng%20Ba%20%C4%90%C3%ACnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20thu%E1%BB%99c%20th%E1%BA%A9m%20quy%E1%BB%81n%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20c%E1%BB%A7a%20UBND%20ph%C6%B0%E1%BB%9Dng%29.%202.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2001%20ph%C6%B0%E1%BB%9Dng%20Ba%20%C4%90%C3%ACnh%3A%20S%E1%BB%91%2012%20-%2014%20ph%E1%BB%91%20Phan%20%C4%90%C3%ACnh%20Ph%C3%B9ng%2C%20ph%C6%B0%E1%BB%9Dng%20Ba%20%C4%90%C3%ACnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%C3%A0%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20h%E1%BB%93%20s%C6%A1%20TTHC%20v%E1%BB%81%20ch%E1%BB%A9ng%20th%E1%BB%B1c%20v%C3%A0%20H%E1%BB%99%20t%E1%BB%8Bch%29.%203.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2002%20ph%C6%B0%E1%BB%9Dng%20Ba%20%C4%90%C3%ACnh%3A%20S%E1%BB%91%2068%20ph%E1%BB%91%20Nguy%E1%BB%85n%20Th%C3%A1i%20H%E1%BB%8Dc%2C%20ph%C6%B0%E1%BB%9Dng%20Ba%20%C4%90%C3%ACnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%C3%A0%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20h%E1%BB%93%20s%C6%A1%20TTHC%20v%E1%BB%81%20ch%E1%BB%A9ng%20th%E1%BB%B1c%20v%C3%A0%20H%E1%BB%99%20t%E1%BB%8Bch%29.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV014" ward="Giảng Võ" name="Điểm phục vụ hành chính công Giảng Võ">
+        <address>1. Trụ sở chính: Số 525 Kim Mã, phường Giảng Võ, thành phố Hà Nội. (Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND phường). 2. Điểm Phục vụ hành chính công 01 phường Giảng Võ: Số 52/612 phố Đê La Thành, phường Giảng Võ, thành phố Hà Nội. (Tiếp nhận hồ sơ lĩnh vực Tư pháp và hỗ trợ công dân thực hiện TTHC qua hình thức Dịch vụ công trực tuyến). 3. Điểm Phục vụ hành chính công 02 phường Giảng Võ: Số 246 đường Bưởi, phường Giảng Võ, thành phố Hà Nội. (Tiếp nhận hồ sơ lĩnh vực Tư pháp và hỗ trợ công dân thực hiện TTHC qua hình thức Dịch vụ công trực tuyến).</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02438343016</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20S%E1%BB%91%20525%20Kim%20M%C3%A3%2C%20ph%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3ng%20V%C3%B5%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20thu%E1%BB%99c%20th%E1%BA%A9m%20quy%E1%BB%81n%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20c%E1%BB%A7a%20UBND%20ph%C6%B0%E1%BB%9Dng%29.%202.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2001%20ph%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3ng%20V%C3%B5%3A%20S%E1%BB%91%2052/612%20ph%E1%BB%91%20%C4%90%C3%AA%20La%20Th%C3%A0nh%2C%20ph%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3ng%20V%C3%B5%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%B4ng%20d%C3%A2n%20th%E1%BB%B1c%20hi%E1%BB%87n%20TTHC%20qua%20h%C3%ACnh%20th%E1%BB%A9c%20D%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%29.%203.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%2002%20ph%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3ng%20V%C3%B5%3A%20S%E1%BB%91%20246%20%C4%91%C6%B0%E1%BB%9Dng%20B%C6%B0%E1%BB%9Fi%2C%20ph%C6%B0%E1%BB%9Dng%20Gi%E1%BA%A3ng%20V%C3%B5%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20v%C3%A0%20h%E1%BB%97%20tr%E1%BB%A3%20c%C3%B4ng%20d%C3%A2n%20th%E1%BB%B1c%20hi%E1%BB%87n%20TTHC%20qua%20h%C3%ACnh%20th%E1%BB%A9c%20D%E1%BB%8Bch%20v%E1%BB%A5%20c%C3%B4ng%20tr%E1%BB%B1c%20tuy%E1%BA%BFn%29.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV015" ward="Hoàn Kiếm" name="Điểm phục vụ hành chính công Hoàn Kiếm">
+        <address>Số 126 phố Hàng Trống, phường Hoàn Kiếm, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02439287630</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20126%20ph%E1%BB%91%20H%C3%A0ng%20Tr%E1%BB%91ng%2C%20ph%C6%B0%E1%BB%9Dng%20Ho%C3%A0n%20Ki%E1%BA%BFm%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV016" ward="Cửa Nam" name="Điểm phục vụ hành chính công Cửa Nam">
+        <address>Số 29 phố Quang Trung, phường Cửa Nam, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02439439376</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2029%20ph%E1%BB%91%20Quang%20Trung%2C%20ph%C6%B0%E1%BB%9Dng%20C%E1%BB%ADa%20Nam%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV017" ward="Văn Miếu - Quốc Tử Giám" name="Điểm phục vụ hành chính công Văn Miếu - Quốc Tử Giám">
+        <address>Số 202 Xã Đàn, phường Văn Miếu - Quốc Tử Giám, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912438439</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20202%20X%C3%A3%20%C4%90%C3%A0n%2C%20ph%C6%B0%E1%BB%9Dng%20V%C4%83n%20Mi%E1%BA%BFu%20-%20Qu%E1%BB%91c%20T%E1%BB%AD%20Gi%C3%A1m%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV018" ward="Láng" name="Điểm phục vụ hành chính công Láng">
+        <address>Ngõ 25, phố Vũ Ngọc Phan, phường Láng Hạ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0904856880</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Ng%C3%B5%2025%2C%20ph%E1%BB%91%20V%C5%A9%20Ng%E1%BB%8Dc%20Phan%2C%20ph%C6%B0%E1%BB%9Dng%20L%C3%A1ng%20H%E1%BA%A1%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV019" ward="Kim Liên" name="Điểm phục vụ hành chính công Kim Liên">
+        <address>Số 2 ngõ 4B phố Đặng Văn Ngữ, Phường Kim Liên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983178718</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%202%20ng%C3%B5%204B%20ph%E1%BB%91%20%C4%90%E1%BA%B7ng%20V%C4%83n%20Ng%E1%BB%AF%2C%20Ph%C6%B0%E1%BB%9Dng%20Kim%20Li%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV020" ward="Đống Đa" name="Điểm phục vụ hành chính công Đống Đa">
+        <address>Số 59 phố Hoàng Cầu, phường Đống Đa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0902468357</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2059%20ph%E1%BB%91%20Ho%C3%A0ng%20C%E1%BA%A7u%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV021" ward="Ô Chợ Dừa" name="Điểm phục vụ hành chính công Ô Chợ Dừa">
+        <address>Số 61 phố Hoàng Cầu, phường Đống Đa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0982151589</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2061%20ph%E1%BB%91%20Ho%C3%A0ng%20C%E1%BA%A7u%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%91ng%20%C4%90a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV022" ward="Tây Tựu" name="Điểm phục vụ hành chính công Tây Tựu">
+        <address>Số 132 đường Cầu Diễn, phường Tây Tựu, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0869428061</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20132%20%C4%91%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20Di%E1%BB%85n%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20T%E1%BB%B1u%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV023" ward="Phú Diễn" name="Điểm phục vụ hành chính công Phú Diễn">
+        <address>Số 222 đường Phú Diễn, phường Phú Diễn, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02432022862</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20222%20%C4%91%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Di%E1%BB%85n%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Di%E1%BB%85n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV024" ward="Đông Ngạc" name="Điểm phục vụ hành chính công Đông Ngạc">
+        <address>Phố Văn Hội, TDP số 2, phường Đông Ngạc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983972369</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Ph%E1%BB%91%20V%C4%83n%20H%E1%BB%99i%2C%20TDP%20s%E1%BB%91%202%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%C3%B4ng%20Ng%E1%BA%A1c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV025" ward="Thượng Cát" name="Điểm phục vụ hành chính công Thượng Cát">
+        <address>Phố Kỳ Vũ, phường Thượng Cát, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02437510064</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Ph%E1%BB%91%20K%E1%BB%B3%20V%C5%A9%2C%20ph%C6%B0%E1%BB%9Dng%20Th%C6%B0%E1%BB%A3ng%20C%C3%A1t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV026" ward="Xuân Đỉnh" name="Điểm phục vụ hành chính công Xuân Đỉnh">
+        <address>Số 6 phố Xuân Tảo, phường Xuân Đỉnh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0913220831</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%206%20ph%E1%BB%91%20Xu%C3%A2n%20T%E1%BA%A3o%2C%20ph%C6%B0%E1%BB%9Dng%20Xu%C3%A2n%20%C4%90%E1%BB%89nh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV027" ward="Sơn Đồng" name="Điểm phục vụ hành chính công Sơn Đồng">
+        <address>Số 6 đường Tiền Yên, thôn Tiền Lệ, xã Sơn Đồng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0985878579</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%206%20%C4%91%C6%B0%E1%BB%9Dng%20Ti%E1%BB%81n%20Y%C3%AAn%2C%20th%C3%B4n%20Ti%E1%BB%81n%20L%E1%BB%87%2C%20x%C3%A3%20S%C6%A1n%20%C4%90%E1%BB%93ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV028" ward="Quang Minh" name="Điểm phục vụ hành chính công Quang Minh">
+        <address>Thôn Nội Đồng, xã Quang Minh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0968119789</phone>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0981358969</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20N%E1%BB%99i%20%C4%90%E1%BB%93ng%2C%20x%C3%A3%20Quang%20Minh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV029" ward="Mê Linh" name="Điểm phục vụ hành chính công Mê Linh">
+        <address>Thôn Tráng Việt, xã Mê Linh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983365363</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Tr%C3%A1ng%20Vi%E1%BB%87t%2C%20x%C3%A3%20M%C3%AA%20Linh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV030" ward="Yên Lãng" name="Điểm phục vụ hành chính công Yên Lãng">
+        <address>Thôn 1, xã Yên Lãng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0903408870</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%201%2C%20x%C3%A3%20Y%C3%AAn%20L%C3%A3ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV031" ward="Tiến Thắng" name="Điểm phục vụ hành chính công Tiến Thắng">
+        <address>Thôn Văn Lôi, xã Tiến Thắng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0976651851</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20V%C4%83n%20L%C3%B4i%2C%20x%C3%A3%20Ti%E1%BA%BFn%20Th%E1%BA%AFng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV032" ward="Phú Xuyên" name="Điểm phục vụ hành chính công Phú Xuyên">
+        <address>1. Trụ sở chính: Tiểu khu Thao Chính, xã Phú Xuyên, thành phố Hà Nội 2. Điểm Phục vụ hành chính công số 01 (Dự kiến): thôn Nam Phú, xã Phú Xuyên, thành phố Hà Nội 3. Điểm Phục vụ hành chính công số 2 (Dự kiến): thôn Chanh Thôn, xã Phú Xuyên, thành phố Hà Nội 4. Điểm Phục vụ hành chính công số 3 (Dự kiến): Vạn Nhất, xã Phú Xuyên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02433791827</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20Ti%E1%BB%83u%20khu%20Thao%20Ch%C3%ADnh%2C%20x%C3%A3%20Ph%C3%BA%20Xuy%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%202.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20s%E1%BB%91%2001%20%28D%E1%BB%B1%20ki%E1%BA%BFn%29%3A%20th%C3%B4n%20Nam%20Ph%C3%BA%2C%20x%C3%A3%20Ph%C3%BA%20Xuy%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%203.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20s%E1%BB%91%202%20%28D%E1%BB%B1%20ki%E1%BA%BFn%29%3A%20th%C3%B4n%20Chanh%20Th%C3%B4n%2C%20x%C3%A3%20Ph%C3%BA%20Xuy%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%204.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20s%E1%BB%91%203%20%28D%E1%BB%B1%20ki%E1%BA%BFn%29%3A%20V%E1%BA%A1n%20Nh%E1%BA%A5t%2C%20x%C3%A3%20Ph%C3%BA%20Xuy%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV033" ward="Chuyên Mỹ" name="Điểm phục vụ hành chính công Chuyên Mỹ">
+        <address>Thôn Chính Vân, xã Chuyên Mỹ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0337388779</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ch%C3%ADnh%20V%C3%A2n%2C%20x%C3%A3%20Chuy%C3%AAn%20M%E1%BB%B9%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV034" ward="Đại Xuyên" name="Điểm phục vụ hành chính công Đại Xuyên">
+        <address>Thôn Hoà Thượng, xã Đại Xuyên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0975034688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ho%C3%A0%20Th%C6%B0%E1%BB%A3ng%2C%20x%C3%A3%20%C4%90%E1%BA%A1i%20Xuy%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV035" ward="Phượng Dực" name="Điểm phục vụ hành chính công Phượng Dực">
+        <address>Số 04, đường liên xã thôn Đồng Tiến, xã Phượng Dực, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0905176599</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2004%2C%20%C4%91%C6%B0%E1%BB%9Dng%20li%C3%AAn%20x%C3%A3%20th%C3%B4n%20%C4%90%E1%BB%93ng%20Ti%E1%BA%BFn%2C%20x%C3%A3%20Ph%C6%B0%E1%BB%A3ng%20D%E1%BB%B1c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV036" ward="Phúc Thọ" name="Điểm phục vụ hành chính công Phúc Thọ">
+        <address>Số 43, Tổ dân phố số 3, đường Lạc Trị, xã Phúc Thọ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0977774884</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2043%2C%20T%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91%20s%E1%BB%91%203%2C%20%C4%91%C6%B0%E1%BB%9Dng%20L%E1%BA%A1c%20Tr%E1%BB%8B%2C%20x%C3%A3%20Ph%C3%BAc%20Th%E1%BB%8D%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV037" ward="Phúc Lộc" name="Điểm phục vụ hành chính công Phúc Lộc">
+        <address>Số 99, thôn Nam Võng Ngoại, xã Phúc Lộc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0988212121</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2099%2C%20th%C3%B4n%20Nam%20V%C3%B5ng%20Ngo%E1%BA%A1i%2C%20x%C3%A3%20Ph%C3%BAc%20L%E1%BB%99c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV038" ward="Hát Môn" name="Điểm phục vụ hành chính công Hát Môn">
+        <address>Thôn Nội 1, Xã Hát Môn, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0919713986</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20N%E1%BB%99i%201%2C%20X%C3%A3%20H%C3%A1t%20M%C3%B4n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV039" ward="Quốc Oai" name="Điểm phục vụ hành chính công Quốc Oai">
+        <address>Số 27, phố Hiện, xã Quốc Oai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0981066886</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2027%2C%20ph%E1%BB%91%20Hi%E1%BB%87n%2C%20x%C3%A3%20Qu%E1%BB%91c%20Oai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV040" ward="Kiều Phú" name="Điểm phục vụ hành chính công Kiều Phú">
+        <address>Thôn Phú Mỹ, xã Kiều Phú, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0902198567</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ph%C3%BA%20M%E1%BB%B9%2C%20x%C3%A3%20Ki%E1%BB%81u%20Ph%C3%BA%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV041" ward="Phú Cát" name="Điểm phục vụ hành chính công Phú Cát">
+        <address>Thôn 4, xã Phú Cát, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0977036278</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%204%2C%20x%C3%A3%20Ph%C3%BA%20C%C3%A1t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV042" ward="Hưng Đạo" name="Điểm phục vụ hành chính công Hưng Đạo">
+        <address>Thôn 10 Cộng Hòa (cũ), xã Hưng Đạo, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912778121</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%2010%20C%E1%BB%99ng%20H%C3%B2a%20%28c%C5%A9%29%2C%20x%C3%A3%20H%C6%B0ng%20%C4%90%E1%BA%A1o%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV043" ward="Thanh Oai" name="Điểm phục vụ hành chính công Thanh Oai">
+        <address>Số 135, tổ dân phố Kim Bài, xã Thanh Oai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0967150868</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20135%2C%20t%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91%20Kim%20B%C3%A0i%2C%20x%C3%A3%20Thanh%20Oai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV044" ward="Bình Minh" name="Điểm phục vụ hành chính công Bình Minh">
+        <address>Số 01, Đường Bờ Sông, Thôn Mùi, xã Bích Hòa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0966596956</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2001%2C%20%C4%90%C6%B0%E1%BB%9Dng%20B%E1%BB%9D%20S%C3%B4ng%2C%20Th%C3%B4n%20M%C3%B9i%2C%20x%C3%A3%20B%C3%ADch%20H%C3%B2a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV045" ward="Tam Hưng" name="Điểm phục vụ hành chính công Tam Hưng">
+        <address>Số 65, Đường tỉnh lộ 427, Thôn Gia Vĩnh, xã Tam Hưng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0969198833</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2065%2C%20%C4%90%C6%B0%E1%BB%9Dng%20t%E1%BB%89nh%20l%E1%BB%99%20427%2C%20Th%C3%B4n%20Gia%20V%C4%A9nh%2C%20x%C3%A3%20Tam%20H%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV046" ward="Dân Hoà" name="Điểm phục vụ hành chính công Dân Hoà">
+        <address>Số 45 Đường Trung Tâm, xã Dân Hòa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0977631375</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2045%20%C4%90%C6%B0%E1%BB%9Dng%20Trung%20T%C3%A2m%2C%20x%C3%A3%20D%C3%A2n%20H%C3%B2a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV047" ward="Thanh Trì" name="Điểm phục vụ hành chính công Thanh Trì">
+        <address>Số 12 đường Nguyễn Bặc, Thị trấn Văn Điển, Thanh Trì, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0914630985</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2012%20%C4%91%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n%20B%E1%BA%B7c%2C%20Th%E1%BB%8B%20tr%E1%BA%A5n%20V%C4%83n%20%C4%90i%E1%BB%83n%2C%20Thanh%20Tr%C3%AC%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV048" ward="Ngọc Hồi" name="Điểm phục vụ hành chính công Ngọc Hồi">
+        <address>Thôn Đại áng, xã Ngọc Hồi, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0975936899</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20%C4%90%E1%BA%A1i%20%C3%A1ng%2C%20x%C3%A3%20Ng%E1%BB%8Dc%20H%E1%BB%93i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV049" ward="Nam Phù" name="Điểm phục vụ hành chính công Nam Phù">
+        <address>Thôn 2 Đông Mỹ, xã Nam Phù, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0389448879</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%202%20%C4%90%C3%B4ng%20M%E1%BB%B9%2C%20x%C3%A3%20Nam%20Ph%C3%B9%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV050" ward="Thanh Liệt" name="Điểm phục vụ hành chính công Thanh Liệt">
+        <address>Thôn Triều Khúc, phường Thanh Liệt, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912385494</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Tri%E1%BB%81u%20Kh%C3%BAc%2C%20ph%C6%B0%E1%BB%9Dng%20Thanh%20Li%E1%BB%87t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV051" ward="Đại Thanh" name="Điểm phục vụ hành chính công Đại Thanh">
+        <address>Thôn Tả Thanh Oai, xã Đại Thanh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0963950088</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20T%E1%BA%A3%20Thanh%20Oai%2C%20x%C3%A3%20%C4%90%E1%BA%A1i%20Thanh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV052" ward="Thường Tín" name="Điểm phục vụ hành chính công Thường Tín">
+        <address>Số 01 phố Thượng Phúc, xã Thường Tín, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912717821</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2001%20ph%E1%BB%91%20Th%C6%B0%E1%BB%A3ng%20Ph%C3%BAc%2C%20x%C3%A3%20Th%C6%B0%E1%BB%9Dng%20T%C3%ADn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV053" ward="Hai Bà Trưng" name="Điểm phục vụ hành chính công Hai Bà Trưng">
+        <address>1. Trụ sở chính: Số 6 Phố Yên Bái 1, phường Hai Bà Trưng, thành phố Hà Nội (Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND phường) 2. Điểm Phục vụ hành chính công số 01: Số 44 Trần Xuân Soạn, phường Hai Bà Trưng, thành phố Hà Nội. 3. Điểm Phục vụ hành chính công số 02: Số 14 Đỗ Ngọc Du, phường Hai Bà Trưng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02439764376</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20S%E1%BB%91%206%20Ph%E1%BB%91%20Y%C3%AAn%20B%C3%A1i%201%2C%20ph%C6%B0%E1%BB%9Dng%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20thu%E1%BB%99c%20th%E1%BA%A9m%20quy%E1%BB%81n%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20c%E1%BB%A7a%20UBND%20ph%C6%B0%E1%BB%9Dng%29%202.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20s%E1%BB%91%2001%3A%20S%E1%BB%91%2044%20Tr%E1%BA%A7n%20Xu%C3%A2n%20So%E1%BA%A1n%2C%20ph%C6%B0%E1%BB%9Dng%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%203.%20%C4%90i%E1%BB%83m%20Ph%E1%BB%A5c%20v%E1%BB%A5%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20s%E1%BB%91%2002%3A%20S%E1%BB%91%2014%20%C4%90%E1%BB%97%20Ng%E1%BB%8Dc%20Du%2C%20ph%C6%B0%E1%BB%9Dng%20Hai%20B%C3%A0%20Tr%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV054" ward="Bạch Mai" name="Điểm phục vụ hành chính công Bạch Mai">
+        <address>Số 33 đường Đại Cồ Việt, phường Bạch Mai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02439780364</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2033%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20C%E1%BB%93%20Vi%E1%BB%87t%2C%20ph%C6%B0%E1%BB%9Dng%20B%E1%BA%A1ch%20Mai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV055" ward="Thanh Xuân" name="Điểm phục vụ hành chính công Thanh Xuân">
+        <address>Trụ sở UBND phường Thanh Xuân, ngõ 11 đường Khuất Duy Tiến, Thanh Xuân, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0915575252</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20ph%C6%B0%E1%BB%9Dng%20Thanh%20Xu%C3%A2n%2C%20ng%C3%B5%2011%20%C4%91%C6%B0%E1%BB%9Dng%20Khu%E1%BA%A5t%20Duy%20Ti%E1%BA%BFn%2C%20Thanh%20Xu%C3%A2n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV056" ward="Phương Liệt" name="Điểm phục vụ hành chính công Phương Liệt">
+        <address>Số 136 Nguyễn Ngọc Nại, phường Phương Liệt, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0904852324</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20136%20Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20N%E1%BA%A1i%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C6%B0%C6%A1ng%20Li%E1%BB%87t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV057" ward="Khương Đình" name="Điểm phục vụ hành chính công Khương Đình">
+        <address>Số 33 Khương Hạ, phường Khương Đình, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02438586215</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2033%20Kh%C6%B0%C6%A1ng%20H%E1%BA%A1%2C%20ph%C6%B0%E1%BB%9Dng%20Kh%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV058" ward="Hà Đông" name="Điểm phục vụ hành chính công Hà Đông">
+        <address>Số 2 phố Hà Cầu, phường Hà Cầu, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02462601707</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%202%20ph%E1%BB%91%20H%C3%A0%20C%E1%BA%A7u%2C%20ph%C6%B0%E1%BB%9Dng%20H%C3%A0%20C%E1%BA%A7u%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV059" ward="Kiến Hưng" name="Điểm phục vụ hành chính công Kiến Hưng">
+        <address>Lô C3, Khu đô thị Văn Phú, phường Kiến Hưng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0904112596</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=L%C3%B4%20C3%2C%20Khu%20%C4%91%C3%B4%20th%E1%BB%8B%20V%C4%83n%20Ph%C3%BA%2C%20ph%C6%B0%E1%BB%9Dng%20Ki%E1%BA%BFn%20H%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV060" ward="Dương Nội" name="Điểm phục vụ hành chính công Dương Nội">
+        <address>HC-01 Khu A Khu đô thị mới Dương Nội, phường Dương Nội, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0972702468</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=HC-01%20Khu%20A%20Khu%20%C4%91%C3%B4%20th%E1%BB%8B%20m%E1%BB%9Bi%20D%C6%B0%C6%A1ng%20N%E1%BB%99i%2C%20ph%C6%B0%E1%BB%9Dng%20D%C6%B0%C6%A1ng%20N%E1%BB%99i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV061" ward="Phú Lương" name="Điểm phục vụ hành chính công Phú Lương">
+        <address>Số 5 đường Quang Lãm, phường Phú Lương, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0982688289</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%205%20%C4%91%C6%B0%E1%BB%9Dng%20Quang%20L%C3%A3m%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20L%C6%B0%C6%A1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV062" ward="Yên Nghĩa" name="Điểm phục vụ hành chính công Yên Nghĩa">
+        <address>Tổ dân phố số 10, phường Yên Nghĩa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0968865675</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%20d%C3%A2n%20ph%E1%BB%91%20s%E1%BB%91%2010%2C%20ph%C6%B0%E1%BB%9Dng%20Y%C3%AAn%20Ngh%C4%A9a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV063" ward="Việt Hưng" name="Điểm phục vụ hành chính công Việt Hưng">
+        <address>Số 3 phố Vạn Hạnh, phường Việt Hưng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983041380</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%203%20ph%E1%BB%91%20V%E1%BA%A1n%20H%E1%BA%A1nh%2C%20ph%C6%B0%E1%BB%9Dng%20Vi%E1%BB%87t%20H%C6%B0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV064" ward="Long Biên" name="Điểm phục vụ hành chính công Long Biên">
+        <address>Số 199 đường Bát Khối, phường Long Biên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0913267887</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20199%20%C4%91%C6%B0%E1%BB%9Dng%20B%C3%A1t%20Kh%E1%BB%91i%2C%20ph%C6%B0%E1%BB%9Dng%20Long%20Bi%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV065" ward="Phúc Lợi" name="Điểm phục vụ hành chính công Phúc Lợi">
+        <address>Tổ 6, phường Phúc Lợi, thành phố Hà.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0948881828</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=T%E1%BB%95%206%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BAc%20L%E1%BB%A3i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV066" ward="Chương Dương" name="Điểm phục vụ hành chính công Chương Dương">
+        <address>Số 01 Chương Dương, xã Chương Dương, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0989994836</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2001%20Ch%C6%B0%C6%A1ng%20D%C6%B0%C6%A1ng%2C%20x%C3%A3%20Ch%C6%B0%C6%A1ng%20D%C6%B0%C6%A1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV067" ward="Thượng Phúc" name="Điểm phục vụ hành chính công Thượng Phúc">
+        <address>Thôn Mai Sao, xã Thượng Phúc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0963224288</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Mai%20Sao%2C%20x%C3%A3%20Th%C6%B0%E1%BB%A3ng%20Ph%C3%BAc%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV068" ward="Hồng Vân" name="Điểm phục vụ hành chính công Hồng Vân">
+        <address>Thôn Nỏ Bạn, xã Hồng Vân, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0904218846</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20N%E1%BB%8F%20B%E1%BA%A1n%2C%20x%C3%A3%20H%E1%BB%93ng%20V%C3%A2n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV069" ward="Vân Đình" name="Điểm phục vụ hành chính công Vân Đình">
+        <address>Thôn Hoàng Xá, xã Vân Đình, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0986193519</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ho%C3%A0ng%20X%C3%A1%2C%20x%C3%A3%20V%C3%A2n%20%C4%90%C3%ACnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV070" ward="Hoà Xá" name="Điểm phục vụ hành chính công Hoà Xá">
+        <address>Thôn Đặng Giang, xã Hòa Xá, huyện Ứng Hòa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0983370443</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20%C4%90%E1%BA%B7ng%20Giang%2C%20x%C3%A3%20H%C3%B2a%20X%C3%A1%2C%20huy%E1%BB%87n%20%E1%BB%A8ng%20H%C3%B2a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV071" ward="Ứng Thiên" name="Điểm phục vụ hành chính công Ứng Thiên">
+        <address>Thôn Trung Thịnh, xã Ứng Thiên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0987532889</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Trung%20Th%E1%BB%8Bnh%2C%20x%C3%A3%20%E1%BB%A8ng%20Thi%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV072" ward="Ứng Hoà" name="Điểm phục vụ hành chính công Ứng Hoà">
+        <address>Thôn Trạch Bái, xã Ứng Hoà, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02433150003</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Tr%E1%BA%A1ch%20B%C3%A1i%2C%20x%C3%A3%20%E1%BB%A8ng%20Ho%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV073" ward="Sơn Tây" name="Điểm phục vụ hành chính công Sơn Tây">
+        <address>Số 1, Phó Đức Chính, phường Sơn Tây, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0915080056</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%2C%20Ph%C3%B3%20%C4%90%E1%BB%A9c%20Ch%C3%ADnh%2C%20ph%C6%B0%E1%BB%9Dng%20S%C6%A1n%20T%C3%A2y%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV074" ward="Đoài Phương" name="Điểm phục vụ hành chính công Đoài Phương">
+        <address>Thôn Phúc Lộc, xã Đoài Phương, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0902255859</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ph%C3%BAc%20L%E1%BB%99c%2C%20x%C3%A3%20%C4%90o%C3%A0i%20Ph%C6%B0%C6%A1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV075" ward="Tùng Thiện" name="Điểm phục vụ hành chính công Tùng Thiện">
+        <address>Số 66, đường Thanh Mỹ, thôn Thủ Trung, phường Tùng Thiện, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912865284</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2066%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Thanh%20M%E1%BB%B9%2C%20th%C3%B4n%20Th%E1%BB%A7%20Trung%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%B9ng%20Thi%E1%BB%87n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV076" ward="Đông Anh" name="Điểm phục vụ hành chính công Đông Anh">
+        <address>1. Trụ sở chính - Số 66-68 Đường Cao Lỗ, xã Đông Anh, thành phố Hà Nội 2. Trụ sở UBND xã Cổ Loa (cũ) - 193 Đường Cổ Loa, xã Đông Anh, thành phố Hà Nội 3. Trụ sở UBND xã Việt Hùng (cũ), thành phố Hà Nội 4. Trụ sở UBND xã Đông Anh đặt tại Trụ sở UBND xã Mai Lâm (cũ), thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0946526988</phone>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0902222605</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%20-%20S%E1%BB%91%2066-68%20%C4%90%C6%B0%E1%BB%9Dng%20Cao%20L%E1%BB%97%2C%20x%C3%A3%20%C4%90%C3%B4ng%20Anh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%202.%20Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20C%E1%BB%95%20Loa%20%28c%C5%A9%29%20-%20193%20%C4%90%C6%B0%E1%BB%9Dng%20C%E1%BB%95%20Loa%2C%20x%C3%A3%20%C4%90%C3%B4ng%20Anh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%203.%20Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20Vi%E1%BB%87t%20H%C3%B9ng%20%28c%C5%A9%29%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%204.%20Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20%C4%90%C3%B4ng%20Anh%20%C4%91%E1%BA%B7t%20t%E1%BA%A1i%20Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20Mai%20L%C3%A2m%20%28c%C5%A9%29%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV077" ward="Phúc Thịnh" name="Điểm phục vụ hành chính công Phúc Thịnh">
+        <address>1. Trụ sở chính tại: UBND xã Nguyên Khê (cũ), thôn Cán Khê, xã Phúc Thịnh, thành phố Hà Nội. 2. Điểm hỗ trợ 1: UBND xã Tiên Dương (cũ), địa chỉ: thôn Tiên Kha, xã Phúc Thịnh, thành phố Hà Nội. 3. Điểm hỗ trợ 2: UBND xã Vân Nội (cũ), địa chỉ: Thịnh, thành phố Hà Nội. 4. Điểm hỗ trợ 3: UBND xã Bắc Hồng (cũ), địa chỉ: Thịnh, thành phố Hà Nội. 5. Điểm hỗ trợ 4: UBND xã Nam Hồng (cũ), địa chỉ: Thịnh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0916447896</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%20t%E1%BA%A1i%3A%20UBND%20x%C3%A3%20Nguy%C3%AAn%20Kh%C3%AA%20%28c%C5%A9%29%2C%20th%C3%B4n%20C%C3%A1n%20Kh%C3%AA%2C%20x%C3%A3%20Ph%C3%BAc%20Th%E1%BB%8Bnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%202.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%201%3A%20UBND%20x%C3%A3%20Ti%C3%AAn%20D%C6%B0%C6%A1ng%20%28c%C5%A9%29%2C%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%3A%20th%C3%B4n%20Ti%C3%AAn%20Kha%2C%20x%C3%A3%20Ph%C3%BAc%20Th%E1%BB%8Bnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%203.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%202%3A%20UBND%20x%C3%A3%20V%C3%A2n%20N%E1%BB%99i%20%28c%C5%A9%29%2C%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%3A%20Th%E1%BB%8Bnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%204.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%203%3A%20UBND%20x%C3%A3%20B%E1%BA%AFc%20H%E1%BB%93ng%20%28c%C5%A9%29%2C%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%3A%20Th%E1%BB%8Bnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%205.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%204%3A%20UBND%20x%C3%A3%20Nam%20H%E1%BB%93ng%20%28c%C5%A9%29%2C%20%C4%91%E1%BB%8Ba%20ch%E1%BB%89%3A%20Th%E1%BB%8Bnh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV078" ward="Thiên Lộc" name="Điểm phục vụ hành chính công Thiên Lộc">
+        <address>Thôn Bầu, xã Thiên Lộc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0989995820</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20B%E1%BA%A7u%2C%20x%C3%A3%20Thi%C3%AAn%20L%E1%BB%99c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV079" ward="Phú Nghĩa" name="Điểm phục vụ hành chính công Phú Nghĩa">
+        <address>Thôn Yên Kiện, xã Phú Nghĩa, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0985989688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Y%C3%AAn%20Ki%E1%BB%87n%2C%20x%C3%A3%20Ph%C3%BA%20Ngh%C4%A9a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV080" ward="Quảng Bị" name="Điểm phục vụ hành chính công Quảng Bị">
+        <address>Thôn Thái Hòa, xã Quảng Bị, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0942486688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Th%C3%A1i%20H%C3%B2a%2C%20x%C3%A3%20Qu%E1%BA%A3ng%20B%E1%BB%8B%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV081" ward="Trần Phú" name="Điểm phục vụ hành chính công Trần Phú">
+        <address>Thôn An Thuận 1, xã Trần Phú, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0984556622</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20An%20Thu%E1%BA%ADn%201%2C%20x%C3%A3%20Tr%E1%BA%A7n%20Ph%C3%BA%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV082" ward="Xuân Mai" name="Điểm phục vụ hành chính công Xuân Mai">
+        <address>Thôn Trí Thủy, xã Xuân Mai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912667779</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Tr%C3%AD%20Th%E1%BB%A7y%2C%20x%C3%A3%20Xu%C3%A2n%20Mai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV083" ward="Thạch Thất" name="Điểm phục vụ hành chính công Thạch Thất">
+        <address>Số 2, đường Chi Quan, xã Thạch Thất, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0913009173</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%202%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Chi%20Quan%2C%20x%C3%A3%20Th%E1%BA%A1ch%20Th%E1%BA%A5t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV084" ward="Hạ Bằng" name="Điểm phục vụ hành chính công Hạ Bằng">
+        <address>Thôn Sen Trì, xã Hạ Bằng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0965161156</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Sen%20Tr%C3%AC%2C%20x%C3%A3%20H%E1%BA%A1%20B%E1%BA%B1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV085" ward="Hoà Lạc" name="Điểm phục vụ hành chính công Hoà Lạc">
+        <address>Khu TĐC Bắc Phú Cát, thôn 1 xã Hoà Lạc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0393339193</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Khu%20T%C4%90C%20B%E1%BA%AFc%20Ph%C3%BA%20C%C3%A1t%2C%20th%C3%B4n%201%20x%C3%A3%20Ho%C3%A0%20L%E1%BA%A1c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV086" ward="Tây Phương" name="Điểm phục vụ hành chính công Tây Phương">
+        <address>Số 91, Đường Trung Tâm, Thôn Yên, xã Tây Phương, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0989186090</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2091%2C%20%C4%90%C6%B0%E1%BB%9Dng%20Trung%20T%C3%A2m%2C%20Th%C3%B4n%20Y%C3%AAn%2C%20x%C3%A3%20T%C3%A2y%20Ph%C6%B0%C6%A1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV087" ward="Yên Xuân" name="Điểm phục vụ hành chính công Yên Xuân">
+        <address>Yên Bình, xã Thạch Thất, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0979767688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Y%C3%AAn%20B%C3%ACnh%2C%20x%C3%A3%20Th%E1%BA%A1ch%20Th%E1%BA%A5t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV088" ward="Bồ Đề" name="Điểm phục vụ hành chính công Bồ Đề">
+        <address>Số 270, đường Ngọc Thuỵ, phường Bồ Đề, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0914929181</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20270%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Ng%E1%BB%8Dc%20Thu%E1%BB%B5%2C%20ph%C6%B0%E1%BB%9Dng%20B%E1%BB%93%20%C4%90%E1%BB%81%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV089" ward="Từ Liêm" name="Điểm phục vụ hành chính công Từ Liêm">
+        <address>Số 1, phố Huy Du, phường Từ Liêm, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0942826060</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%2C%20ph%E1%BB%91%20Huy%20Du%2C%20ph%C6%B0%E1%BB%9Dng%20T%E1%BB%AB%20Li%C3%AAm%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV090" ward="Đại Mỗ" name="Điểm phục vụ hành chính công Đại Mỗ">
+        <address>Số 76 Đường Trung Văn, phường Đại Mỗ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0948821399</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2076%20%C4%90%C6%B0%E1%BB%9Dng%20Trung%20V%C4%83n%2C%20ph%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20M%E1%BB%97%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV091" ward="Tây Mỗ" name="Điểm phục vụ hành chính công Tây Mỗ">
+        <address>Số 169, đường Đại Mỗ, phường Tây Mỗ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0982266689</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20169%2C%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20M%E1%BB%97%2C%20ph%C6%B0%E1%BB%9Dng%20T%C3%A2y%20M%E1%BB%97%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV092" ward="Xuân Phương" name="Điểm phục vụ hành chính công Xuân Phương">
+        <address>Số 15 đường Trịnh Văn Bô kéo dài (cạnh trường Cao đẳng FPT), phường Xuân Phương, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0826172172</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2015%20%C4%91%C6%B0%E1%BB%9Dng%20Tr%E1%BB%8Bnh%20V%C4%83n%20B%C3%B4%20k%C3%A9o%20d%C3%A0i%20%28c%E1%BA%A1nh%20tr%C6%B0%E1%BB%9Dng%20Cao%20%C4%91%E1%BA%B3ng%20FPT%29%2C%20ph%C6%B0%E1%BB%9Dng%20Xu%C3%A2n%20Ph%C6%B0%C6%A1ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV093" ward="Tây Hồ" name="Điểm phục vụ hành chính công Tây Hồ">
+        <address>657 Lạc Long Quân, Tây Hồ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0909798886</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=657%20L%E1%BA%A1c%20Long%20Qu%C3%A2n%2C%20T%C3%A2y%20H%E1%BB%93%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV094" ward="Hồng Hà" name="Điểm phục vụ hành chính công Hồng Hà">
+        <address>Điểm tiếp nhận, phục hành chính công phường Hồng Hà, gồm có 04 điểm: 1. Điểm số 1: Khu vực Tứ Liên (Số 30 phố Tứ Liên); 2. Điểm số 2: Khu vực Phúc Xá (Số 57 phố Nghĩa Dũng); 3. Điểm số 3: Khu vực Chương Dương (Số 81 Vọng Hà); 4. Điểm số 4: Khu vực Bạch Đằng (B6 - Đầm Trấu).</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0934598656</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90i%E1%BB%83m%20ti%E1%BA%BFp%20nh%E1%BA%ADn%2C%20ph%E1%BB%A5c%20h%C3%A0nh%20ch%C3%ADnh%20c%C3%B4ng%20ph%C6%B0%E1%BB%9Dng%20H%E1%BB%93ng%20H%C3%A0%2C%20g%E1%BB%93m%20c%C3%B3%2004%20%C4%91i%E1%BB%83m%3A%201.%20%C4%90i%E1%BB%83m%20s%E1%BB%91%201%3A%20Khu%20v%E1%BB%B1c%20T%E1%BB%A9%20Li%C3%AAn%20%28S%E1%BB%91%2030%20ph%E1%BB%91%20T%E1%BB%A9%20Li%C3%AAn%29%3B%202.%20%C4%90i%E1%BB%83m%20s%E1%BB%91%202%3A%20Khu%20v%E1%BB%B1c%20Ph%C3%BAc%20X%C3%A1%20%28S%E1%BB%91%2057%20ph%E1%BB%91%20Ngh%C4%A9a%20D%C5%A9ng%29%3B%203.%20%C4%90i%E1%BB%83m%20s%E1%BB%91%203%3A%20Khu%20v%E1%BB%B1c%20Ch%C6%B0%C6%A1ng%20D%C6%B0%C6%A1ng%20%28S%E1%BB%91%2081%20V%E1%BB%8Dng%20H%C3%A0%29%3B%204.%20%C4%90i%E1%BB%83m%20s%E1%BB%91%204%3A%20Khu%20v%E1%BB%B1c%20B%E1%BA%A1ch%20%C4%90%E1%BA%B1ng%20%28B6%20-%20%C4%90%E1%BA%A7m%20Tr%E1%BA%A5u%29.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV095" ward="Phú Thượng" name="Điểm phục vụ hành chính công Phú Thượng">
+        <address>Số 58 Phú Xá, phường Phú Thượng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0964115959</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2058%20Ph%C3%BA%20X%C3%A1%2C%20ph%C6%B0%E1%BB%9Dng%20Ph%C3%BA%20Th%C6%B0%E1%BB%A3ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV096" ward="Quảng Oai" name="Điểm phục vụ hành chính công Quảng Oai">
+        <address>Số 252 đường Quảng Oai, xã Quảng Oai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0914875120</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20252%20%C4%91%C6%B0%E1%BB%9Dng%20Qu%E1%BA%A3ng%20Oai%2C%20x%C3%A3%20Qu%E1%BA%A3ng%20Oai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV097" ward="Ba Vì" name="Điểm phục vụ hành chính công Ba Vì">
+        <address>Thôn Lặt, xã Ba Vì, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0947688683</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20L%E1%BA%B7t%2C%20x%C3%A3%20Ba%20V%C3%AC%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV098" ward="Vật Lại" name="Điểm phục vụ hành chính công Vật Lại">
+        <address>Thôn Vật Lại 3, xã Vật Lại, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0988146692</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20V%E1%BA%ADt%20L%E1%BA%A1i%203%2C%20x%C3%A3%20V%E1%BA%ADt%20L%E1%BA%A1i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV099" ward="Cổ Đô" name="Điểm phục vụ hành chính công Cổ Đô">
+        <address>Thôn Mai Trai, xã Cổ Đô, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912411880</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Mai%20Trai%2C%20x%C3%A3%20C%E1%BB%95%20%C4%90%C3%B4%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV100" ward="Bất Bạt" name="Điểm phục vụ hành chính công Bất Bạt">
+        <address>Thôn Đan Thê, xã Bất Bạt, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0915442477</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20%C4%90an%20Th%C3%AA%2C%20x%C3%A3%20B%E1%BA%A5t%20B%E1%BA%A1t%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV101" ward="Yên Bài" name="Điểm phục vụ hành chính công Yên Bài">
+        <address>Số 77, Thôn Bặn, xã Yên Bài, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0984307688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2077%2C%20Th%C3%B4n%20B%E1%BA%B7n%2C%20x%C3%A3%20Y%C3%AAn%20B%C3%A0i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV102" ward="Minh Châu" name="Điểm phục vụ hành chính công Minh Châu">
+        <address>Trụ sở Đảng ủy - HĐND - UBND xã Minh Châu, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0966865426</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Tr%E1%BB%A5%20s%E1%BB%9F%20%C4%90%E1%BA%A3ng%20%E1%BB%A7y%20-%20H%C4%90ND%20-%20UBND%20x%C3%A3%20Minh%20Ch%C3%A2u%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV103" ward="Suối Hai" name="Điểm phục vụ hành chính công Suối Hai">
+        <address>Thôn 5, xã Suối Hai, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0982371299</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%205%2C%20x%C3%A3%20Su%E1%BB%91i%20Hai%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV104" ward="Đan Phượng" name="Điểm phục vụ hành chính công Đan Phượng">
+        <address>Số 105 phố Tây Sơn, xã Đan Phượng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02433886384</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20105%20ph%E1%BB%91%20T%C3%A2y%20S%C6%A1n%2C%20x%C3%A3%20%C4%90an%20Ph%C6%B0%E1%BB%A3ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV105" ward="Liên Minh" name="Điểm phục vụ hành chính công Liên Minh">
+        <address>Số 121, đường Nam Sông Hồng, xã Liên Minh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0979571959</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20121%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Nam%20S%C3%B4ng%20H%E1%BB%93ng%2C%20x%C3%A3%20Li%C3%AAn%20Minh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV106" ward="Ô Diên" name="Điểm phục vụ hành chính công Ô Diên">
+        <address>Số 3 đường Phan Xích, xã Ô Diên, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0985560995</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%203%20%C4%91%C6%B0%E1%BB%9Dng%20Phan%20X%C3%ADch%2C%20x%C3%A3%20%C3%94%20Di%C3%AAn%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV107" ward="Gia Lâm" name="Điểm phục vụ hành chính công Gia Lâm">
+        <address>Số 3, đường Thuận An, xã Gia Lâm, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0354686688</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%203%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Thu%E1%BA%ADn%20An%2C%20x%C3%A3%20Gia%20L%C3%A2m%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV108" ward="Phù Đổng" name="Điểm phục vụ hành chính công Phù Đổng">
+        <address>Thôn Thượng, xã Phù Đổng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0915818698</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Th%C6%B0%E1%BB%A3ng%2C%20x%C3%A3%20Ph%C3%B9%20%C4%90%E1%BB%95ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV109" ward="Thuận An" name="Điểm phục vụ hành chính công Thuận An">
+        <address>Số 168 đường Dương Đức Hiền, xã Thuận An, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0963606668</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20168%20%C4%91%C6%B0%E1%BB%9Dng%20D%C6%B0%C6%A1ng%20%C4%90%E1%BB%A9c%20Hi%E1%BB%81n%2C%20x%C3%A3%20Thu%E1%BA%ADn%20An%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV110" ward="Bát Tràng" name="Điểm phục vụ hành chính công Bát Tràng">
+        <address>Đường Đa Tốn, xã Bát Tràng, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0238746511</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20%C4%90a%20T%E1%BB%91n%2C%20x%C3%A3%20B%C3%A1t%20Tr%C3%A0ng%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV111" ward="Hoài Đức" name="Điểm phục vụ hành chính công Hoài Đức">
+        <address>Trụ sở tiếp nhận gồm 02 trụ sở: 1. Trụ sở 1: Số 125, đường 422 xã Hoài Đức, thành phố Hà Nội (Bộ phận tiếp nhận và trả kết quả một cửa huyện Hoài Đức cũ): Tiếp nhận các TTHC lĩnh vực Tư pháp - Hộ tịch, Văn hóa - Xã hội. 2. Trụ sở 2: Số 242, đường Triệu Túc, thôn Lưu Xá, xã Hoài Đức, thành phố Hà Nội (Trụ sở Đảng ủy - HĐND - UBND xã Đức Giang cũ): Tiếp nhận các TTHC lĩnh vực Kinh tế - Hạ tầng.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02462602709</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Tr%E1%BB%A5%20s%E1%BB%9F%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20g%E1%BB%93m%2002%20tr%E1%BB%A5%20s%E1%BB%9F%3A%201.%20Tr%E1%BB%A5%20s%E1%BB%9F%201%3A%20S%E1%BB%91%20125%2C%20%C4%91%C6%B0%E1%BB%9Dng%20422%20x%C3%A3%20Ho%C3%A0i%20%C4%90%E1%BB%A9c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20%28B%E1%BB%99%20ph%E1%BA%ADn%20ti%E1%BA%BFp%20nh%E1%BA%ADn%20v%C3%A0%20tr%E1%BA%A3%20k%E1%BA%BFt%20qu%E1%BA%A3%20m%E1%BB%99t%20c%E1%BB%ADa%20huy%E1%BB%87n%20Ho%C3%A0i%20%C4%90%E1%BB%A9c%20c%C5%A9%29%3A%20Ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%C3%A1c%20TTHC%20l%C4%A9nh%20v%E1%BB%B1c%20T%C6%B0%20ph%C3%A1p%20-%20H%E1%BB%99%20t%E1%BB%8Bch%2C%20V%C4%83n%20h%C3%B3a%20-%20X%C3%A3%20h%E1%BB%99i.%202.%20Tr%E1%BB%A5%20s%E1%BB%9F%202%3A%20S%E1%BB%91%20242%2C%20%C4%91%C6%B0%E1%BB%9Dng%20Tri%E1%BB%87u%20T%C3%BAc%2C%20th%C3%B4n%20L%C6%B0u%20X%C3%A1%2C%20x%C3%A3%20Ho%C3%A0i%20%C4%90%E1%BB%A9c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20%28Tr%E1%BB%A5%20s%E1%BB%9F%20%C4%90%E1%BA%A3ng%20%E1%BB%A7y%20-%20H%C4%90ND%20-%20UBND%20x%C3%A3%20%C4%90%E1%BB%A9c%20Giang%20c%C5%A9%29%3A%20Ti%E1%BA%BFp%20nh%E1%BA%ADn%20c%C3%A1c%20TTHC%20l%C4%A9nh%20v%E1%BB%B1c%20Kinh%20t%E1%BA%BF%20-%20H%E1%BA%A1%20t%E1%BA%A7ng.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV112" ward="An Khánh" name="Điểm phục vụ hành chính công An Khánh">
+        <address>Thôn Vân Lũng, xã An Khánh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">02432939357</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20V%C3%A2n%20L%C5%A9ng%2C%20x%C3%A3%20An%20Kh%C3%A1nh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV113" ward="Dương Hoà" name="Điểm phục vụ hành chính công Dương Hoà">
+        <address>Số 42 đường Cát Quế, xã Dương Hoà, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0356242992</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2042%20%C4%91%C6%B0%E1%BB%9Dng%20C%C3%A1t%20Qu%E1%BA%BF%2C%20x%C3%A3%20D%C6%B0%C6%A1ng%20Ho%C3%A0%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV114" ward="Thư Lâm" name="Điểm phục vụ hành chính công Thư Lâm">
+        <address>UBND xã Liên Hà, thôn Hà Lỗ, xã Thư Lâm, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0367703196</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=UBND%20x%C3%A3%20Li%C3%AAn%20H%C3%A0%2C%20th%C3%B4n%20H%C3%A0%20L%E1%BB%97%2C%20x%C3%A3%20Th%C6%B0%20L%C3%A2m%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV115" ward="Vĩnh Thanh" name="Điểm phục vụ hành chính công Vĩnh Thanh">
+        <address>1. Trụ sở chính: đường Hải Bối, xã Vĩnh Thanh, Hà Nội (Tiếp nhận hồ sơ tất cả các lĩnh vực thuộc thẩm quyền giải quyết của UBND xã) 2. Điểm hỗ trợ 1: đường Tàm Xá, xã Vĩnh Thanh, Hà Nội 3. Điểm hỗ trợ 2: đường Cầu Ranh, xã Vĩnh Thanh, Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0976976968</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=1.%20Tr%E1%BB%A5%20s%E1%BB%9F%20ch%C3%ADnh%3A%20%C4%91%C6%B0%E1%BB%9Dng%20H%E1%BA%A3i%20B%E1%BB%91i%2C%20x%C3%A3%20V%C4%A9nh%20Thanh%2C%20H%C3%A0%20N%E1%BB%99i%20%28Ti%E1%BA%BFp%20nh%E1%BA%ADn%20h%E1%BB%93%20s%C6%A1%20t%E1%BA%A5t%20c%E1%BA%A3%20c%C3%A1c%20l%C4%A9nh%20v%E1%BB%B1c%20thu%E1%BB%99c%20th%E1%BA%A9m%20quy%E1%BB%81n%20gi%E1%BA%A3i%20quy%E1%BA%BFt%20c%E1%BB%A7a%20UBND%20x%C3%A3%29%202.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%201%3A%20%C4%91%C6%B0%E1%BB%9Dng%20T%C3%A0m%20X%C3%A1%2C%20x%C3%A3%20V%C4%A9nh%20Thanh%2C%20H%C3%A0%20N%E1%BB%99i%203.%20%C4%90i%E1%BB%83m%20h%E1%BB%97%20tr%E1%BB%A3%202%3A%20%C4%91%C6%B0%E1%BB%9Dng%20C%E1%BA%A7u%20Ranh%2C%20x%C3%A3%20V%C4%A9nh%20Thanh%2C%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV116" ward="Sóc Sơn" name="Điểm phục vụ hành chính công Sóc Sơn">
+        <address>Số 1 đường Núi Đôi, xã Sóc Sơn, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0975195289</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%20%C4%91%C6%B0%E1%BB%9Dng%20N%C3%BAi%20%C4%90%C3%B4i%2C%20x%C3%A3%20S%C3%B3c%20S%C6%A1n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV117" ward="Đa Phúc" name="Điểm phục vụ hành chính công Đa Phúc">
+        <address>Thôn Đức Hậu, xã Đa Phúc, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0962075125</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20%C4%90%E1%BB%A9c%20H%E1%BA%ADu%2C%20x%C3%A3%20%C4%90a%20Ph%C3%BAc%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV118" ward="Kim Anh" name="Điểm phục vụ hành chính công Kim Anh">
+        <address>Số 21 đường Uỷ ban, thôn Thắng Trí, Kim Anh, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0937411313</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%2021%20%C4%91%C6%B0%E1%BB%9Dng%20U%E1%BB%B7%20ban%2C%20th%C3%B4n%20Th%E1%BA%AFng%20Tr%C3%AD%2C%20Kim%20Anh%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV119" ward="Nội Bài" name="Điểm phục vụ hành chính công Nội Bài">
+        <address>Thôn Thanh Nhàn, xã Nội Bài, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0904182526</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Thanh%20Nh%C3%A0n%2C%20x%C3%A3%20N%E1%BB%99i%20B%C3%A0i%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV120" ward="Trung Giã" name="Điểm phục vụ hành chính công Trung Giã">
+        <address>Thôn 4 xã Trung Giã, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0912911297</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%204%20x%C3%A3%20Trung%20Gi%C3%A3%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV121" ward="Mỹ Đức" name="Điểm phục vụ hành chính công Mỹ Đức">
+        <address>Số 1, ngõ 285, đường Đại Đồng, thị trấn Đại Nghĩa, thành phố Hà Nội (Trụ sở UBND xã Mỹ Đức: số 2 phố Đại Đồng - Thị trấn Đại Nghĩa - huyện Mỹ Đức, thành phố Hà Nội)</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0968033177</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%201%2C%20ng%C3%B5%20285%2C%20%C4%91%C6%B0%E1%BB%9Dng%20%C4%90%E1%BA%A1i%20%C4%90%E1%BB%93ng%2C%20th%E1%BB%8B%20tr%E1%BA%A5n%20%C4%90%E1%BA%A1i%20Ngh%C4%A9a%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20%28Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20M%E1%BB%B9%20%C4%90%E1%BB%A9c%3A%20s%E1%BB%91%202%20ph%E1%BB%91%20%C4%90%E1%BA%A1i%20%C4%90%E1%BB%93ng%20-%20Th%E1%BB%8B%20tr%E1%BA%A5n%20%C4%90%E1%BA%A1i%20Ngh%C4%A9a%20-%20huy%E1%BB%87n%20M%E1%BB%B9%20%C4%90%E1%BB%A9c%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%29%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV122" ward="Hồng Sơn" name="Điểm phục vụ hành chính công Hồng Sơn">
+        <address>Đường Hồng Sơn, thôn Hạ Sở, xã Hồng Sơn, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0987075639</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=%C4%90%C6%B0%E1%BB%9Dng%20H%E1%BB%93ng%20S%C6%A1n%2C%20th%C3%B4n%20H%E1%BA%A1%20S%E1%BB%9F%2C%20x%C3%A3%20H%E1%BB%93ng%20S%C6%A1n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV123" ward="Hương Sơn" name="Điểm phục vụ hành chính công Hương Sơn">
+        <address>Thôn Đục Khê, xã Hương Sơn, thành phố Hà Nội (Trụ sở UBND xã Hương Sơn, số 98, thôn Đục Khê, xã Hương Sơn, huyện Mỹ Đức, Hà Nội cũ)</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0965162866</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20%C4%90%E1%BB%A5c%20Kh%C3%AA%2C%20x%C3%A3%20H%C6%B0%C6%A1ng%20S%C6%A1n%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i%20%28Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20H%C6%B0%C6%A1ng%20S%C6%A1n%2C%20s%E1%BB%91%2098%2C%20th%C3%B4n%20%C4%90%E1%BB%A5c%20Kh%C3%AA%2C%20x%C3%A3%20H%C6%B0%C6%A1ng%20S%C6%A1n%2C%20huy%E1%BB%87n%20M%E1%BB%B9%20%C4%90%E1%BB%A9c%2C%20H%C3%A0%20N%E1%BB%99i%20c%C5%A9%29%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV124" ward="Phúc Sơn" name="Điểm phục vụ hành chính công Phúc Sơn">
+        <address>Thôn Vĩnh Lạc, xã Phúc Sơn, Hà Nội (Trụ sở UBND xã Mỹ Xuyên, huyện Mỹ Đức, TP Hà Nội cũ)</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0978078917</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20V%C4%A9nh%20L%E1%BA%A1c%2C%20x%C3%A3%20Ph%C3%BAc%20S%C6%A1n%2C%20H%C3%A0%20N%E1%BB%99i%20%28Tr%E1%BB%A5%20s%E1%BB%9F%20UBND%20x%C3%A3%20M%E1%BB%B9%20Xuy%C3%AAn%2C%20huy%E1%BB%87n%20M%E1%BB%B9%20%C4%90%E1%BB%A9c%2C%20TP%20H%C3%A0%20N%E1%BB%99i%20c%C5%A9%29%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV125" ward="Chương Mỹ" name="Điểm phục vụ hành chính công Chương Mỹ">
+        <address>Số 115, Khu Bắc Sơn, thị trấn Chúc Sơn, huyện Chương Mỹ, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0914532500</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=S%E1%BB%91%20115%2C%20Khu%20B%E1%BA%AFc%20S%C6%A1n%2C%20th%E1%BB%8B%20tr%E1%BA%A5n%20Ch%C3%BAc%20S%C6%A1n%2C%20huy%E1%BB%87n%20Ch%C6%B0%C6%A1ng%20M%E1%BB%B9%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+    <agency id="DV126" ward="Hoà Phú" name="Điểm phục vụ hành chính công Hoà Phú">
+        <address>Thôn Hoà Xá, xã Hoà Phú, thành phố Hà Nội.</address>
+        <phone confidence="medium" source="diem-phuc-vu-hanh-chinh-cong-ha-noi">0976005519</phone>
+        <maps>https://www.google.com/maps/search/?api=1&amp;query=Th%C3%B4n%20Ho%C3%A0%20X%C3%A1%2C%20x%C3%A3%20Ho%C3%A0%20Ph%C3%BA%2C%20th%C3%A0nh%20ph%E1%BB%91%20H%C3%A0%20N%E1%BB%99i.%2C%20H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam</maps>
+    </agency>
+</agencies>
