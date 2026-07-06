@@ -1,0 +1,26 @@
+{
+  "name": "Call History Shipper",
+  "short_name": "Call History",
+  "description": "Website chính sách và hỗ trợ cho ứng dụng Android Call History Shipper.",
+  "lang": "vi-VN",
+  "start_url": "/call-history-site/",
+  "scope": "/call-history-site/",
+  "display": "standalone",
+  "background_color": "#f6f8f3",
+  "theme_color": "#14784f",
+  "icons": [
+    {
+      "src": "assets/icons/app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
+

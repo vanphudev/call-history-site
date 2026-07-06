@@ -25,6 +25,7 @@ html {
 
 body {
   margin: 0;
+  overflow-x: hidden;
   background: var(--paper);
   color: var(--ink);
   font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -97,10 +98,12 @@ a:hover {
   border-radius: 8px;
   display: grid;
   place-items: center;
-  background: var(--green);
-  color: white;
-  box-shadow: inset 0 -5px 0 rgba(0, 0, 0, 0.16);
-  font-size: 1rem;
+  border: 1px solid #d4ddd6;
+  background: #ffffff url("../icons/app-icon-64.png") center / 82% 82% no-repeat;
+  color: transparent;
+  box-shadow: 0 5px 14px rgba(23, 33, 27, 0.13);
+  font-size: 0;
+  overflow: hidden;
 }
 
 .brand-text {
@@ -127,6 +130,7 @@ a:hover {
   min-height: 38px;
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   padding: 0.45rem 0.65rem;
   border-radius: var(--radius);
   color: var(--ink);
@@ -167,12 +171,15 @@ a:hover {
   min-height: min(760px, calc(100vh - 68px));
   margin: 0 auto;
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   align-items: center;
   padding: 5.2rem 0 4.2rem;
 }
 
 .hero-copy {
-  width: min(650px, 100%);
+  width: 100%;
+  max-width: 650px;
+  min-width: 0;
   padding: 0;
 }
 
@@ -191,10 +198,12 @@ h3 {
   margin: 0;
   line-height: 1.08;
   letter-spacing: 0;
+  max-width: 100%;
+  overflow-wrap: anywhere;
 }
 
 h1 {
-  max-width: 11ch;
+  max-width: min(11ch, 100%);
   font-size: clamp(3rem, 8vw, 6.9rem);
 }
 
@@ -211,6 +220,7 @@ h3 {
   margin: 1.35rem 0 0;
   color: #314138;
   font-size: 1.13rem;
+  overflow-wrap: anywhere;
 }
 
 .hero-actions,
@@ -234,7 +244,13 @@ h3 {
   color: var(--ink);
   font-weight: 800;
   text-decoration: none;
+  text-align: center;
+  overflow-wrap: anywhere;
   box-shadow: 3px 3px 0 rgba(23, 33, 27, 0.16);
+}
+
+.doc-actions .button {
+  flex: 1 1 190px;
 }
 
 .button.primary {
@@ -448,16 +464,19 @@ h3 {
 .container {
   width: min(1160px, calc(100% - 32px));
   margin: 0 auto;
+  min-width: 0;
 }
 
 .section-head {
   max-width: 760px;
+  min-width: 0;
   margin-bottom: 2rem;
 }
 
 .section-head p {
   color: var(--muted);
   font-size: 1.05rem;
+  overflow-wrap: anywhere;
 }
 
 .feature-grid {
@@ -472,6 +491,7 @@ h3 {
   border-radius: var(--radius);
   background: var(--surface);
   padding: 1.2rem;
+  overflow-wrap: anywhere;
   box-shadow: 0 8px 22px rgba(23, 33, 27, 0.06);
 }
 
@@ -487,6 +507,7 @@ h3 {
 .footer-column p {
   margin: 0;
   color: var(--muted);
+  overflow-wrap: anywhere;
 }
 
 .feature-token {
@@ -548,6 +569,7 @@ h3 {
   color: var(--ink);
   font-weight: 850;
   text-decoration: none;
+  overflow-wrap: anywhere;
 }
 
 .policy-link span {
@@ -563,10 +585,12 @@ h3 {
 }
 
 .doc-hero p {
-  max-width: 780px;
+  width: 100%;
+  max-width: min(780px, 100%);
   margin: 1rem 0 0;
   color: #314138;
   font-size: 1.08rem;
+  overflow-wrap: anywhere;
 }
 
 .doc-meta {
@@ -589,6 +613,7 @@ h3 {
 .doc-layout {
   width: min(1000px, calc(100% - 32px));
   margin: 0 auto;
+  min-width: 0;
   padding: 3.6rem 0 5rem;
 }
 
@@ -614,6 +639,7 @@ h3 {
 .doc-section p,
 .doc-section li {
   color: #33433a;
+  overflow-wrap: anywhere;
 }
 
 .doc-section ul,
@@ -654,6 +680,7 @@ h3 {
   border-radius: var(--radius);
   background: var(--surface);
   padding: 1rem;
+  overflow-wrap: anywhere;
 }
 
 .contact-item strong {
@@ -713,13 +740,33 @@ h3 {
 
 @media (max-width: 980px) {
   .nav-shell {
-    align-items: flex-start;
-    flex-direction: column;
-    padding: 0.8rem 0;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    padding: 0.7rem 0 0.55rem;
+  }
+
+  .brand {
+    flex: 1 0 100%;
   }
 
   .site-nav {
+    width: 100%;
+    flex-wrap: nowrap;
     justify-content: flex-start;
+    overflow-x: auto;
+    padding: 0 0 0.2rem;
+    scrollbar-width: none;
+  }
+
+  .site-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .site-nav a {
+    flex: 0 0 auto;
+    min-height: 36px;
+    white-space: nowrap;
   }
 
   .hero,
@@ -728,7 +775,7 @@ h3 {
   }
 
   .hero-inner {
-    padding: 4rem 0 3rem;
+    padding: 3.4rem 0 2.8rem;
   }
 
   .device-field {
@@ -763,6 +810,10 @@ h3 {
 }
 
 @media (max-width: 680px) {
+  .nav-shell {
+    width: min(1160px, calc(100% - 22px));
+  }
+
   .site-nav a {
     padding-inline: 0.5rem;
     font-size: 0.88rem;
@@ -773,22 +824,23 @@ h3 {
   }
 
   .device-field {
-    height: 460px;
+    height: 390px;
+    margin-top: 1.35rem;
   }
 
   .phone {
-    width: 238px;
-    min-height: 476px;
+    width: 220px;
+    min-height: 440px;
     border-width: 8px;
   }
 
   .phone.side {
-    transform: scale(0.78) rotate(5deg);
-    right: -3%;
+    display: none;
   }
 
   .phone.main {
-    left: -2%;
+    left: 50%;
+    transform: translateX(-50%);
   }
 
   .feature-grid,
@@ -800,6 +852,18 @@ h3 {
 
   .section {
     padding: 4rem 0;
+  }
+
+  .doc-hero {
+    padding: 3.3rem 0 2.3rem;
+  }
+
+  .doc-layout {
+    padding: 2.5rem 0 3.6rem;
+  }
+
+  .doc-actions .button {
+    flex-basis: 100%;
   }
 }
 
@@ -817,13 +881,37 @@ h3 {
     font-size: 0.82rem;
   }
 
-  .phone.side {
-    display: none;
+  h1 {
+    font-size: clamp(2.45rem, 14vw, 3.35rem);
   }
 
-  .phone.main {
-    left: 50%;
-    transform: translateX(-50%);
+  .hero-inner {
+    width: min(1160px, calc(100% - 22px));
+    padding-top: 2.7rem;
+  }
+
+  .device-field {
+    height: 360px;
+  }
+
+  .phone {
+    width: 204px;
+    min-height: 408px;
+  }
+
+  .app-screen {
+    padding: 0.78rem;
+  }
+
+  .call-item {
+    grid-template-columns: 30px 1fr;
+  }
+
+  .call-time {
+    grid-column: 2;
+  }
+
+  .metric-row {
+    grid-template-columns: 1fr;
   }
 }
-
