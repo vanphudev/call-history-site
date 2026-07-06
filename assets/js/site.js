@@ -13,10 +13,17 @@ document.querySelectorAll("[data-year]").forEach((node) => {
 });
 
 /*
- * Nội dung pháp lý (Privacy / Terms) được tải từ data/legal.xml — NGUỒN DUY NHẤT dùng chung với ứng dụng
- * Android, để hai bên luôn đồng nhất. Trang chỉ cần đặt: <div class="doc-layout" data-legal="privacy"></div>
- * (hoặc data-legal="terms"). Nếu tải lỗi, container còn cờ data-legal-loading sẽ hiện thông báo nhẹ.
+ * Nội dung pháp lý (Privacy / Terms) — PROGRESSIVE ENHANCEMENT.
+ * Trang đã có sẵn nội dung TĨNH (đồng nhất với data/legal.xml, an toàn cho SEO / trình fetch không chạy JS).
+ * Khi có JS + mạng, hàm này tải data/legal.xml (NGUỒN DUY NHẤT dùng chung với ứng dụng Android) rồi thay
+ * nội dung tĩnh bằng bản mới nhất, đồng thời cập nhật ngày "Cập nhật lần cuối" từ thuộc tính updated.
+ * Nếu tải/tách lỗi → GIỮ NGUYÊN nội dung tĩnh (không xoá, không báo lỗi).
  */
+function formatLegalDate(raw) {
+  const m = (raw || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  return m ? m[3] + "/" + m[2] + "/" + m[1] : (raw || "");
+}
+
 async function renderLegal() {
   const container = document.querySelector("[data-legal]");
   if (!container) return;
@@ -67,20 +74,20 @@ async function renderLegal() {
       frag.appendChild(sec);
     });
 
-    container.removeAttribute("data-legal-loading");
-    container.textContent = "";
-    container.appendChild(frag);
-  } catch (err) {
-    // Chỉ thay khi container còn ở trạng thái "đang tải" (giữ nội dung dự phòng nếu có).
-    if (container.hasAttribute("data-legal-loading")) {
-      const sec = document.createElement("section");
-      sec.className = "doc-section";
-      const p = document.createElement("p");
-      p.textContent = "Không tải được nội dung. Vui lòng thử lại sau hoặc kiểm tra kết nối mạng.";
-      sec.appendChild(p);
+    // Chỉ thay khi có ít nhất 1 mục (tránh xoá sạch nội dung tĩnh nếu XML rỗng bất thường).
+    if (frag.childNodes.length > 0) {
       container.textContent = "";
-      container.appendChild(sec);
+      container.appendChild(frag);
     }
+
+    const updated = formatLegalDate(doc.getAttribute("updated"));
+    if (updated) {
+      document.querySelectorAll("[data-legal-updated]").forEach((el) => {
+        el.textContent = "Cập nhật lần cuối: " + updated;
+      });
+    }
+  } catch (err) {
+    // Giữ nguyên nội dung TĨNH đã có sẵn trên trang.
   }
 }
 
