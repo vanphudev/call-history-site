@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "app": "CallHS",
+  "updated": "2026-07-06",
+  "note": "Danh bạ cơ quan hành chính công / công an theo tỉnh, thành phố. Thông tin chỉ mang tính THAM KHẢO. App CallHS tải từng file XML dưới đây, lưu cache tại máy và làm mới tối đa 7 ngày/lần.",
+  "datasets": [
+    {
+      "key": "hanoi_hanhchinh",
+      "provinceKey": "hanoi",
+      "province": "Hà Nội",
+      "branch": "admin",
+      "category": "Cơ quan hành chính (Điểm phục vụ hành chính công cấp phường/xã)",
+      "file": "hanoi_hanhchinh.xml",
+      "updated": "2026-07-06",
+      "count": 126
+    },
+    {
+      "key": "hanoi_congan",
+      "provinceKey": "hanoi",
+      "province": "Hà Nội",
+      "branch": "police",
+      "category": "Cơ quan công an (Công an phường/xã)",
+      "file": "hanoi_congan.xml",
+      "updated": "2026-07-06",
+      "count": 126
+    },
+    {
+      "key": "hcm_hanhchinh",
+      "provinceKey": "hcm",
+      "province": "TP. Hồ Chí Minh",
+      "branch": "admin",
+      "category": "Cơ quan hành chính (Trung tâm phục vụ hành chính công cấp phường/xã)",
+      "file": "hcm_hanhchinh.xml",
+      "updated": "2026-07-06",
+      "count": 168
+    },
+    {
+      "key": "hcm_congan",
+      "provinceKey": "hcm",
+      "province": "TP. Hồ Chí Minh",
+      "branch": "police",
+      "category": "Cơ quan công an (Công an phường/xã)",
+      "file": "hcm_congan.xml",
+      "updated": "2026-07-06",
+      "count": 168
+    }
+  ]
+}
